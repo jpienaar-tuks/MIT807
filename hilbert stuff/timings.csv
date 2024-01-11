@@ -1,0 +1,97 @@
+sample_size,sampler,feature,avg(value)
+500,"Hilbert Curve",t.generation,0.0101776666668532
+500,"Latin Hypercube (hc)",t.generation,0.000375537499621714
+500,"Latin Hypercube (nn)",t.generation,0.000384974999936579
+500,"Latin Hypercube (rnd)",t.generation,0.000370224999793815
+500,"Hilbert Curve",t.ic.calculate,0.430044687499806
+500,"Latin Hypercube (hc)",t.ic.calculate,0.449387458333755
+500,"Latin Hypercube (nn)",t.ic.calculate,0.448204329166856
+500,"Latin Hypercube (rnd)",t.ic.calculate,0.433949466666945
+1000,"Hilbert Curve",t.generation,0.0227819833329098
+1000,"Latin Hypercube (hc)",t.generation,0.000563429166504648
+1000,"Latin Hypercube (nn)",t.generation,0.000557679166528639
+1000,"Latin Hypercube (rnd)",t.generation,0.000551770833074746
+1000,"Hilbert Curve",t.ic.calculate,0.791153587500351
+1000,"Latin Hypercube (hc)",t.ic.calculate,0.844689633333322
+1000,"Latin Hypercube (nn)",t.ic.calculate,0.809573333332992
+1000,"Latin Hypercube (rnd)",t.ic.calculate,0.788737033332836
+1580,"Hilbert Curve",t.generation,0.0289610125002279
+1580,"Latin Hypercube (hc)",t.generation,0.000494674999875618
+1580,"Latin Hypercube (nn)",t.generation,0.000501487500362904
+1580,"Latin Hypercube (rnd)",t.generation,0.000496937499974592
+1580,"Hilbert Curve",t.ic.calculate,1.22122840833345
+1580,"Latin Hypercube (hc)",t.ic.calculate,1.28073125000037
+1580,"Latin Hypercube (nn)",t.ic.calculate,1.19144994166663
+1580,"Latin Hypercube (rnd)",t.ic.calculate,1.20690909999985
+2000,"Hilbert Curve",t.generation,0.0612504416664403
+2000,"Latin Hypercube (hc)",t.generation,0.00125736249992769
+2000,"Latin Hypercube (nn)",t.generation,0.00126435416693009
+2000,"Latin Hypercube (rnd)",t.generation,0.00128486666638613
+2000,"Hilbert Curve",t.ic.calculate,1.50449813333338
+2000,"Latin Hypercube (hc)",t.ic.calculate,1.69813759583334
+2000,"Latin Hypercube (nn)",t.ic.calculate,2.50217167499962
+2000,"Latin Hypercube (rnd)",t.ic.calculate,1.50230397500036
+3000,"Hilbert Curve",t.generation,0.125429179166834
+3000,"Latin Hypercube (hc)",t.generation,0.00255504999995537
+3000,"Latin Hypercube (nn)",t.generation,0.00250726666672563
+3000,"Latin Hypercube (rnd)",t.generation,0.00257972916627599
+3000,"Hilbert Curve",t.ic.calculate,2.22494941666673
+3000,"Latin Hypercube (hc)",t.ic.calculate,2.64189752500018
+3000,"Latin Hypercube (nn)",t.ic.calculate,4.1441769541666
+3000,"Latin Hypercube (rnd)",t.ic.calculate,2.23025298750023
+3160,"Hilbert Curve",t.generation,0.0707179583335649
+3160,"Latin Hypercube (hc)",t.generation,0.00105668749984034
+3160,"Latin Hypercube (nn)",t.generation,0.00105154999982915
+3160,"Latin Hypercube (rnd)",t.generation,0.00105153750049188
+3160,"Hilbert Curve",t.ic.calculate,2.35524499583335
+3160,"Latin Hypercube (hc)",t.ic.calculate,2.53420532916683
+3160,"Latin Hypercube (nn)",t.ic.calculate,2.43795943750032
+3160,"Latin Hypercube (rnd)",t.ic.calculate,2.3433504416668
+5000,"Hilbert Curve",t.generation,0.0895180166668676
+5000,"Latin Hypercube (hc)",t.generation,0.000931620833853231
+5000,"Latin Hypercube (nn)",t.generation,0.000972104166218438
+5000,"Latin Hypercube (rnd)",t.generation,0.000973741666560576
+5000,"Hilbert Curve",t.ic.calculate,3.72457495416635
+5000,"Latin Hypercube (hc)",t.ic.calculate,3.91173132499989
+5000,"Latin Hypercube (nn)",t.ic.calculate,3.62564284166653
+5000,"Latin Hypercube (rnd)",t.ic.calculate,3.71021744999992
+6320,"Hilbert Curve",t.generation,0.192511737500202
+6320,"Latin Hypercube (hc)",t.generation,0.0031384833332595
+6320,"Latin Hypercube (nn)",t.generation,0.0030719083333679
+6320,"Latin Hypercube (rnd)",t.generation,0.00303276666681995
+6320,"Hilbert Curve",t.ic.calculate,4.61084917083326
+6320,"Latin Hypercube (hc)",t.ic.calculate,5.28700164166715
+6320,"Latin Hypercube (nn)",t.ic.calculate,8.26404343749967
+6320,"Latin Hypercube (rnd)",t.ic.calculate,4.60941104999984
+9480,"Hilbert Curve",t.generation,0.413828558333383
+9480,"Latin Hypercube (hc)",t.generation,0.00760168333332937
+9480,"Latin Hypercube (nn)",t.generation,0.00787021666625757
+9480,"Latin Hypercube (rnd)",t.generation,0.00748711249995419
+9480,"Hilbert Curve",t.ic.calculate,6.86002609583314
+9480,"Latin Hypercube (hc)",t.ic.calculate,8.31805596250009
+9480,"Latin Hypercube (nn)",t.ic.calculate,16.1699423750003
+9480,"Latin Hypercube (rnd)",t.ic.calculate,6.85490920416699
+10000,"Hilbert Curve",t.generation,0.219341587500215
+10000,"Latin Hypercube (hc)",t.generation,0.00259151249989979
+10000,"Latin Hypercube (nn)",t.generation,0.00252362083377496
+10000,"Latin Hypercube (rnd)",t.generation,0.00251459166611312
+10000,"Hilbert Curve",t.ic.calculate,7.31449334583325
+10000,"Latin Hypercube (hc)",t.ic.calculate,7.9497703708336
+10000,"Latin Hypercube (nn)",t.ic.calculate,8.55690359583377
+10000,"Latin Hypercube (rnd)",t.ic.calculate,7.2776348291668
+20000,"Hilbert Curve",t.generation,0.603891886956262
+20000,"Latin Hypercube (hc)",t.generation,0.0110210250002941
+20000,"Latin Hypercube (nn)",t.generation,0.0111276666675622
+20000,"Latin Hypercube (rnd)",t.generation,0.011025470833071
+20000,"Hilbert Curve",t.ic.calculate,14.7038778130436
+20000,"Latin Hypercube (hc)",t.ic.calculate,16.9171594750001
+20000,"Latin Hypercube (nn)",t.ic.calculate,36.3921519083333
+20000,"Latin Hypercube (rnd)",t.ic.calculate,14.5773788041667
+30000,"Hilbert Curve",t.generation,1.28750372916663
+30000,"Latin Hypercube (hc)",t.generation,0.0228955500003091
+30000,"Latin Hypercube (nn)",t.generation,0.0234900347830895
+30000,"Latin Hypercube (rnd)",t.generation,0.0246011333338174
+30000,"Hilbert Curve",t.ic.calculate,21.683250458332
+30000,"Latin Hypercube (hc)",t.ic.calculate,26.7076061541669
+30000,"Latin Hypercube (nn)",t.ic.calculate,71.842040995652
+30000,"Latin Hypercube (rnd)",t.ic.calculate,21.7978487625008

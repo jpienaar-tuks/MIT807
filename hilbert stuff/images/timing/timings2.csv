@@ -1,0 +1,2301 @@
+test_id,function,dimensions,sample_n,sampler,feature,value,n
+1,1,5,100,Latin Hypercube (nn),t.generation,0.0004140999990340788,500
+1,1,5,100,Latin Hypercube (nn),t.ic.calculate,0.3986038000002736,500
+2,2,5,100,Latin Hypercube (nn),t.generation,0.00037710000106017105,500
+2,2,5,100,Latin Hypercube (nn),t.ic.calculate,0.5397382000010111,500
+3,3,5,100,Latin Hypercube (nn),t.generation,0.0003744000023289118,500
+3,3,5,100,Latin Hypercube (nn),t.ic.calculate,0.4153662000026088,500
+4,4,5,100,Latin Hypercube (nn),t.generation,0.00037929999962216243,500
+4,4,5,100,Latin Hypercube (nn),t.ic.calculate,0.4288833999999042,500
+5,5,5,100,Latin Hypercube (nn),t.generation,0.00038019999919924885,500
+5,5,5,100,Latin Hypercube (nn),t.ic.calculate,0.40012189999833936,500
+6,6,5,100,Latin Hypercube (nn),t.generation,0.0005151000004843809,500
+6,6,5,100,Latin Hypercube (nn),t.ic.calculate,0.5030116999987513,500
+7,7,5,100,Latin Hypercube (nn),t.generation,0.00037710000106017105,500
+7,7,5,100,Latin Hypercube (nn),t.ic.calculate,0.43390960000033374,500
+8,8,5,100,Latin Hypercube (nn),t.generation,0.00037489999886020087,500
+8,8,5,100,Latin Hypercube (nn),t.ic.calculate,0.49087320000035106,500
+9,9,5,100,Latin Hypercube (nn),t.generation,0.00047569999878760427,500
+9,9,5,100,Latin Hypercube (nn),t.ic.calculate,0.4949698000018543,500
+10,10,5,100,Latin Hypercube (nn),t.generation,0.0003766999980143737,500
+10,10,5,100,Latin Hypercube (nn),t.ic.calculate,0.5554301999982272,500
+11,11,5,100,Latin Hypercube (nn),t.generation,0.0003761000007216353,500
+11,11,5,100,Latin Hypercube (nn),t.ic.calculate,0.5351793000008911,500
+12,12,5,100,Latin Hypercube (nn),t.generation,0.0003488000002107583,500
+12,12,5,100,Latin Hypercube (nn),t.ic.calculate,0.5758965999993961,500
+13,13,5,100,Latin Hypercube (nn),t.generation,0.00036840000029769726,500
+13,13,5,100,Latin Hypercube (nn),t.ic.calculate,0.4296036000014283,500
+14,14,5,100,Latin Hypercube (nn),t.generation,0.00034609999784152023,500
+14,14,5,100,Latin Hypercube (nn),t.ic.calculate,0.4061475000016799,500
+15,15,5,100,Latin Hypercube (nn),t.generation,0.00037630000224453397,500
+15,15,5,100,Latin Hypercube (nn),t.ic.calculate,0.4204417000000831,500
+16,16,5,100,Latin Hypercube (nn),t.generation,0.0003768999995372724,500
+16,16,5,100,Latin Hypercube (nn),t.ic.calculate,0.4252610999974422,500
+17,17,5,100,Latin Hypercube (nn),t.generation,0.00035289999868837185,500
+17,17,5,100,Latin Hypercube (nn),t.ic.calculate,0.4021568999996816,500
+18,18,5,100,Latin Hypercube (nn),t.generation,0.00034749999758787453,500
+18,18,5,100,Latin Hypercube (nn),t.ic.calculate,0.41465030000108527,500
+19,19,5,100,Latin Hypercube (nn),t.generation,0.0003705000017362181,500
+19,19,5,100,Latin Hypercube (nn),t.ic.calculate,0.39458709999962593,500
+20,20,5,100,Latin Hypercube (nn),t.generation,0.0003660000002128072,500
+20,20,5,100,Latin Hypercube (nn),t.ic.calculate,0.4795126999997592,500
+21,21,5,100,Latin Hypercube (nn),t.generation,0.00044329999946057796,500
+21,21,5,100,Latin Hypercube (nn),t.ic.calculate,0.4013477000007697,500
+22,22,5,100,Latin Hypercube (nn),t.generation,0.00037370000063674524,500
+22,22,5,100,Latin Hypercube (nn),t.ic.calculate,0.3889390000003914,500
+23,23,5,100,Latin Hypercube (nn),t.generation,0.0003727000002982095,500
+23,23,5,100,Latin Hypercube (nn),t.ic.calculate,0.41368040000088513,500
+24,24,5,100,Latin Hypercube (nn),t.generation,0.0003756000005523674,500
+24,24,5,100,Latin Hypercube (nn),t.ic.calculate,0.40859199999977136,500
+25,1,5,100,Latin Hypercube (hc),t.generation,0.00033970000004046597,500
+25,1,5,100,Latin Hypercube (hc),t.ic.calculate,0.4102671000000555,500
+26,2,5,100,Latin Hypercube (hc),t.generation,0.0003859999997075647,500
+26,2,5,100,Latin Hypercube (hc),t.ic.calculate,0.566766899999493,500
+27,3,5,100,Latin Hypercube (hc),t.generation,0.0003758999991987366,500
+27,3,5,100,Latin Hypercube (hc),t.ic.calculate,0.41172220000225934,500
+28,4,5,100,Latin Hypercube (hc),t.generation,0.00038859999767737463,500
+28,4,5,100,Latin Hypercube (hc),t.ic.calculate,0.43736600000192993,500
+29,5,5,100,Latin Hypercube (hc),t.generation,0.0003766000008909032,500
+29,5,5,100,Latin Hypercube (hc),t.ic.calculate,0.3946947000004002,500
+30,6,5,100,Latin Hypercube (hc),t.generation,0.0003606999998737592,500
+30,6,5,100,Latin Hypercube (hc),t.ic.calculate,0.5013903999970353,500
+31,7,5,100,Latin Hypercube (hc),t.generation,0.0003761000007216353,500
+31,7,5,100,Latin Hypercube (hc),t.ic.calculate,0.42568350000146893,500
+32,8,5,100,Latin Hypercube (hc),t.generation,0.0003819999983534217,500
+32,8,5,100,Latin Hypercube (hc),t.ic.calculate,0.4837076000003435,500
+33,9,5,100,Latin Hypercube (hc),t.generation,0.0003614999986893963,500
+33,9,5,100,Latin Hypercube (hc),t.ic.calculate,0.4916827999986708,500
+34,10,5,100,Latin Hypercube (hc),t.generation,0.00038249999852268957,500
+34,10,5,100,Latin Hypercube (hc),t.ic.calculate,0.5454718000000867,500
+35,11,5,100,Latin Hypercube (hc),t.generation,0.0003651000006357208,500
+35,11,5,100,Latin Hypercube (hc),t.ic.calculate,0.5354948000021977,500
+36,12,5,100,Latin Hypercube (hc),t.generation,0.00035429999843472615,500
+36,12,5,100,Latin Hypercube (hc),t.ic.calculate,0.5767498999994132,500
+37,13,5,100,Latin Hypercube (hc),t.generation,0.00038109999877633527,500
+37,13,5,100,Latin Hypercube (hc),t.ic.calculate,0.42645510000147624,500
+38,14,5,100,Latin Hypercube (hc),t.generation,0.00037739999970654026,500
+38,14,5,100,Latin Hypercube (hc),t.ic.calculate,0.40684540000074776,500
+39,15,5,100,Latin Hypercube (hc),t.generation,0.00042550000216579065,500
+39,15,5,100,Latin Hypercube (hc),t.ic.calculate,0.43693180000263965,500
+40,16,5,100,Latin Hypercube (hc),t.generation,0.0003987000018241815,500
+40,16,5,100,Latin Hypercube (hc),t.ic.calculate,0.4139723000007507,500
+41,17,5,100,Latin Hypercube (hc),t.generation,0.000387099997169571,500
+41,17,5,100,Latin Hypercube (hc),t.ic.calculate,0.4109114999992016,500
+42,18,5,100,Latin Hypercube (hc),t.generation,0.0003667999990284443,500
+42,18,5,100,Latin Hypercube (hc),t.ic.calculate,0.4200886000035098,500
+43,19,5,100,Latin Hypercube (hc),t.generation,0.0003346999983477872,500
+43,19,5,100,Latin Hypercube (hc),t.ic.calculate,0.4118845000011788,500
+44,20,5,100,Latin Hypercube (hc),t.generation,0.00036950000139768235,500
+44,20,5,100,Latin Hypercube (hc),t.ic.calculate,0.4868295999986003,500
+45,21,5,100,Latin Hypercube (hc),t.generation,0.0003752999982680194,500
+45,21,5,100,Latin Hypercube (hc),t.ic.calculate,0.3896243000017421,500
+46,22,5,100,Latin Hypercube (hc),t.generation,0.00037030000021331944,500
+46,22,5,100,Latin Hypercube (hc),t.ic.calculate,0.40159700000003795,500
+47,23,5,100,Latin Hypercube (hc),t.generation,0.0003987000018241815,500
+47,23,5,100,Latin Hypercube (hc),t.ic.calculate,0.3950552999995125,500
+48,24,5,100,Latin Hypercube (hc),t.generation,0.00037879999945289455,500
+48,24,5,100,Latin Hypercube (hc),t.ic.calculate,0.4041058999973757,500
+49,1,5,100,Latin Hypercube (rnd),t.generation,0.00035369999750400893,500
+49,1,5,100,Latin Hypercube (rnd),t.ic.calculate,0.3801028999987466,500
+50,2,5,100,Latin Hypercube (rnd),t.generation,0.00034869999944930896,500
+50,2,5,100,Latin Hypercube (rnd),t.ic.calculate,0.5272226999986742,500
+51,3,5,100,Latin Hypercube (rnd),t.generation,0.00037879999945289455,500
+51,3,5,100,Latin Hypercube (rnd),t.ic.calculate,0.4005438000021968,500
+52,4,5,100,Latin Hypercube (rnd),t.generation,0.0003720999993674923,500
+52,4,5,100,Latin Hypercube (rnd),t.ic.calculate,0.41223059999902034,500
+53,5,5,100,Latin Hypercube (rnd),t.generation,0.0003467999995336868,500
+53,5,5,100,Latin Hypercube (rnd),t.ic.calculate,0.39990820000093663,500
+54,6,5,100,Latin Hypercube (rnd),t.generation,0.0003371999991941266,500
+54,6,5,100,Latin Hypercube (rnd),t.ic.calculate,0.4782082999990962,500
+55,7,5,100,Latin Hypercube (rnd),t.generation,0.00036420000105863437,500
+55,7,5,100,Latin Hypercube (rnd),t.ic.calculate,0.4021993999995175,500
+56,8,5,100,Latin Hypercube (rnd),t.generation,0.00038750000021536835,500
+56,8,5,100,Latin Hypercube (rnd),t.ic.calculate,0.4590635000022303,500
+57,9,5,100,Latin Hypercube (rnd),t.generation,0.0003648999991128221,500
+57,9,5,100,Latin Hypercube (rnd),t.ic.calculate,0.47340799999801675,500
+58,10,5,100,Latin Hypercube (rnd),t.generation,0.00036920000275131315,500
+58,10,5,100,Latin Hypercube (rnd),t.ic.calculate,0.5340189000016835,500
+59,11,5,100,Latin Hypercube (rnd),t.generation,0.0003422999980102759,500
+59,11,5,100,Latin Hypercube (rnd),t.ic.calculate,0.5561944000000949,500
+60,12,5,100,Latin Hypercube (rnd),t.generation,0.00037259999953676015,500
+60,12,5,100,Latin Hypercube (rnd),t.ic.calculate,0.560458900003141,500
+61,13,5,100,Latin Hypercube (rnd),t.generation,0.00036729999919771217,500
+61,13,5,100,Latin Hypercube (rnd),t.ic.calculate,0.4231485000018438,500
+62,14,5,100,Latin Hypercube (rnd),t.generation,0.0003667999990284443,500
+62,14,5,100,Latin Hypercube (rnd),t.ic.calculate,0.4042259000016202,500
+63,15,5,100,Latin Hypercube (rnd),t.generation,0.0003612000000430271,500
+63,15,5,100,Latin Hypercube (rnd),t.ic.calculate,0.42094920000090497,500
+64,16,5,100,Latin Hypercube (rnd),t.generation,0.000370699999621138,500
+64,16,5,100,Latin Hypercube (rnd),t.ic.calculate,0.39719809999951394,500
+65,17,5,100,Latin Hypercube (rnd),t.generation,0.00036049999835086055,500
+65,17,5,100,Latin Hypercube (rnd),t.ic.calculate,0.3862632999989728,500
+66,18,5,100,Latin Hypercube (rnd),t.generation,0.00035199999911128543,500
+66,18,5,100,Latin Hypercube (rnd),t.ic.calculate,0.39325520000056713,500
+67,19,5,100,Latin Hypercube (rnd),t.generation,0.0003940999995393213,500
+67,19,5,100,Latin Hypercube (rnd),t.ic.calculate,0.4011599000004935,500
+68,20,5,100,Latin Hypercube (rnd),t.generation,0.00038069999936851673,500
+68,20,5,100,Latin Hypercube (rnd),t.ic.calculate,0.465881600001012,500
+69,21,5,100,Latin Hypercube (rnd),t.generation,0.00037680000241380185,500
+69,21,5,100,Latin Hypercube (rnd),t.ic.calculate,0.37088650000077905,500
+70,22,5,100,Latin Hypercube (rnd),t.generation,0.00045990000216988847,500
+70,22,5,100,Latin Hypercube (rnd),t.ic.calculate,0.39682579999862355,500
+71,23,5,100,Latin Hypercube (rnd),t.generation,0.000370699999621138,500
+71,23,5,100,Latin Hypercube (rnd),t.ic.calculate,0.3658636000000115,500
+72,24,5,100,Latin Hypercube (rnd),t.generation,0.00038670000139973126,500
+72,24,5,100,Latin Hypercube (rnd),t.ic.calculate,0.40556999999898835,500
+73,1,5,100,Hilbert Curve,t.generation,0.020963899998605484,500
+73,1,5,100,Hilbert Curve,t.ic.calculate,0.3845261999995273,500
+74,2,5,100,Hilbert Curve,t.generation,0.009826800000155345,500
+74,2,5,100,Hilbert Curve,t.ic.calculate,0.5224601000008988,500
+75,3,5,100,Hilbert Curve,t.generation,0.009531600000627805,500
+75,3,5,100,Hilbert Curve,t.ic.calculate,0.3975555999968492,500
+76,4,5,100,Hilbert Curve,t.generation,0.009650500000134343,500
+76,4,5,100,Hilbert Curve,t.ic.calculate,0.42403270000068005,500
+77,5,5,100,Hilbert Curve,t.generation,0.009469299999182113,500
+77,5,5,100,Hilbert Curve,t.ic.calculate,0.3818895000003977,500
+78,6,5,100,Hilbert Curve,t.generation,0.009657999999035383,500
+78,6,5,100,Hilbert Curve,t.ic.calculate,0.4752096000011079,500
+79,7,5,100,Hilbert Curve,t.generation,0.009569699999701697,500
+79,7,5,100,Hilbert Curve,t.ic.calculate,0.42243389999930514,500
+80,8,5,100,Hilbert Curve,t.generation,0.009575399999448564,500
+80,8,5,100,Hilbert Curve,t.ic.calculate,0.46447620000253664,500
+81,9,5,100,Hilbert Curve,t.generation,0.00983030000134022,500
+81,9,5,100,Hilbert Curve,t.ic.calculate,0.4654408999995212,500
+82,10,5,100,Hilbert Curve,t.generation,0.009618500000215136,500
+82,10,5,100,Hilbert Curve,t.ic.calculate,0.5214426999991701,500
+83,11,5,100,Hilbert Curve,t.generation,0.009777899998880457,500
+83,11,5,100,Hilbert Curve,t.ic.calculate,0.5196277999966696,500
+84,12,5,100,Hilbert Curve,t.generation,0.009822600000916282,500
+84,12,5,100,Hilbert Curve,t.ic.calculate,0.5606956000010541,500
+85,13,5,100,Hilbert Curve,t.generation,0.009817099999054335,500
+85,13,5,100,Hilbert Curve,t.ic.calculate,0.4164859999982582,500
+86,14,5,100,Hilbert Curve,t.generation,0.009620199998607859,500
+86,14,5,100,Hilbert Curve,t.ic.calculate,0.40054679999957443,500
+87,15,5,100,Hilbert Curve,t.generation,0.010106700003234437,500
+87,15,5,100,Hilbert Curve,t.ic.calculate,0.40858529999968596,500
+88,16,5,100,Hilbert Curve,t.generation,0.009884299997793278,500
+88,16,5,100,Hilbert Curve,t.ic.calculate,0.4074478000002273,500
+89,17,5,100,Hilbert Curve,t.generation,0.009450099998502992,500
+89,17,5,100,Hilbert Curve,t.ic.calculate,0.3881148000000394,500
+90,18,5,100,Hilbert Curve,t.generation,0.009663800003181677,500
+90,18,5,100,Hilbert Curve,t.ic.calculate,0.3944721000007121,500
+91,19,5,100,Hilbert Curve,t.generation,0.009461199999350356,500
+91,19,5,100,Hilbert Curve,t.ic.calculate,0.38105629999699886,500
+92,20,5,100,Hilbert Curve,t.generation,0.009669900002336362,500
+92,20,5,100,Hilbert Curve,t.ic.calculate,0.4614718000011635,500
+93,21,5,100,Hilbert Curve,t.generation,0.009647000002587447,500
+93,21,5,100,Hilbert Curve,t.ic.calculate,0.3753748999988602,500
+94,22,5,100,Hilbert Curve,t.generation,0.009837300000071991,500
+94,22,5,100,Hilbert Curve,t.ic.calculate,0.38358100000186823,500
+95,23,5,100,Hilbert Curve,t.generation,0.00999020000017481,500
+95,23,5,100,Hilbert Curve,t.ic.calculate,0.3744336999989173,500
+96,24,5,100,Hilbert Curve,t.generation,0.009821700001339195,500
+96,24,5,100,Hilbert Curve,t.ic.calculate,0.3897112000013294,500
+97,1,5,316,Latin Hypercube (nn),t.generation,0.0005219000013312325,1580
+97,1,5,316,Latin Hypercube (nn),t.ic.calculate,1.0339305000015884,1580
+98,2,5,316,Latin Hypercube (nn),t.generation,0.0005071999985375442,1580
+98,2,5,316,Latin Hypercube (nn),t.ic.calculate,1.4566331999994873,1580
+99,3,5,316,Latin Hypercube (nn),t.generation,0.000487600002088584,1580
+99,3,5,316,Latin Hypercube (nn),t.ic.calculate,1.1044523999989906,1580
+100,4,5,316,Latin Hypercube (nn),t.generation,0.00045509999836212955,1580
+100,4,5,316,Latin Hypercube (nn),t.ic.calculate,1.2205643000015698,1580
+101,5,5,316,Latin Hypercube (nn),t.generation,0.000525200000993209,1580
+101,5,5,316,Latin Hypercube (nn),t.ic.calculate,1.0354111999986344,1580
+102,6,5,316,Latin Hypercube (nn),t.generation,0.0006009999997331761,1580
+102,6,5,316,Latin Hypercube (nn),t.ic.calculate,1.3351056999999855,1580
+103,7,5,316,Latin Hypercube (nn),t.generation,0.00046949999887146987,1580
+103,7,5,316,Latin Hypercube (nn),t.ic.calculate,1.1460149999984424,1580
+104,8,5,316,Latin Hypercube (nn),t.generation,0.0005041000003984664,1580
+104,8,5,316,Latin Hypercube (nn),t.ic.calculate,1.3161199999995006,1580
+105,9,5,316,Latin Hypercube (nn),t.generation,0.000521500001923414,1580
+105,9,5,316,Latin Hypercube (nn),t.ic.calculate,1.3247362000001885,1580
+106,10,5,316,Latin Hypercube (nn),t.generation,0.0005135999999765772,1580
+106,10,5,316,Latin Hypercube (nn),t.ic.calculate,1.4906991999996535,1580
+107,11,5,316,Latin Hypercube (nn),t.generation,0.00047679999988758937,1580
+107,11,5,316,Latin Hypercube (nn),t.ic.calculate,1.4856825999995635,1580
+108,12,5,316,Latin Hypercube (nn),t.generation,0.00045529999988502823,1580
+108,12,5,316,Latin Hypercube (nn),t.ic.calculate,1.6836419999999634,1580
+109,13,5,316,Latin Hypercube (nn),t.generation,0.00051059999896097,1580
+109,13,5,316,Latin Hypercube (nn),t.ic.calculate,1.1311922000022605,1580
+110,14,5,316,Latin Hypercube (nn),t.generation,0.0004411000008985866,1580
+110,14,5,316,Latin Hypercube (nn),t.ic.calculate,1.0590881999996782,1580
+111,15,5,316,Latin Hypercube (nn),t.generation,0.000536600000486942,1580
+111,15,5,316,Latin Hypercube (nn),t.ic.calculate,1.1310747999996238,1580
+112,16,5,316,Latin Hypercube (nn),t.generation,0.0005082000025140587,1580
+112,16,5,316,Latin Hypercube (nn),t.ic.calculate,1.031609199999366,1580
+113,17,5,316,Latin Hypercube (nn),t.generation,0.0004958999998052604,1580
+113,17,5,316,Latin Hypercube (nn),t.ic.calculate,1.0593716000003042,1580
+114,18,5,316,Latin Hypercube (nn),t.generation,0.0005063000025984365,1580
+114,18,5,316,Latin Hypercube (nn),t.ic.calculate,1.091523800001596,1580
+115,19,5,316,Latin Hypercube (nn),t.generation,0.0005037000009906478,1580
+115,19,5,316,Latin Hypercube (nn),t.ic.calculate,1.0518097000021953,1580
+116,20,5,316,Latin Hypercube (nn),t.generation,0.0004440000011527445,1580
+116,20,5,316,Latin Hypercube (nn),t.ic.calculate,1.2880221999985224,1580
+117,21,5,316,Latin Hypercube (nn),t.generation,0.0005292999994708225,1580
+117,21,5,316,Latin Hypercube (nn),t.ic.calculate,1.0216951000002155,1580
+118,22,5,316,Latin Hypercube (nn),t.generation,0.0005074000000604428,1580
+118,22,5,316,Latin Hypercube (nn),t.ic.calculate,1.009598199998436,1580
+119,23,5,316,Latin Hypercube (nn),t.generation,0.0005151999976078514,1580
+119,23,5,316,Latin Hypercube (nn),t.ic.calculate,1.0329592000016419,1580
+120,24,5,316,Latin Hypercube (nn),t.generation,0.0004986000021744985,1580
+120,24,5,316,Latin Hypercube (nn),t.ic.calculate,1.0538620999977866,1580
+121,1,5,316,Latin Hypercube (hc),t.generation,0.0005087999998067971,1580
+121,1,5,316,Latin Hypercube (hc),t.ic.calculate,1.1237715999995999,1580
+122,2,5,316,Latin Hypercube (hc),t.generation,0.0005025999998906627,1580
+122,2,5,316,Latin Hypercube (hc),t.ic.calculate,1.573310700001457,1580
+123,3,5,316,Latin Hypercube (hc),t.generation,0.000507200002175523,1580
+123,3,5,316,Latin Hypercube (hc),t.ic.calculate,1.182998200001748,1580
+124,4,5,316,Latin Hypercube (hc),t.generation,0.0004791000028490089,1580
+124,4,5,316,Latin Hypercube (hc),t.ic.calculate,1.2379777999994985,1580
+125,5,5,316,Latin Hypercube (hc),t.generation,0.0004937000012432691,1580
+125,5,5,316,Latin Hypercube (hc),t.ic.calculate,1.124168300000747,1580
+126,6,5,316,Latin Hypercube (hc),t.generation,0.00044519999937620014,1580
+126,6,5,316,Latin Hypercube (hc),t.ic.calculate,1.4380650999992213,1580
+127,7,5,316,Latin Hypercube (hc),t.generation,0.0005541000027733389,1580
+127,7,5,316,Latin Hypercube (hc),t.ic.calculate,1.2303810999983398,1580
+128,8,5,316,Latin Hypercube (hc),t.generation,0.00046329999895533547,1580
+128,8,5,316,Latin Hypercube (hc),t.ic.calculate,1.382692600000155,1580
+129,9,5,316,Latin Hypercube (hc),t.generation,0.0005233999982010573,1580
+129,9,5,316,Latin Hypercube (hc),t.ic.calculate,1.4467633000022033,1580
+130,10,5,316,Latin Hypercube (hc),t.generation,0.0004607999981089961,1580
+130,10,5,316,Latin Hypercube (hc),t.ic.calculate,1.5622680000014952,1580
+131,11,5,316,Latin Hypercube (hc),t.generation,0.0004399999997986015,1580
+131,11,5,316,Latin Hypercube (hc),t.ic.calculate,1.5663499000002048,1580
+132,12,5,316,Latin Hypercube (hc),t.generation,0.000527299998793751,1580
+132,12,5,316,Latin Hypercube (hc),t.ic.calculate,1.6668738999978814,1580
+133,13,5,316,Latin Hypercube (hc),t.generation,0.0005141999972693156,1580
+133,13,5,316,Latin Hypercube (hc),t.ic.calculate,1.2272217999998247,1580
+134,14,5,316,Latin Hypercube (hc),t.generation,0.0004398000019136816,1580
+134,14,5,316,Latin Hypercube (hc),t.ic.calculate,1.1601510000000417,1580
+135,15,5,316,Latin Hypercube (hc),t.generation,0.0004971999987901654,1580
+135,15,5,316,Latin Hypercube (hc),t.ic.calculate,1.222456700001203,1580
+136,16,5,316,Latin Hypercube (hc),t.generation,0.0005035999965912197,1580
+136,16,5,316,Latin Hypercube (hc),t.ic.calculate,1.166423800001212,1580
+137,17,5,316,Latin Hypercube (hc),t.generation,0.0005369999998947605,1580
+137,17,5,316,Latin Hypercube (hc),t.ic.calculate,1.132484800000384,1580
+138,18,5,316,Latin Hypercube (hc),t.generation,0.00043759999971371144,1580
+138,18,5,316,Latin Hypercube (hc),t.ic.calculate,1.1892745999975887,1580
+139,19,5,316,Latin Hypercube (hc),t.generation,0.0005820000005769543,1580
+139,19,5,316,Latin Hypercube (hc),t.ic.calculate,1.1707086999995227,1580
+140,20,5,316,Latin Hypercube (hc),t.generation,0.0005216999998083338,1580
+140,20,5,316,Latin Hypercube (hc),t.ic.calculate,1.3840874999987136,1580
+141,21,5,316,Latin Hypercube (hc),t.generation,0.0005033999987062998,1580
+141,21,5,316,Latin Hypercube (hc),t.ic.calculate,1.1170743000002403,1580
+142,22,5,316,Latin Hypercube (hc),t.generation,0.0005061000010755379,1580
+142,22,5,316,Latin Hypercube (hc),t.ic.calculate,1.087301400002616,1580
+143,23,5,316,Latin Hypercube (hc),t.generation,0.0004681999998865649,1580
+143,23,5,316,Latin Hypercube (hc),t.ic.calculate,1.1047777000021597,1580
+144,24,5,316,Latin Hypercube (hc),t.generation,0.00045590000081574544,1580
+144,24,5,316,Latin Hypercube (hc),t.ic.calculate,1.2399672000028659,1580
+145,1,5,316,Latin Hypercube (rnd),t.generation,0.0005230999995546881,1580
+145,1,5,316,Latin Hypercube (rnd),t.ic.calculate,1.057018399998924,1580
+146,2,5,316,Latin Hypercube (rnd),t.generation,0.0004957999990438111,1580
+146,2,5,316,Latin Hypercube (rnd),t.ic.calculate,1.5070629000001645,1580
+147,3,5,316,Latin Hypercube (rnd),t.generation,0.00044830000115325674,1580
+147,3,5,316,Latin Hypercube (rnd),t.ic.calculate,1.1152791999993497,1580
+148,4,5,316,Latin Hypercube (rnd),t.generation,0.0005094000007375143,1580
+148,4,5,316,Latin Hypercube (rnd),t.ic.calculate,1.1769927000023017,1580
+149,5,5,316,Latin Hypercube (rnd),t.generation,0.0005057000016677193,1580
+149,5,5,316,Latin Hypercube (rnd),t.ic.calculate,1.0673744000014267,1580
+150,6,5,316,Latin Hypercube (rnd),t.generation,0.0004434000002220273,1580
+150,6,5,316,Latin Hypercube (rnd),t.ic.calculate,1.362075699998968,1580
+151,7,5,316,Latin Hypercube (rnd),t.generation,0.0005094000007375143,1580
+151,7,5,316,Latin Hypercube (rnd),t.ic.calculate,1.152037100000598,1580
+152,8,5,316,Latin Hypercube (rnd),t.generation,0.0004953999996359926,1580
+152,8,5,316,Latin Hypercube (rnd),t.ic.calculate,1.3195011999996495,1580
+153,9,5,316,Latin Hypercube (rnd),t.generation,0.0004894000012427568,1580
+153,9,5,316,Latin Hypercube (rnd),t.ic.calculate,1.3175897000000987,1580
+154,10,5,316,Latin Hypercube (rnd),t.generation,0.0005147999982000329,1580
+154,10,5,316,Latin Hypercube (rnd),t.ic.calculate,1.511510400003317,1580
+155,11,5,316,Latin Hypercube (rnd),t.generation,0.000500300000567222,1580
+155,11,5,316,Latin Hypercube (rnd),t.ic.calculate,1.5085265999987314,1580
+156,12,5,316,Latin Hypercube (rnd),t.generation,0.0005056999980297405,1580
+156,12,5,316,Latin Hypercube (rnd),t.ic.calculate,1.614554899999348,1580
+157,13,5,316,Latin Hypercube (rnd),t.generation,0.0004571999998006504,1580
+157,13,5,316,Latin Hypercube (rnd),t.ic.calculate,1.1628887000006216,1580
+158,14,5,316,Latin Hypercube (rnd),t.generation,0.0005034999994677491,1580
+158,14,5,316,Latin Hypercube (rnd),t.ic.calculate,1.1210750999998709,1580
+159,15,5,316,Latin Hypercube (rnd),t.generation,0.00046350000047823414,1580
+159,15,5,316,Latin Hypercube (rnd),t.ic.calculate,1.1679919000016525,1580
+160,16,5,316,Latin Hypercube (rnd),t.generation,0.000525699997524498,1580
+160,16,5,316,Latin Hypercube (rnd),t.ic.calculate,1.0786893000004056,1580
+161,17,5,316,Latin Hypercube (rnd),t.generation,0.0005151000004843809,1580
+161,17,5,316,Latin Hypercube (rnd),t.ic.calculate,1.0650939999977709,1580
+162,18,5,316,Latin Hypercube (rnd),t.generation,0.0005197999998927116,1580
+162,18,5,316,Latin Hypercube (rnd),t.ic.calculate,1.1125198999980057,1580
+163,19,5,316,Latin Hypercube (rnd),t.generation,0.0004666999993787613,1580
+163,19,5,316,Latin Hypercube (rnd),t.ic.calculate,1.06999359999827,1580
+164,20,5,316,Latin Hypercube (rnd),t.generation,0.0005315000016707927,1580
+164,20,5,316,Latin Hypercube (rnd),t.ic.calculate,1.3264402999993763,1580
+165,21,5,316,Latin Hypercube (rnd),t.generation,0.0004958999998052604,1580
+165,21,5,316,Latin Hypercube (rnd),t.ic.calculate,1.03181019999829,1580
+166,22,5,316,Latin Hypercube (rnd),t.generation,0.0005037000009906478,1580
+166,22,5,316,Latin Hypercube (rnd),t.ic.calculate,1.0229738999987603,1580
+167,23,5,316,Latin Hypercube (rnd),t.generation,0.0005165999973542057,1580
+167,23,5,316,Latin Hypercube (rnd),t.ic.calculate,1.020980299999792,1580
+168,24,5,316,Latin Hypercube (rnd),t.generation,0.00048660000175004825,1580
+168,24,5,316,Latin Hypercube (rnd),t.ic.calculate,1.0758380000006582,1580
+169,1,5,316,Hilbert Curve,t.generation,0.028996400000323774,1580
+169,1,5,316,Hilbert Curve,t.ic.calculate,1.0802953999991587,1580
+170,2,5,316,Hilbert Curve,t.generation,0.0290097999968566,1580
+170,2,5,316,Hilbert Curve,t.ic.calculate,1.5115454000006139,1580
+171,3,5,316,Hilbert Curve,t.generation,0.028574600000865757,1580
+171,3,5,316,Hilbert Curve,t.ic.calculate,1.1475636000031955,1580
+172,4,5,316,Hilbert Curve,t.generation,0.029201400000602007,1580
+172,4,5,316,Hilbert Curve,t.ic.calculate,1.21645720000015,1580
+173,5,5,316,Hilbert Curve,t.generation,0.028989399997954024,1580
+173,5,5,316,Hilbert Curve,t.ic.calculate,1.06376249999812,1580
+174,6,5,316,Hilbert Curve,t.generation,0.028880699999717763,1580
+174,6,5,316,Hilbert Curve,t.ic.calculate,1.3725862999999663,1580
+175,7,5,316,Hilbert Curve,t.generation,0.029078899999149144,1580
+175,7,5,316,Hilbert Curve,t.ic.calculate,1.1560487000024295,1580
+176,8,5,316,Hilbert Curve,t.generation,0.029218100000434788,1580
+176,8,5,316,Hilbert Curve,t.ic.calculate,1.3342062000010628,1580
+177,9,5,316,Hilbert Curve,t.generation,0.028597799999261042,1580
+177,9,5,316,Hilbert Curve,t.ic.calculate,1.3350537000005716,1580
+178,10,5,316,Hilbert Curve,t.generation,0.02886190000208444,1580
+178,10,5,316,Hilbert Curve,t.ic.calculate,1.5159877000005508,1580
+179,11,5,316,Hilbert Curve,t.generation,0.028977400001167553,1580
+179,11,5,316,Hilbert Curve,t.ic.calculate,1.5167424000028404,1580
+180,12,5,316,Hilbert Curve,t.generation,0.02963580000141519,1580
+180,12,5,316,Hilbert Curve,t.ic.calculate,1.6140684999991208,1580
+181,13,5,316,Hilbert Curve,t.generation,0.028810799998609582,1580
+181,13,5,316,Hilbert Curve,t.ic.calculate,1.16681079999762,1580
+182,14,5,316,Hilbert Curve,t.generation,0.028831600000557955,1580
+182,14,5,316,Hilbert Curve,t.ic.calculate,1.0975518000013835,1580
+183,15,5,316,Hilbert Curve,t.generation,0.02914299999974901,1580
+183,15,5,316,Hilbert Curve,t.ic.calculate,1.1886779999986175,1580
+184,16,5,316,Hilbert Curve,t.generation,0.028785599999537226,1580
+184,16,5,316,Hilbert Curve,t.ic.calculate,1.1152551000013773,1580
+185,17,5,316,Hilbert Curve,t.generation,0.02914950000194949,1580
+185,17,5,316,Hilbert Curve,t.ic.calculate,1.0760586999967927,1580
+186,18,5,316,Hilbert Curve,t.generation,0.02878640000199084,1580
+186,18,5,316,Hilbert Curve,t.ic.calculate,1.1260790000014822,1580
+187,19,5,316,Hilbert Curve,t.generation,0.029001300001255004,1580
+187,19,5,316,Hilbert Curve,t.ic.calculate,1.0754266999974789,1580
+188,20,5,316,Hilbert Curve,t.generation,0.028866100001323503,1580
+188,20,5,316,Hilbert Curve,t.ic.calculate,1.3188416000011784,1580
+189,21,5,316,Hilbert Curve,t.generation,0.028969800001505064,1580
+189,21,5,316,Hilbert Curve,t.ic.calculate,1.0688019000008353,1580
+190,22,5,316,Hilbert Curve,t.generation,0.028904999999213032,1580
+190,22,5,316,Hilbert Curve,t.ic.calculate,1.0526533999982348,1580
+191,23,5,316,Hilbert Curve,t.generation,0.028851600000052713,1580
+191,23,5,316,Hilbert Curve,t.ic.calculate,1.060412399998313,1580
+192,24,5,316,Hilbert Curve,t.generation,0.028941399999894202,1580
+192,24,5,316,Hilbert Curve,t.ic.calculate,1.0985948000015924,1580
+193,1,5,1000,Latin Hypercube (nn),t.generation,0.0009845999993558507,5000
+193,1,5,1000,Latin Hypercube (nn),t.ic.calculate,3.187723499999265,5000
+194,2,5,1000,Latin Hypercube (nn),t.generation,0.0009437999979127198,5000
+194,2,5,1000,Latin Hypercube (nn),t.ic.calculate,4.529655300000741,5000
+195,3,5,1000,Latin Hypercube (nn),t.generation,0.001036599998769816,5000
+195,3,5,1000,Latin Hypercube (nn),t.ic.calculate,3.3602768999990076,5000
+196,4,5,1000,Latin Hypercube (nn),t.generation,0.001050899998517707,5000
+196,4,5,1000,Latin Hypercube (nn),t.ic.calculate,3.5327926999998454,5000
+197,5,5,1000,Latin Hypercube (nn),t.generation,0.0009011000001919456,5000
+197,5,5,1000,Latin Hypercube (nn),t.ic.calculate,3.1335940999997547,5000
+198,6,5,1000,Latin Hypercube (nn),t.generation,0.0009935999987646937,5000
+198,6,5,1000,Latin Hypercube (nn),t.ic.calculate,4.085496499999863,5000
+199,7,5,1000,Latin Hypercube (nn),t.generation,0.000829099997645244,5000
+199,7,5,1000,Latin Hypercube (nn),t.ic.calculate,3.448096300002362,5000
+200,8,5,1000,Latin Hypercube (nn),t.generation,0.0010340999979234766,5000
+200,8,5,1000,Latin Hypercube (nn),t.ic.calculate,4.001617300000362,5000
+201,9,5,1000,Latin Hypercube (nn),t.generation,0.0009926000020641368,5000
+201,9,5,1000,Latin Hypercube (nn),t.ic.calculate,4.004111300000659,5000
+202,10,5,1000,Latin Hypercube (nn),t.generation,0.00099209999825689,5000
+202,10,5,1000,Latin Hypercube (nn),t.ic.calculate,4.509429800000362,5000
+203,11,5,1000,Latin Hypercube (nn),t.generation,0.0009582999991835095,5000
+203,11,5,1000,Latin Hypercube (nn),t.ic.calculate,4.540633399999933,5000
+204,12,5,1000,Latin Hypercube (nn),t.generation,0.0010059999985969625,5000
+204,12,5,1000,Latin Hypercube (nn),t.ic.calculate,4.847904099999141,5000
+205,13,5,1000,Latin Hypercube (nn),t.generation,0.0009673000022303313,5000
+205,13,5,1000,Latin Hypercube (nn),t.ic.calculate,3.480208799999673,5000
+206,14,5,1000,Latin Hypercube (nn),t.generation,0.0009380000010423828,5000
+206,14,5,1000,Latin Hypercube (nn),t.ic.calculate,3.279582599996502,5000
+207,15,5,1000,Latin Hypercube (nn),t.generation,0.0009626999999454711,5000
+207,15,5,1000,Latin Hypercube (nn),t.ic.calculate,3.4868989000024158,5000
+208,16,5,1000,Latin Hypercube (nn),t.generation,0.0010876000014832243,5000
+208,16,5,1000,Latin Hypercube (nn),t.ic.calculate,3.3330643999979657,5000
+209,17,5,1000,Latin Hypercube (nn),t.generation,0.0009781000007933471,5000
+209,17,5,1000,Latin Hypercube (nn),t.ic.calculate,3.190100599997095,5000
+210,18,5,1000,Latin Hypercube (nn),t.generation,0.0009872000009636395,5000
+210,18,5,1000,Latin Hypercube (nn),t.ic.calculate,3.3634653000008257,5000
+211,19,5,1000,Latin Hypercube (nn),t.generation,0.0009230999967257958,5000
+211,19,5,1000,Latin Hypercube (nn),t.ic.calculate,3.1624377999978606,5000
+212,20,5,1000,Latin Hypercube (nn),t.generation,0.0010301000002073124,5000
+212,20,5,1000,Latin Hypercube (nn),t.ic.calculate,3.923247099999571,5000
+213,21,5,1000,Latin Hypercube (nn),t.generation,0.0008941000014601741,5000
+213,21,5,1000,Latin Hypercube (nn),t.ic.calculate,3.143513000002713,5000
+214,22,5,1000,Latin Hypercube (nn),t.generation,0.0010640000000421423,5000
+214,22,5,1000,Latin Hypercube (nn),t.ic.calculate,3.0511863000028825,5000
+215,23,5,1000,Latin Hypercube (nn),t.generation,0.0009312999973190017,5000
+215,23,5,1000,Latin Hypercube (nn),t.ic.calculate,3.1711304999989807,5000
+216,24,5,1000,Latin Hypercube (nn),t.generation,0.0008441999998467509,5000
+216,24,5,1000,Latin Hypercube (nn),t.ic.calculate,3.249261699998897,5000
+217,1,5,1000,Latin Hypercube (hc),t.generation,0.0009801000014704186,5000
+217,1,5,1000,Latin Hypercube (hc),t.ic.calculate,3.435928099999728,5000
+218,2,5,1000,Latin Hypercube (hc),t.generation,0.0009811000018089544,5000
+218,2,5,1000,Latin Hypercube (hc),t.ic.calculate,4.804008799997973,5000
+219,3,5,1000,Latin Hypercube (hc),t.generation,0.0008420000012847595,5000
+219,3,5,1000,Latin Hypercube (hc),t.ic.calculate,3.6364505999990797,5000
+220,4,5,1000,Latin Hypercube (hc),t.generation,0.0008266000004368834,5000
+220,4,5,1000,Latin Hypercube (hc),t.ic.calculate,3.8132676999994146,5000
+221,5,5,1000,Latin Hypercube (hc),t.generation,0.0009771000004548114,5000
+221,5,5,1000,Latin Hypercube (hc),t.ic.calculate,3.426016699999309,5000
+222,6,5,1000,Latin Hypercube (hc),t.generation,0.0008675999997649342,5000
+222,6,5,1000,Latin Hypercube (hc),t.ic.calculate,4.3875109999971755,5000
+223,7,5,1000,Latin Hypercube (hc),t.generation,0.0008788999984972179,5000
+223,7,5,1000,Latin Hypercube (hc),t.ic.calculate,3.738866200001212,5000
+224,8,5,1000,Latin Hypercube (hc),t.generation,0.0009408000005350914,5000
+224,8,5,1000,Latin Hypercube (hc),t.ic.calculate,4.28169379999963,5000
+225,9,5,1000,Latin Hypercube (hc),t.generation,0.0007813000011083204,5000
+225,9,5,1000,Latin Hypercube (hc),t.ic.calculate,4.305691500001558,5000
+226,10,5,1000,Latin Hypercube (hc),t.generation,0.00101619999986724,5000
+226,10,5,1000,Latin Hypercube (hc),t.ic.calculate,4.861009299998841,5000
+227,11,5,1000,Latin Hypercube (hc),t.generation,0.0009104000018851366,5000
+227,11,5,1000,Latin Hypercube (hc),t.ic.calculate,4.801613900002849,5000
+228,12,5,1000,Latin Hypercube (hc),t.generation,0.000862000000779517,5000
+228,12,5,1000,Latin Hypercube (hc),t.ic.calculate,5.133254799999122,5000
+229,13,5,1000,Latin Hypercube (hc),t.generation,0.0009559999998600688,5000
+229,13,5,1000,Latin Hypercube (hc),t.ic.calculate,3.7483951000031084,5000
+230,14,5,1000,Latin Hypercube (hc),t.generation,0.0010905999988608528,5000
+230,14,5,1000,Latin Hypercube (hc),t.ic.calculate,3.5617249999995693,5000
+231,15,5,1000,Latin Hypercube (hc),t.generation,0.0008956000019679777,5000
+231,15,5,1000,Latin Hypercube (hc),t.ic.calculate,3.750298999999359,5000
+232,16,5,1000,Latin Hypercube (hc),t.generation,0.0009344999998575076,5000
+232,16,5,1000,Latin Hypercube (hc),t.ic.calculate,3.5942462000020896,5000
+233,17,5,1000,Latin Hypercube (hc),t.generation,0.0009859000019787345,5000
+233,17,5,1000,Latin Hypercube (hc),t.ic.calculate,3.476103199998761,5000
+234,18,5,1000,Latin Hypercube (hc),t.generation,0.0009288000001106411,5000
+234,18,5,1000,Latin Hypercube (hc),t.ic.calculate,3.641624799998681,5000
+235,19,5,1000,Latin Hypercube (hc),t.generation,0.0009446000003663357,5000
+235,19,5,1000,Latin Hypercube (hc),t.ic.calculate,3.4967213999989326,5000
+236,20,5,1000,Latin Hypercube (hc),t.generation,0.0009477999992668629,5000
+236,20,5,1000,Latin Hypercube (hc),t.ic.calculate,4.2414141000008385,5000
+237,21,5,1000,Latin Hypercube (hc),t.generation,0.0009289000008720905,5000
+237,21,5,1000,Latin Hypercube (hc),t.ic.calculate,3.4238791999996465,5000
+238,22,5,1000,Latin Hypercube (hc),t.generation,0.0009124999996856786,5000
+238,22,5,1000,Latin Hypercube (hc),t.ic.calculate,3.340824500002782,5000
+239,23,5,1000,Latin Hypercube (hc),t.generation,0.0011186000010638963,5000
+239,23,5,1000,Latin Hypercube (hc),t.ic.calculate,3.4449998999989475,5000
+240,24,5,1000,Latin Hypercube (hc),t.generation,0.0008510000006936025,5000
+240,24,5,1000,Latin Hypercube (hc),t.ic.calculate,3.53600699999879,5000
+241,1,5,1000,Latin Hypercube (rnd),t.generation,0.0010223000026599038,5000
+241,1,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.2084317000008014,5000
+242,2,5,1000,Latin Hypercube (rnd),t.generation,0.0009031999979924876,5000
+242,2,5,1000,Latin Hypercube (rnd),t.ic.calculate,4.631655799999862,5000
+243,3,5,1000,Latin Hypercube (rnd),t.generation,0.0008841000017127953,5000
+243,3,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.3933290999993915,5000
+244,4,5,1000,Latin Hypercube (rnd),t.generation,0.0009499000007053837,5000
+244,4,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.587148700000398,5000
+245,5,5,1000,Latin Hypercube (rnd),t.generation,0.0010608000011416152,5000
+245,5,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.2743001000017102,5000
+246,6,5,1000,Latin Hypercube (rnd),t.generation,0.0009390999985043891,5000
+246,6,5,1000,Latin Hypercube (rnd),t.ic.calculate,4.183036400001583,5000
+247,7,5,1000,Latin Hypercube (rnd),t.generation,0.0009866000000329223,5000
+247,7,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.508145899999363,5000
+248,8,5,1000,Latin Hypercube (rnd),t.generation,0.0012032000013277866,5000
+248,8,5,1000,Latin Hypercube (rnd),t.ic.calculate,4.073019999999815,5000
+249,9,5,1000,Latin Hypercube (rnd),t.generation,0.0010084000023198314,5000
+249,9,5,1000,Latin Hypercube (rnd),t.ic.calculate,4.071306300000288,5000
+250,10,5,1000,Latin Hypercube (rnd),t.generation,0.0008809999999357387,5000
+250,10,5,1000,Latin Hypercube (rnd),t.ic.calculate,4.657648499996867,5000
+251,11,5,1000,Latin Hypercube (rnd),t.generation,0.0010003999996115454,5000
+251,11,5,1000,Latin Hypercube (rnd),t.ic.calculate,4.647922899999685,5000
+252,12,5,1000,Latin Hypercube (rnd),t.generation,0.0008744000006117858,5000
+252,12,5,1000,Latin Hypercube (rnd),t.ic.calculate,4.975650000000314,5000
+253,13,5,1000,Latin Hypercube (rnd),t.generation,0.0009929999978339765,5000
+253,13,5,1000,Latin Hypercube (rnd),t.ic.calculate,4.024159500000678,5000
+254,14,5,1000,Latin Hypercube (rnd),t.generation,0.0009190999990096316,5000
+254,14,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.380054500001279,5000
+255,15,5,1000,Latin Hypercube (rnd),t.generation,0.000844999998662388,5000
+255,15,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.568063599999732,5000
+256,16,5,1000,Latin Hypercube (rnd),t.generation,0.0009264999971492216,5000
+256,16,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.270715399998153,5000
+257,17,5,1000,Latin Hypercube (rnd),t.generation,0.0008644999979878776,5000
+257,17,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.258169499997166,5000
+258,18,5,1000,Latin Hypercube (rnd),t.generation,0.0014544000005116686,5000
+258,18,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.392293900000368,5000
+259,19,5,1000,Latin Hypercube (rnd),t.generation,0.0008778999981586821,5000
+259,19,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.2419652999997197,5000
+260,20,5,1000,Latin Hypercube (rnd),t.generation,0.0009991000006266404,5000
+260,20,5,1000,Latin Hypercube (rnd),t.ic.calculate,4.07112490000145,5000
+261,21,5,1000,Latin Hypercube (rnd),t.generation,0.001010100000712555,5000
+261,21,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.146958600002108,5000
+262,22,5,1000,Latin Hypercube (rnd),t.generation,0.0009470000004512258,5000
+262,22,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.083760199999233,5000
+263,23,5,1000,Latin Hypercube (rnd),t.generation,0.0009432000006199814,5000
+263,23,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.1198488000009093,5000
+264,24,5,1000,Latin Hypercube (rnd),t.generation,0.0008765999991737772,5000
+264,24,5,1000,Latin Hypercube (rnd),t.ic.calculate,3.2765091999972356,5000
+265,1,5,1000,Hilbert Curve,t.generation,0.09036610000111978,5000
+265,1,5,1000,Hilbert Curve,t.ic.calculate,3.2478092000019387,5000
+266,2,5,1000,Hilbert Curve,t.generation,0.08877679999932298,5000
+266,2,5,1000,Hilbert Curve,t.ic.calculate,4.610228699999425,5000
+267,3,5,1000,Hilbert Curve,t.generation,0.08938689999922644,5000
+267,3,5,1000,Hilbert Curve,t.ic.calculate,3.4543214999976044,5000
+268,4,5,1000,Hilbert Curve,t.generation,0.08984269999928074,5000
+268,4,5,1000,Hilbert Curve,t.ic.calculate,3.627087400000164,5000
+269,5,5,1000,Hilbert Curve,t.generation,0.09029029999874183,5000
+269,5,5,1000,Hilbert Curve,t.ic.calculate,3.234662099999696,5000
+270,6,5,1000,Hilbert Curve,t.generation,0.0876548999985971,5000
+270,6,5,1000,Hilbert Curve,t.ic.calculate,4.1562282999984745,5000
+271,7,5,1000,Hilbert Curve,t.generation,0.08973519999926793,5000
+271,7,5,1000,Hilbert Curve,t.ic.calculate,3.529410800001642,5000
+272,8,5,1000,Hilbert Curve,t.generation,0.0893316000001505,5000
+272,8,5,1000,Hilbert Curve,t.ic.calculate,4.0833114000015485,5000
+273,9,5,1000,Hilbert Curve,t.generation,0.0898127000000386,5000
+273,9,5,1000,Hilbert Curve,t.ic.calculate,4.120039599998563,5000
+274,10,5,1000,Hilbert Curve,t.generation,0.08972080000239657,5000
+274,10,5,1000,Hilbert Curve,t.ic.calculate,4.64369109999825,5000
+275,11,5,1000,Hilbert Curve,t.generation,0.09162060000016936,5000
+275,11,5,1000,Hilbert Curve,t.ic.calculate,4.665731699999014,5000
+276,12,5,1000,Hilbert Curve,t.generation,0.09211660000073607,5000
+276,12,5,1000,Hilbert Curve,t.ic.calculate,4.954171099998348,5000
+277,13,5,1000,Hilbert Curve,t.generation,0.08985320000283537,5000
+277,13,5,1000,Hilbert Curve,t.ic.calculate,3.607191099999909,5000
+278,14,5,1000,Hilbert Curve,t.generation,0.08971849999943515,5000
+278,14,5,1000,Hilbert Curve,t.ic.calculate,3.3647799999998824,5000
+279,15,5,1000,Hilbert Curve,t.generation,0.0890720000024885,5000
+279,15,5,1000,Hilbert Curve,t.ic.calculate,3.541170399999828,5000
+280,16,5,1000,Hilbert Curve,t.generation,0.09058400000139954,5000
+280,16,5,1000,Hilbert Curve,t.ic.calculate,3.418334000001778,5000
+281,17,5,1000,Hilbert Curve,t.generation,0.08896119999917573,5000
+281,17,5,1000,Hilbert Curve,t.ic.calculate,3.2983343999985664,5000
+282,18,5,1000,Hilbert Curve,t.generation,0.08924169999954756,5000
+282,18,5,1000,Hilbert Curve,t.ic.calculate,3.438209600000846,5000
+283,19,5,1000,Hilbert Curve,t.generation,0.08886770000026445,5000
+283,19,5,1000,Hilbert Curve,t.ic.calculate,3.295999199999642,5000
+284,20,5,1000,Hilbert Curve,t.generation,0.08818070000052103,5000
+284,20,5,1000,Hilbert Curve,t.ic.calculate,4.03703139999925,5000
+285,21,5,1000,Hilbert Curve,t.generation,0.08885830000144779,5000
+285,21,5,1000,Hilbert Curve,t.ic.calculate,3.2650656000005256,5000
+286,22,5,1000,Hilbert Curve,t.generation,0.08931999999913387,5000
+286,22,5,1000,Hilbert Curve,t.ic.calculate,3.1827768000002834,5000
+287,23,5,1000,Hilbert Curve,t.generation,0.08915829999750713,5000
+287,23,5,1000,Hilbert Curve,t.ic.calculate,3.25840529999914,5000
+288,24,5,1000,Hilbert Curve,t.generation,0.0879616000020178,5000
+288,24,5,1000,Hilbert Curve,t.ic.calculate,3.355808199998137,5000
+289,1,10,100,Latin Hypercube (nn),t.generation,0.0005955999986326788,1000
+289,1,10,100,Latin Hypercube (nn),t.ic.calculate,0.7093073000032746,1000
+290,2,10,100,Latin Hypercube (nn),t.generation,0.0005691000005754177,1000
+290,2,10,100,Latin Hypercube (nn),t.ic.calculate,1.0052313000014692,1000
+291,3,10,100,Latin Hypercube (nn),t.generation,0.0006009999997331761,1000
+291,3,10,100,Latin Hypercube (nn),t.ic.calculate,0.749272099998052,1000
+292,4,10,100,Latin Hypercube (nn),t.generation,0.0005483999993884936,1000
+292,4,10,100,Latin Hypercube (nn),t.ic.calculate,0.7953616000013426,1000
+293,5,10,100,Latin Hypercube (nn),t.generation,0.0005214000011619646,1000
+293,5,10,100,Latin Hypercube (nn),t.ic.calculate,0.7130182000000787,1000
+294,6,10,100,Latin Hypercube (nn),t.generation,0.0005603999998129439,1000
+294,6,10,100,Latin Hypercube (nn),t.ic.calculate,0.9101756000018213,1000
+295,7,10,100,Latin Hypercube (nn),t.generation,0.0005619000003207475,1000
+295,7,10,100,Latin Hypercube (nn),t.ic.calculate,0.7854348000000755,1000
+296,8,10,100,Latin Hypercube (nn),t.generation,0.0005105000018374994,1000
+296,8,10,100,Latin Hypercube (nn),t.ic.calculate,0.8985692999995081,1000
+297,9,10,100,Latin Hypercube (nn),t.generation,0.0005915999972785357,1000
+297,9,10,100,Latin Hypercube (nn),t.ic.calculate,0.9045335999981035,1000
+298,10,10,100,Latin Hypercube (nn),t.generation,0.0005907999984628987,1000
+298,10,10,100,Latin Hypercube (nn),t.ic.calculate,1.0079745999973966,1000
+299,11,10,100,Latin Hypercube (nn),t.generation,0.0005758000006608199,1000
+299,11,10,100,Latin Hypercube (nn),t.ic.calculate,0.9983479000002262,1000
+300,12,10,100,Latin Hypercube (nn),t.generation,0.0004971999987901654,1000
+300,12,10,100,Latin Hypercube (nn),t.ic.calculate,1.0798746000000392,1000
+301,13,10,100,Latin Hypercube (nn),t.generation,0.0005090000013296958,1000
+301,13,10,100,Latin Hypercube (nn),t.ic.calculate,0.7718680999969365,1000
+302,14,10,100,Latin Hypercube (nn),t.generation,0.0006174000009195879,1000
+302,14,10,100,Latin Hypercube (nn),t.ic.calculate,0.7384435000021767,1000
+303,15,10,100,Latin Hypercube (nn),t.generation,0.0005111999998916872,1000
+303,15,10,100,Latin Hypercube (nn),t.ic.calculate,0.77941009999995,1000
+304,16,10,100,Latin Hypercube (nn),t.generation,0.0005764999987150077,1000
+304,16,10,100,Latin Hypercube (nn),t.ic.calculate,0.7400514999972074,1000
+305,17,10,100,Latin Hypercube (nn),t.generation,0.000583500001084758,1000
+305,17,10,100,Latin Hypercube (nn),t.ic.calculate,0.7254538999986835,1000
+306,18,10,100,Latin Hypercube (nn),t.generation,0.0005845000014232937,1000
+306,18,10,100,Latin Hypercube (nn),t.ic.calculate,0.7697228999968502,1000
+307,19,10,100,Latin Hypercube (nn),t.generation,0.0005442999972729012,1000
+307,19,10,100,Latin Hypercube (nn),t.ic.calculate,0.7338511999987531,1000
+308,20,10,100,Latin Hypercube (nn),t.generation,0.0005244000021775719,1000
+308,20,10,100,Latin Hypercube (nn),t.ic.calculate,0.8839626000008138,1000
+309,21,10,100,Latin Hypercube (nn),t.generation,0.0005830000009154901,1000
+309,21,10,100,Latin Hypercube (nn),t.ic.calculate,0.6725865000007616,1000
+310,22,10,100,Latin Hypercube (nn),t.generation,0.0005894999994779937,1000
+310,22,10,100,Latin Hypercube (nn),t.ic.calculate,0.6478930999983277,1000
+311,23,10,100,Latin Hypercube (nn),t.generation,0.0005359999995562248,1000
+311,23,10,100,Latin Hypercube (nn),t.ic.calculate,0.6818377999989025,1000
+312,24,10,100,Latin Hypercube (nn),t.generation,0.000501299997267779,1000
+312,24,10,100,Latin Hypercube (nn),t.ic.calculate,0.7275779000010516,1000
+313,1,10,100,Latin Hypercube (hc),t.generation,0.0005510000009962823,1000
+313,1,10,100,Latin Hypercube (hc),t.ic.calculate,0.7449908999988111,1000
+314,2,10,100,Latin Hypercube (hc),t.generation,0.0005595000002358574,1000
+314,2,10,100,Latin Hypercube (hc),t.ic.calculate,1.036276300001191,1000
+315,3,10,100,Latin Hypercube (hc),t.generation,0.0005816999982926063,1000
+315,3,10,100,Latin Hypercube (hc),t.ic.calculate,0.7960415999987163,1000
+316,4,10,100,Latin Hypercube (hc),t.generation,0.0005223999978625216,1000
+316,4,10,100,Latin Hypercube (hc),t.ic.calculate,0.83026880000034,1000
+317,5,10,100,Latin Hypercube (hc),t.generation,0.0005653000007441733,1000
+317,5,10,100,Latin Hypercube (hc),t.ic.calculate,0.7627972000009322,1000
+318,6,10,100,Latin Hypercube (hc),t.generation,0.0005411999991338234,1000
+318,6,10,100,Latin Hypercube (hc),t.ic.calculate,0.9553520000008575,1000
+319,7,10,100,Latin Hypercube (hc),t.generation,0.0006017000014253426,1000
+319,7,10,100,Latin Hypercube (hc),t.ic.calculate,0.8152292000013404,1000
+320,8,10,100,Latin Hypercube (hc),t.generation,0.0006656999976257794,1000
+320,8,10,100,Latin Hypercube (hc),t.ic.calculate,0.9416161000008287,1000
+321,9,10,100,Latin Hypercube (hc),t.generation,0.0005658999980369117,1000
+321,9,10,100,Latin Hypercube (hc),t.ic.calculate,0.9327852000023995,1000
+322,10,10,100,Latin Hypercube (hc),t.generation,0.0005784999993920792,1000
+322,10,10,100,Latin Hypercube (hc),t.ic.calculate,1.0383223999997426,1000
+323,11,10,100,Latin Hypercube (hc),t.generation,0.0006084999986342154,1000
+323,11,10,100,Latin Hypercube (hc),t.ic.calculate,1.0237110999987635,1000
+324,12,10,100,Latin Hypercube (hc),t.generation,0.0005768000009993557,1000
+324,12,10,100,Latin Hypercube (hc),t.ic.calculate,1.12529110000105,1000
+325,13,10,100,Latin Hypercube (hc),t.generation,0.0005729999975301325,1000
+325,13,10,100,Latin Hypercube (hc),t.ic.calculate,0.8072156999987783,1000
+326,14,10,100,Latin Hypercube (hc),t.generation,0.0005468000017572194,1000
+326,14,10,100,Latin Hypercube (hc),t.ic.calculate,0.7757679999995162,1000
+327,15,10,100,Latin Hypercube (hc),t.generation,0.0005898000017623417,1000
+327,15,10,100,Latin Hypercube (hc),t.ic.calculate,0.8040564000002632,1000
+328,16,10,100,Latin Hypercube (hc),t.generation,0.0004974000003130641,1000
+328,16,10,100,Latin Hypercube (hc),t.ic.calculate,0.7496980000032636,1000
+329,17,10,100,Latin Hypercube (hc),t.generation,0.0005032000008213799,1000
+329,17,10,100,Latin Hypercube (hc),t.ic.calculate,0.7621137999994971,1000
+330,18,10,100,Latin Hypercube (hc),t.generation,0.0005746999995608348,1000
+330,18,10,100,Latin Hypercube (hc),t.ic.calculate,0.7951202000003832,1000
+331,19,10,100,Latin Hypercube (hc),t.generation,0.0006374000004143454,1000
+331,19,10,100,Latin Hypercube (hc),t.ic.calculate,0.7558239999998477,1000
+332,20,10,100,Latin Hypercube (hc),t.generation,0.0005630999985442031,1000
+332,20,10,100,Latin Hypercube (hc),t.ic.calculate,0.9247366999989026,1000
+333,21,10,100,Latin Hypercube (hc),t.generation,0.0004993000002286863,1000
+333,21,10,100,Latin Hypercube (hc),t.ic.calculate,0.7122544999983802,1000
+334,22,10,100,Latin Hypercube (hc),t.generation,0.0005166000009921845,1000
+334,22,10,100,Latin Hypercube (hc),t.ic.calculate,0.6975624000006064,1000
+335,23,10,100,Latin Hypercube (hc),t.generation,0.0005571000001509674,1000
+335,23,10,100,Latin Hypercube (hc),t.ic.calculate,0.712876799996593,1000
+336,24,10,100,Latin Hypercube (hc),t.generation,0.0005457000006572343,1000
+336,24,10,100,Latin Hypercube (hc),t.ic.calculate,0.7726427999987209,1000
+337,1,10,100,Latin Hypercube (rnd),t.generation,0.0004932000010740012,1000
+337,1,10,100,Latin Hypercube (rnd),t.ic.calculate,0.6937018999997235,1000
+338,2,10,100,Latin Hypercube (rnd),t.generation,0.0005579999997280538,1000
+338,2,10,100,Latin Hypercube (rnd),t.ic.calculate,0.9809294000006048,1000
+339,3,10,100,Latin Hypercube (rnd),t.generation,0.0005786000001535285,1000
+339,3,10,100,Latin Hypercube (rnd),t.ic.calculate,0.7325066999983392,1000
+340,4,10,100,Latin Hypercube (rnd),t.generation,0.0005612999993900303,1000
+340,4,10,100,Latin Hypercube (rnd),t.ic.calculate,0.7742766999981541,1000
+341,5,10,100,Latin Hypercube (rnd),t.generation,0.0005273999995552003,1000
+341,5,10,100,Latin Hypercube (rnd),t.ic.calculate,0.6961271000000124,1000
+342,6,10,100,Latin Hypercube (rnd),t.generation,0.0005679999994754326,1000
+342,6,10,100,Latin Hypercube (rnd),t.ic.calculate,0.8936515999994299,1000
+343,7,10,100,Latin Hypercube (rnd),t.generation,0.0005486000009113923,1000
+343,7,10,100,Latin Hypercube (rnd),t.ic.calculate,0.7599602999980561,1000
+344,8,10,100,Latin Hypercube (rnd),t.generation,0.0005634000008285511,1000
+344,8,10,100,Latin Hypercube (rnd),t.ic.calculate,0.8848202999979549,1000
+345,9,10,100,Latin Hypercube (rnd),t.generation,0.0005548999979509972,1000
+345,9,10,100,Latin Hypercube (rnd),t.ic.calculate,0.8820626000015181,1000
+346,10,10,100,Latin Hypercube (rnd),t.generation,0.0005891999971936457,1000
+346,10,10,100,Latin Hypercube (rnd),t.ic.calculate,0.9871034999996482,1000
+347,11,10,100,Latin Hypercube (rnd),t.generation,0.0005426999996416271,1000
+347,11,10,100,Latin Hypercube (rnd),t.ic.calculate,0.9651455999992322,1000
+348,12,10,100,Latin Hypercube (rnd),t.generation,0.0005010999993828591,1000
+348,12,10,100,Latin Hypercube (rnd),t.ic.calculate,1.0974128000016208,1000
+349,13,10,100,Latin Hypercube (rnd),t.generation,0.0005875999995623715,1000
+349,13,10,100,Latin Hypercube (rnd),t.ic.calculate,0.7540755000009085,1000
+350,14,10,100,Latin Hypercube (rnd),t.generation,0.0005775999998149928,1000
+350,14,10,100,Latin Hypercube (rnd),t.ic.calculate,0.7209363000001758,1000
+351,15,10,100,Latin Hypercube (rnd),t.generation,0.0004865000009885989,1000
+351,15,10,100,Latin Hypercube (rnd),t.ic.calculate,0.7513193999984651,1000
+352,16,10,100,Latin Hypercube (rnd),t.generation,0.000567600000067614,1000
+352,16,10,100,Latin Hypercube (rnd),t.ic.calculate,0.6890333000010287,1000
+353,17,10,100,Latin Hypercube (rnd),t.generation,0.0005664000018441584,1000
+353,17,10,100,Latin Hypercube (rnd),t.ic.calculate,0.7143714000012551,1000
+354,18,10,100,Latin Hypercube (rnd),t.generation,0.000525999999808846,1000
+354,18,10,100,Latin Hypercube (rnd),t.ic.calculate,0.7405827999973553,1000
+355,19,10,100,Latin Hypercube (rnd),t.generation,0.0005605000005743932,1000
+355,19,10,100,Latin Hypercube (rnd),t.ic.calculate,0.6866181999976106,1000
+356,20,10,100,Latin Hypercube (rnd),t.generation,0.0005915999972785357,1000
+356,20,10,100,Latin Hypercube (rnd),t.ic.calculate,0.8854019999998854,1000
+357,21,10,100,Latin Hypercube (rnd),t.generation,0.0005663000010827091,1000
+357,21,10,100,Latin Hypercube (rnd),t.ic.calculate,0.6454744000002393,1000
+358,22,10,100,Latin Hypercube (rnd),t.generation,0.000531300000147894,1000
+358,22,10,100,Latin Hypercube (rnd),t.ic.calculate,0.6269286999995529,1000
+359,23,10,100,Latin Hypercube (rnd),t.generation,0.0005314999980328139,1000
+359,23,10,100,Latin Hypercube (rnd),t.ic.calculate,0.6613894000001892,1000
+360,24,10,100,Latin Hypercube (rnd),t.generation,0.0005631999993056525,1000
+360,24,10,100,Latin Hypercube (rnd),t.ic.calculate,0.7058588999971107,1000
+361,1,10,100,Hilbert Curve,t.generation,0.023002699999778997,1000
+361,1,10,100,Hilbert Curve,t.ic.calculate,0.7021985000028508,1000
+362,2,10,100,Hilbert Curve,t.generation,0.0228447999979835,1000
+362,2,10,100,Hilbert Curve,t.ic.calculate,0.9927930000012566,1000
+363,3,10,100,Hilbert Curve,t.generation,0.022889699997904245,1000
+363,3,10,100,Hilbert Curve,t.ic.calculate,0.7402540999974008,1000
+364,4,10,100,Hilbert Curve,t.generation,0.022381899998435983,1000
+364,4,10,100,Hilbert Curve,t.ic.calculate,0.7720014000005904,1000
+365,5,10,100,Hilbert Curve,t.generation,0.02240929999970831,1000
+365,5,10,100,Hilbert Curve,t.ic.calculate,0.6963761000006343,1000
+366,6,10,100,Hilbert Curve,t.generation,0.0224235999994562,1000
+366,6,10,100,Hilbert Curve,t.ic.calculate,0.8985573999998451,1000
+367,7,10,100,Hilbert Curve,t.generation,0.022674100000585895,1000
+367,7,10,100,Hilbert Curve,t.ic.calculate,0.7628196999976353,1000
+368,8,10,100,Hilbert Curve,t.generation,0.022802800001954893,1000
+368,8,10,100,Hilbert Curve,t.ic.calculate,0.885320800000045,1000
+369,9,10,100,Hilbert Curve,t.generation,0.023148499996750616,1000
+369,9,10,100,Hilbert Curve,t.ic.calculate,0.8827823000028729,1000
+370,10,10,100,Hilbert Curve,t.generation,0.022873300000355812,1000
+370,10,10,100,Hilbert Curve,t.ic.calculate,0.9829100999995717,1000
+371,11,10,100,Hilbert Curve,t.generation,0.022586600000067847,1000
+371,11,10,100,Hilbert Curve,t.ic.calculate,0.9733741999989434,1000
+372,12,10,100,Hilbert Curve,t.generation,0.022626100002526073,1000
+372,12,10,100,Hilbert Curve,t.ic.calculate,1.064409299997351,1000
+373,13,10,100,Hilbert Curve,t.generation,0.022809999998571584,1000
+373,13,10,100,Hilbert Curve,t.ic.calculate,0.757202500000858,1000
+374,14,10,100,Hilbert Curve,t.generation,0.022821799997473136,1000
+374,14,10,100,Hilbert Curve,t.ic.calculate,0.7238192000004346,1000
+375,15,10,100,Hilbert Curve,t.generation,0.022569799999473616,1000
+375,15,10,100,Hilbert Curve,t.ic.calculate,0.750329900001816,1000
+376,16,10,100,Hilbert Curve,t.generation,0.02340639999965788,1000
+376,16,10,100,Hilbert Curve,t.ic.calculate,0.7000977999996394,1000
+377,17,10,100,Hilbert Curve,t.generation,0.02252569999836851,1000
+377,17,10,100,Hilbert Curve,t.ic.calculate,0.7065253000000666,1000
+378,18,10,100,Hilbert Curve,t.generation,0.02293400000053225,1000
+378,18,10,100,Hilbert Curve,t.ic.calculate,0.7430925000007846,1000
+379,19,10,100,Hilbert Curve,t.generation,0.02271110000219778,1000
+379,19,10,100,Hilbert Curve,t.ic.calculate,0.6952870999994047,1000
+380,20,10,100,Hilbert Curve,t.generation,0.02255239999794867,1000
+380,20,10,100,Hilbert Curve,t.ic.calculate,0.8688855000000331,1000
+381,21,10,100,Hilbert Curve,t.generation,0.022870400000101654,1000
+381,21,10,100,Hilbert Curve,t.ic.calculate,0.6610814000014216,1000
+382,22,10,100,Hilbert Curve,t.generation,0.023031900000205496,1000
+382,22,10,100,Hilbert Curve,t.ic.calculate,0.6421554000007745,1000
+383,23,10,100,Hilbert Curve,t.generation,0.022951999999349937,1000
+383,23,10,100,Hilbert Curve,t.ic.calculate,0.6666313000023365,1000
+384,24,10,100,Hilbert Curve,t.generation,0.022918700000445824,1000
+384,24,10,100,Hilbert Curve,t.ic.calculate,0.718781300001865,1000
+385,1,10,316,Latin Hypercube (nn),t.generation,0.0011085000005550683,3160
+385,1,10,316,Latin Hypercube (nn),t.ic.calculate,2.1812353000022995,3160
+386,2,10,316,Latin Hypercube (nn),t.generation,0.0010970000002998859,3160
+386,2,10,316,Latin Hypercube (nn),t.ic.calculate,3.003968100001657,3160
+387,3,10,316,Latin Hypercube (nn),t.generation,0.00101379999978235,3160
+387,3,10,316,Latin Hypercube (nn),t.ic.calculate,2.2963646999996854,3160
+388,4,10,316,Latin Hypercube (nn),t.generation,0.0009356000009574927,3160
+388,4,10,316,Latin Hypercube (nn),t.ic.calculate,2.3871108000021195,3160
+389,5,10,316,Latin Hypercube (nn),t.generation,0.001116100000217557,3160
+389,5,10,316,Latin Hypercube (nn),t.ic.calculate,2.120237700000871,3160
+390,6,10,316,Latin Hypercube (nn),t.generation,0.0010726000000431668,3160
+390,6,10,316,Latin Hypercube (nn),t.ic.calculate,2.775564600000507,3160
+391,7,10,316,Latin Hypercube (nn),t.generation,0.0011150999998790212,3160
+391,7,10,316,Latin Hypercube (nn),t.ic.calculate,2.3767473000007158,3160
+392,8,10,316,Latin Hypercube (nn),t.generation,0.001000299998850096,3160
+392,8,10,316,Latin Hypercube (nn),t.ic.calculate,2.726722100000188,3160
+393,9,10,316,Latin Hypercube (nn),t.generation,0.0010297999979229644,3160
+393,9,10,316,Latin Hypercube (nn),t.ic.calculate,2.6999499000012293,3160
+394,10,10,316,Latin Hypercube (nn),t.generation,0.000983099998848047,3160
+394,10,10,316,Latin Hypercube (nn),t.ic.calculate,3.023198200000479,3160
+395,11,10,316,Latin Hypercube (nn),t.generation,0.001076100001228042,3160
+395,11,10,316,Latin Hypercube (nn),t.ic.calculate,2.995620899997448,3160
+396,12,10,316,Latin Hypercube (nn),t.generation,0.000975899998593377,3160
+396,12,10,316,Latin Hypercube (nn),t.ic.calculate,3.262530899999547,3160
+397,13,10,316,Latin Hypercube (nn),t.generation,0.0009934000008797739,3160
+397,13,10,316,Latin Hypercube (nn),t.ic.calculate,2.308754699999554,3160
+398,14,10,316,Latin Hypercube (nn),t.generation,0.001044799999363022,3160
+398,14,10,316,Latin Hypercube (nn),t.ic.calculate,2.229620900001464,3160
+399,15,10,316,Latin Hypercube (nn),t.generation,0.0010927000002993736,3160
+399,15,10,316,Latin Hypercube (nn),t.ic.calculate,2.3115355000009004,3160
+400,16,10,316,Latin Hypercube (nn),t.generation,0.001098100001399871,3160
+400,16,10,316,Latin Hypercube (nn),t.ic.calculate,2.1685152999998536,3160
+401,17,10,316,Latin Hypercube (nn),t.generation,0.0010157999968214426,3160
+401,17,10,316,Latin Hypercube (nn),t.ic.calculate,2.189177100000961,3160
+402,18,10,316,Latin Hypercube (nn),t.generation,0.0011260999999649357,3160
+402,18,10,316,Latin Hypercube (nn),t.ic.calculate,2.309561500002019,3160
+403,19,10,316,Latin Hypercube (nn),t.generation,0.0010756999981822446,3160
+403,19,10,316,Latin Hypercube (nn),t.ic.calculate,2.1554333999993105,3160
+404,20,10,316,Latin Hypercube (nn),t.generation,0.0010852999985218048,3160
+404,20,10,316,Latin Hypercube (nn),t.ic.calculate,2.653467299998738,3160
+405,21,10,316,Latin Hypercube (nn),t.generation,0.0010610999997879844,3160
+405,21,10,316,Latin Hypercube (nn),t.ic.calculate,2.0745587999990676,3160
+406,22,10,316,Latin Hypercube (nn),t.generation,0.001099700002669124,3160
+406,22,10,316,Latin Hypercube (nn),t.ic.calculate,1.9744241000007605,3160
+407,23,10,316,Latin Hypercube (nn),t.generation,0.0011110000014014076,3160
+407,23,10,316,Latin Hypercube (nn),t.ic.calculate,2.068621099999291,3160
+408,24,10,316,Latin Hypercube (nn),t.generation,0.0009095999994315207,3160
+408,24,10,316,Latin Hypercube (nn),t.ic.calculate,2.218106299998908,3160
+409,1,10,316,Latin Hypercube (hc),t.generation,0.000928999997995561,3160
+409,1,10,316,Latin Hypercube (hc),t.ic.calculate,2.273347599999397,3160
+410,2,10,316,Latin Hypercube (hc),t.generation,0.0009805999980017077,3160
+410,2,10,316,Latin Hypercube (hc),t.ic.calculate,3.136222599998291,3160
+411,3,10,316,Latin Hypercube (hc),t.generation,0.0009133000021392945,3160
+411,3,10,316,Latin Hypercube (hc),t.ic.calculate,2.375412100001995,3160
+412,4,10,316,Latin Hypercube (hc),t.generation,0.0014333000035549048,3160
+412,4,10,316,Latin Hypercube (hc),t.ic.calculate,2.502711900000577,3160
+413,5,10,316,Latin Hypercube (hc),t.generation,0.000947600001381943,3160
+413,5,10,316,Latin Hypercube (hc),t.ic.calculate,2.2397206999994523,3160
+414,6,10,316,Latin Hypercube (hc),t.generation,0.0010192999980063178,3160
+414,6,10,316,Latin Hypercube (hc),t.ic.calculate,2.862481000000116,3160
+415,7,10,316,Latin Hypercube (hc),t.generation,0.0010879000001295935,3160
+415,7,10,316,Latin Hypercube (hc),t.ic.calculate,2.451673600000504,3160
+416,8,10,316,Latin Hypercube (hc),t.generation,0.001126200000726385,3160
+416,8,10,316,Latin Hypercube (hc),t.ic.calculate,2.843338599999697,3160
+417,9,10,316,Latin Hypercube (hc),t.generation,0.001080599999113474,3160
+417,9,10,316,Latin Hypercube (hc),t.ic.calculate,2.8062795999976515,3160
+418,10,10,316,Latin Hypercube (hc),t.generation,0.0010901999994530343,3160
+418,10,10,316,Latin Hypercube (hc),t.ic.calculate,3.1474169000030088,3160
+419,11,10,316,Latin Hypercube (hc),t.generation,0.0009422000002814457,3160
+419,11,10,316,Latin Hypercube (hc),t.ic.calculate,3.078279000001203,3160
+420,12,10,316,Latin Hypercube (hc),t.generation,0.0010551999985182192,3160
+420,12,10,316,Latin Hypercube (hc),t.ic.calculate,3.3979755000000296,3160
+421,13,10,316,Latin Hypercube (hc),t.generation,0.0010058000007120427,3160
+421,13,10,316,Latin Hypercube (hc),t.ic.calculate,2.444215899999108,3160
+422,14,10,316,Latin Hypercube (hc),t.generation,0.0010440000005473848,3160
+422,14,10,316,Latin Hypercube (hc),t.ic.calculate,2.331271499999275,3160
+423,15,10,316,Latin Hypercube (hc),t.generation,0.0010412999981781468,3160
+423,15,10,316,Latin Hypercube (hc),t.ic.calculate,2.4102759000015794,3160
+424,16,10,316,Latin Hypercube (hc),t.generation,0.0010946000002149958,3160
+424,16,10,316,Latin Hypercube (hc),t.ic.calculate,2.249900599999819,3160
+425,17,10,316,Latin Hypercube (hc),t.generation,0.00105729999995674,3160
+425,17,10,316,Latin Hypercube (hc),t.ic.calculate,2.2697952999988047,3160
+426,18,10,316,Latin Hypercube (hc),t.generation,0.0010867999990296084,3160
+426,18,10,316,Latin Hypercube (hc),t.ic.calculate,2.3821828000000096,3160
+427,19,10,316,Latin Hypercube (hc),t.generation,0.000954999999521533,3160
+427,19,10,316,Latin Hypercube (hc),t.ic.calculate,2.248137799997494,3160
+428,20,10,316,Latin Hypercube (hc),t.generation,0.0014854000000923406,3160
+428,20,10,316,Latin Hypercube (hc),t.ic.calculate,2.7542734000016935,3160
+429,21,10,316,Latin Hypercube (hc),t.generation,0.0009844000014709309,3160
+429,21,10,316,Latin Hypercube (hc),t.ic.calculate,2.1086964000023727,3160
+430,22,10,316,Latin Hypercube (hc),t.generation,0.0009376999987580348,3160
+430,22,10,316,Latin Hypercube (hc),t.ic.calculate,2.068057600001339,3160
+431,23,10,316,Latin Hypercube (hc),t.generation,0.0009781000007933471,3160
+431,23,10,316,Latin Hypercube (hc),t.ic.calculate,2.1351071999997657,3160
+432,24,10,316,Latin Hypercube (hc),t.generation,0.0010846999975910876,3160
+432,24,10,316,Latin Hypercube (hc),t.ic.calculate,2.304154400000698,3160
+433,1,10,316,Latin Hypercube (rnd),t.generation,0.0010069000018120278,3160
+433,1,10,316,Latin Hypercube (rnd),t.ic.calculate,2.0446761999992304,3160
+434,2,10,316,Latin Hypercube (rnd),t.generation,0.0010905999988608528,3160
+434,2,10,316,Latin Hypercube (rnd),t.ic.calculate,2.9510846999983187,3160
+435,3,10,316,Latin Hypercube (rnd),t.generation,0.0011142000003019348,3160
+435,3,10,316,Latin Hypercube (rnd),t.ic.calculate,2.1873782999973628,3160
+436,4,10,316,Latin Hypercube (rnd),t.generation,0.0011049000022467226,3160
+436,4,10,316,Latin Hypercube (rnd),t.ic.calculate,2.319365300001664,3160
+437,5,10,316,Latin Hypercube (rnd),t.generation,0.001047999998263549,3160
+437,5,10,316,Latin Hypercube (rnd),t.ic.calculate,2.0582517000002554,3160
+438,6,10,316,Latin Hypercube (rnd),t.generation,0.0009930000014719553,3160
+438,6,10,316,Latin Hypercube (rnd),t.ic.calculate,2.6991916000006313,3160
+439,7,10,316,Latin Hypercube (rnd),t.generation,0.00090970000019297,3160
+439,7,10,316,Latin Hypercube (rnd),t.ic.calculate,2.272203399999853,3160
+440,8,10,316,Latin Hypercube (rnd),t.generation,0.0010556000015640166,3160
+440,8,10,316,Latin Hypercube (rnd),t.ic.calculate,2.63471870000285,3160
+441,9,10,316,Latin Hypercube (rnd),t.generation,0.000995800000964664,3160
+441,9,10,316,Latin Hypercube (rnd),t.ic.calculate,2.6190486999985296,3160
+442,10,10,316,Latin Hypercube (rnd),t.generation,0.0009474000034970231,3160
+442,10,10,316,Latin Hypercube (rnd),t.ic.calculate,2.985612800002855,3160
+443,11,10,316,Latin Hypercube (rnd),t.generation,0.0010110000002896413,3160
+443,11,10,316,Latin Hypercube (rnd),t.ic.calculate,2.8995351000012306,3160
+444,12,10,316,Latin Hypercube (rnd),t.generation,0.0014007999998284504,3160
+444,12,10,316,Latin Hypercube (rnd),t.ic.calculate,3.182899700001144,3160
+445,13,10,316,Latin Hypercube (rnd),t.generation,0.0009407000034116209,3160
+445,13,10,316,Latin Hypercube (rnd),t.ic.calculate,2.244232400000328,3160
+446,14,10,316,Latin Hypercube (rnd),t.generation,0.0010360999986005481,3160
+446,14,10,316,Latin Hypercube (rnd),t.ic.calculate,2.129021600001579,3160
+447,15,10,316,Latin Hypercube (rnd),t.generation,0.0010767999992822297,3160
+447,15,10,316,Latin Hypercube (rnd),t.ic.calculate,2.225870300000679,3160
+448,16,10,316,Latin Hypercube (rnd),t.generation,0.0010425000000395812,3160
+448,16,10,316,Latin Hypercube (rnd),t.ic.calculate,2.0487020000000484,3160
+449,17,10,316,Latin Hypercube (rnd),t.generation,0.0009324999991804361,3160
+449,17,10,316,Latin Hypercube (rnd),t.ic.calculate,2.1006975999989663,3160
+450,18,10,316,Latin Hypercube (rnd),t.generation,0.0010856000008061528,3160
+450,18,10,316,Latin Hypercube (rnd),t.ic.calculate,2.208353199999692,3160
+451,19,10,316,Latin Hypercube (rnd),t.generation,0.0010814999986905605,3160
+451,19,10,316,Latin Hypercube (rnd),t.ic.calculate,2.0356776000007812,3160
+452,20,10,316,Latin Hypercube (rnd),t.generation,0.00109359999987646,3160
+452,20,10,316,Latin Hypercube (rnd),t.ic.calculate,2.5798448999994434,3160
+453,21,10,316,Latin Hypercube (rnd),t.generation,0.0010791000022436492,3160
+453,21,10,316,Latin Hypercube (rnd),t.ic.calculate,1.9055148000006739,3160
+454,22,10,316,Latin Hypercube (rnd),t.generation,0.0011077999988629017,3160
+454,22,10,316,Latin Hypercube (rnd),t.ic.calculate,1.8522096999986388,3160
+455,23,10,316,Latin Hypercube (rnd),t.generation,0.0009128999990934972,3160
+455,23,10,316,Latin Hypercube (rnd),t.ic.calculate,1.9339150999985577,3160
+456,24,10,316,Latin Hypercube (rnd),t.generation,0.0011699000024236739,3160
+456,24,10,316,Latin Hypercube (rnd),t.ic.calculate,2.1224051999997755,3160
+457,1,10,316,Hilbert Curve,t.generation,0.06888229999822215,3160
+457,1,10,316,Hilbert Curve,t.ic.calculate,2.0750781999995525,3160
+458,2,10,316,Hilbert Curve,t.generation,0.07011469999997644,3160
+458,2,10,316,Hilbert Curve,t.ic.calculate,2.941696199999569,3160
+459,3,10,316,Hilbert Curve,t.generation,0.06958440000016708,3160
+459,3,10,316,Hilbert Curve,t.ic.calculate,2.1897019000025466,3160
+460,4,10,316,Hilbert Curve,t.generation,0.07011860000056913,3160
+460,4,10,316,Hilbert Curve,t.ic.calculate,2.3009032999980263,3160
+461,5,10,316,Hilbert Curve,t.generation,0.07012519999989308,3160
+461,5,10,316,Hilbert Curve,t.ic.calculate,2.07627450000291,3160
+462,6,10,316,Hilbert Curve,t.generation,0.07048670000222046,3160
+462,6,10,316,Hilbert Curve,t.ic.calculate,2.6893352000006416,3160
+463,7,10,316,Hilbert Curve,t.generation,0.07009499999912805,3160
+463,7,10,316,Hilbert Curve,t.ic.calculate,2.274052099997789,3160
+464,8,10,316,Hilbert Curve,t.generation,0.07043519999933778,3160
+464,8,10,316,Hilbert Curve,t.ic.calculate,2.653287299999647,3160
+465,9,10,316,Hilbert Curve,t.generation,0.07034670000211918,3160
+465,9,10,316,Hilbert Curve,t.ic.calculate,2.62760370000251,3160
+466,10,10,316,Hilbert Curve,t.generation,0.0757153999984439,3160
+466,10,10,316,Hilbert Curve,t.ic.calculate,2.956338299998606,3160
+467,11,10,316,Hilbert Curve,t.generation,0.07047379999858094,3160
+467,11,10,316,Hilbert Curve,t.ic.calculate,2.927414999998291,3160
+468,12,10,316,Hilbert Curve,t.generation,0.06991109999944456,3160
+468,12,10,316,Hilbert Curve,t.ic.calculate,3.1924900999983947,3160
+469,13,10,316,Hilbert Curve,t.generation,0.07107040000119014,3160
+469,13,10,316,Hilbert Curve,t.ic.calculate,2.240689600002952,3160
+470,14,10,316,Hilbert Curve,t.generation,0.06946950000201468,3160
+470,14,10,316,Hilbert Curve,t.ic.calculate,2.1326396000004024,3160
+471,15,10,316,Hilbert Curve,t.generation,0.07012100000065402,3160
+471,15,10,316,Hilbert Curve,t.ic.calculate,2.277122800001962,3160
+472,16,10,316,Hilbert Curve,t.generation,0.07077679999929387,3160
+472,16,10,316,Hilbert Curve,t.ic.calculate,2.0808016000009957,3160
+473,17,10,316,Hilbert Curve,t.generation,0.0697749000028125,3160
+473,17,10,316,Hilbert Curve,t.ic.calculate,2.1051484999989043,3160
+474,18,10,316,Hilbert Curve,t.generation,0.07050529999833088,3160
+474,18,10,316,Hilbert Curve,t.ic.calculate,2.2018600999981572,3160
+475,19,10,316,Hilbert Curve,t.generation,0.07793730000048527,3160
+475,19,10,316,Hilbert Curve,t.ic.calculate,2.050581899999088,3160
+476,20,10,316,Hilbert Curve,t.generation,0.07093680000252789,3160
+476,20,10,316,Hilbert Curve,t.ic.calculate,2.5736071999999695,3160
+477,21,10,316,Hilbert Curve,t.generation,0.06923119999919436,3160
+477,21,10,316,Hilbert Curve,t.ic.calculate,1.9420009999994363,3160
+478,22,10,316,Hilbert Curve,t.generation,0.07002389999979641,3160
+478,22,10,316,Hilbert Curve,t.ic.calculate,1.9044958999984374,3160
+479,23,10,316,Hilbert Curve,t.generation,0.0695930000001681,3160
+479,23,10,316,Hilbert Curve,t.ic.calculate,1.9728360000008252,3160
+480,24,10,316,Hilbert Curve,t.generation,0.07150180000098771,3160
+480,24,10,316,Hilbert Curve,t.ic.calculate,2.1399199000006774,3160
+481,1,10,1000,Latin Hypercube (nn),t.generation,0.002403899998171255,10000
+481,1,10,1000,Latin Hypercube (nn),t.ic.calculate,7.759209900003043,10000
+482,2,10,1000,Latin Hypercube (nn),t.generation,0.003043900000193389,10000
+482,2,10,1000,Latin Hypercube (nn),t.ic.calculate,10.544804199998907,10000
+483,3,10,1000,Latin Hypercube (nn),t.generation,0.002622299998620292,10000
+483,3,10,1000,Latin Hypercube (nn),t.ic.calculate,8.078654600001755,10000
+484,4,10,1000,Latin Hypercube (nn),t.generation,0.0031325000018114224,10000
+484,4,10,1000,Latin Hypercube (nn),t.ic.calculate,8.460207900003297,10000
+485,5,10,1000,Latin Hypercube (nn),t.generation,0.002387799999269191,10000
+485,5,10,1000,Latin Hypercube (nn),t.ic.calculate,7.568225999999413,10000
+486,6,10,1000,Latin Hypercube (nn),t.generation,0.0026863000020966865,10000
+486,6,10,1000,Latin Hypercube (nn),t.ic.calculate,9.537593400000333,10000
+487,7,10,1000,Latin Hypercube (nn),t.generation,0.0024253000010503456,10000
+487,7,10,1000,Latin Hypercube (nn),t.ic.calculate,8.266208200002438,10000
+488,8,10,1000,Latin Hypercube (nn),t.generation,0.0024322000026586466,10000
+488,8,10,1000,Latin Hypercube (nn),t.ic.calculate,9.46661210000093,10000
+489,9,10,1000,Latin Hypercube (nn),t.generation,0.0024990000019897707,10000
+489,9,10,1000,Latin Hypercube (nn),t.ic.calculate,9.417269699999451,10000
+490,10,10,1000,Latin Hypercube (nn),t.generation,0.002299499999935506,10000
+490,10,10,1000,Latin Hypercube (nn),t.ic.calculate,10.453617999999551,10000
+491,11,10,1000,Latin Hypercube (nn),t.generation,0.002578499999799533,10000
+491,11,10,1000,Latin Hypercube (nn),t.ic.calculate,10.289766300000338,10000
+492,12,10,1000,Latin Hypercube (nn),t.generation,0.0022686000011162832,10000
+492,12,10,1000,Latin Hypercube (nn),t.ic.calculate,11.164148399999249,10000
+493,13,10,1000,Latin Hypercube (nn),t.generation,0.0023675000011280645,10000
+493,13,10,1000,Latin Hypercube (nn),t.ic.calculate,8.2095754999973,10000
+494,14,10,1000,Latin Hypercube (nn),t.generation,0.0034209999976155814,10000
+494,14,10,1000,Latin Hypercube (nn),t.ic.calculate,7.836992900000041,10000
+495,15,10,1000,Latin Hypercube (nn),t.generation,0.0024172999983420596,10000
+495,15,10,1000,Latin Hypercube (nn),t.ic.calculate,8.13669149999987,10000
+496,16,10,1000,Latin Hypercube (nn),t.generation,0.0023342999993474223,10000
+496,16,10,1000,Latin Hypercube (nn),t.ic.calculate,7.77101330000005,10000
+497,17,10,1000,Latin Hypercube (nn),t.generation,0.002432299999782117,10000
+497,17,10,1000,Latin Hypercube (nn),t.ic.calculate,7.79841690000103,10000
+498,18,10,1000,Latin Hypercube (nn),t.generation,0.002317000002221903,10000
+498,18,10,1000,Latin Hypercube (nn),t.ic.calculate,8.155982899999799,10000
+499,19,10,1000,Latin Hypercube (nn),t.generation,0.002305100002558902,10000
+499,19,10,1000,Latin Hypercube (nn),t.ic.calculate,7.651376000001619,10000
+500,20,10,1000,Latin Hypercube (nn),t.generation,0.002421699999104021,10000
+500,20,10,1000,Latin Hypercube (nn),t.ic.calculate,9.244469900000695,10000
+501,21,10,1000,Latin Hypercube (nn),t.generation,0.0024497000013070647,10000
+501,21,10,1000,Latin Hypercube (nn),t.ic.calculate,7.232183899999654,10000
+502,22,10,1000,Latin Hypercube (nn),t.generation,0.0024062000011326745,10000
+502,22,10,1000,Latin Hypercube (nn),t.ic.calculate,7.0298494000016944,10000
+503,23,10,1000,Latin Hypercube (nn),t.generation,0.0025943000000552274,10000
+503,23,10,1000,Latin Hypercube (nn),t.ic.calculate,7.443358500000613,10000
+504,24,10,1000,Latin Hypercube (nn),t.generation,0.002320700001291698,10000
+504,24,10,1000,Latin Hypercube (nn),t.ic.calculate,7.849456899999495,10000
+505,1,10,1000,Latin Hypercube (hc),t.generation,0.0022974999992584344,10000
+505,1,10,1000,Latin Hypercube (hc),t.ic.calculate,7.032977599999867,10000
+506,2,10,1000,Latin Hypercube (hc),t.generation,0.0029040999979770277,10000
+506,2,10,1000,Latin Hypercube (hc),t.ic.calculate,9.774278299999423,10000
+507,3,10,1000,Latin Hypercube (hc),t.generation,0.00230089999968186,10000
+507,3,10,1000,Latin Hypercube (hc),t.ic.calculate,7.437751599998592,10000
+508,4,10,1000,Latin Hypercube (hc),t.generation,0.0023805000018910505,10000
+508,4,10,1000,Latin Hypercube (hc),t.ic.calculate,7.8098576000011235,10000
+509,5,10,1000,Latin Hypercube (hc),t.generation,0.0025131999973382335,10000
+509,5,10,1000,Latin Hypercube (hc),t.ic.calculate,7.081165100000362,10000
+510,6,10,1000,Latin Hypercube (hc),t.generation,0.002378000001044711,10000
+510,6,10,1000,Latin Hypercube (hc),t.ic.calculate,8.974741500001983,10000
+511,7,10,1000,Latin Hypercube (hc),t.generation,0.0024260999998659827,10000
+511,7,10,1000,Latin Hypercube (hc),t.ic.calculate,7.68791119999878,10000
+512,8,10,1000,Latin Hypercube (hc),t.generation,0.0023082000006979797,10000
+512,8,10,1000,Latin Hypercube (hc),t.ic.calculate,8.911111800000072,10000
+513,9,10,1000,Latin Hypercube (hc),t.generation,0.0023927000002004206,10000
+513,9,10,1000,Latin Hypercube (hc),t.ic.calculate,8.805460499999754,10000
+514,10,10,1000,Latin Hypercube (hc),t.generation,0.002420299999357667,10000
+514,10,10,1000,Latin Hypercube (hc),t.ic.calculate,9.82751140000255,10000
+515,11,10,1000,Latin Hypercube (hc),t.generation,0.0026929000014206395,10000
+515,11,10,1000,Latin Hypercube (hc),t.ic.calculate,9.680040600000211,10000
+516,12,10,1000,Latin Hypercube (hc),t.generation,0.0025408000001334585,10000
+516,12,10,1000,Latin Hypercube (hc),t.ic.calculate,10.561928099999932,10000
+517,13,10,1000,Latin Hypercube (hc),t.generation,0.0024332000029971823,10000
+517,13,10,1000,Latin Hypercube (hc),t.ic.calculate,7.58977650000088,10000
+518,14,10,1000,Latin Hypercube (hc),t.generation,0.003456999998888932,10000
+518,14,10,1000,Latin Hypercube (hc),t.ic.calculate,7.282645399998728,10000
+519,15,10,1000,Latin Hypercube (hc),t.generation,0.0022921999989193864,10000
+519,15,10,1000,Latin Hypercube (hc),t.ic.calculate,7.581393500000559,10000
+520,16,10,1000,Latin Hypercube (hc),t.generation,0.0023676999990129843,10000
+520,16,10,1000,Latin Hypercube (hc),t.ic.calculate,7.064517900002102,10000
+521,17,10,1000,Latin Hypercube (hc),t.generation,0.003614900000684429,10000
+521,17,10,1000,Latin Hypercube (hc),t.ic.calculate,7.176190000001952,10000
+522,18,10,1000,Latin Hypercube (hc),t.generation,0.0024459000014758203,10000
+522,18,10,1000,Latin Hypercube (hc),t.ic.calculate,7.504151000001002,10000
+523,19,10,1000,Latin Hypercube (hc),t.generation,0.002325699999346398,10000
+523,19,10,1000,Latin Hypercube (hc),t.ic.calculate,7.085343200000352,10000
+524,20,10,1000,Latin Hypercube (hc),t.generation,0.002465900000970578,10000
+524,20,10,1000,Latin Hypercube (hc),t.ic.calculate,8.721776000002137,10000
+525,21,10,1000,Latin Hypercube (hc),t.generation,0.0025492999993730336,10000
+525,21,10,1000,Latin Hypercube (hc),t.ic.calculate,6.65238170000157,10000
+526,22,10,1000,Latin Hypercube (hc),t.generation,0.0029848999984096736,10000
+526,22,10,1000,Latin Hypercube (hc),t.ic.calculate,6.496475199997803,10000
+527,23,10,1000,Latin Hypercube (hc),t.generation,0.002673099999810802,10000
+527,23,10,1000,Latin Hypercube (hc),t.ic.calculate,6.770149799998762,10000
+528,24,10,1000,Latin Hypercube (hc),t.generation,0.0030312999988382217,10000
+528,24,10,1000,Latin Hypercube (hc),t.ic.calculate,7.284953399997903,10000
+529,1,10,1000,Latin Hypercube (rnd),t.generation,0.0027492999979585875,10000
+529,1,10,1000,Latin Hypercube (rnd),t.ic.calculate,6.369660399999702,10000
+530,2,10,1000,Latin Hypercube (rnd),t.generation,0.002419799999188399,10000
+530,2,10,1000,Latin Hypercube (rnd),t.ic.calculate,9.168320500000846,10000
+531,3,10,1000,Latin Hypercube (rnd),t.generation,0.002340099999855738,10000
+531,3,10,1000,Latin Hypercube (rnd),t.ic.calculate,6.784553099998448,10000
+532,4,10,1000,Latin Hypercube (rnd),t.generation,0.0025480000003881287,10000
+532,4,10,1000,Latin Hypercube (rnd),t.ic.calculate,7.103412299999036,10000
+533,5,10,1000,Latin Hypercube (rnd),t.generation,0.0024416999985987786,10000
+533,5,10,1000,Latin Hypercube (rnd),t.ic.calculate,6.476567199999408,10000
+534,6,10,1000,Latin Hypercube (rnd),t.generation,0.0026962999982060865,10000
+534,6,10,1000,Latin Hypercube (rnd),t.ic.calculate,8.470584599999711,10000
+535,7,10,1000,Latin Hypercube (rnd),t.generation,0.002479399998264853,10000
+535,7,10,1000,Latin Hypercube (rnd),t.ic.calculate,7.068268300001364,10000
+536,8,10,1000,Latin Hypercube (rnd),t.generation,0.002444399997330038,10000
+536,8,10,1000,Latin Hypercube (rnd),t.ic.calculate,8.222779799998534,10000
+537,9,10,1000,Latin Hypercube (rnd),t.generation,0.002420100001472747,10000
+537,9,10,1000,Latin Hypercube (rnd),t.ic.calculate,8.08820679999917,10000
+538,10,10,1000,Latin Hypercube (rnd),t.generation,0.0022933000000193715,10000
+538,10,10,1000,Latin Hypercube (rnd),t.ic.calculate,9.227048900000227,10000
+539,11,10,1000,Latin Hypercube (rnd),t.generation,0.0030101000011200085,10000
+539,11,10,1000,Latin Hypercube (rnd),t.ic.calculate,9.026511699998082,10000
+540,12,10,1000,Latin Hypercube (rnd),t.generation,0.0025341000000480562,10000
+540,12,10,1000,Latin Hypercube (rnd),t.ic.calculate,9.937645999998495,10000
+541,13,10,1000,Latin Hypercube (rnd),t.generation,0.0023868000025686342,10000
+541,13,10,1000,Latin Hypercube (rnd),t.ic.calculate,6.94505769999887,10000
+542,14,10,1000,Latin Hypercube (rnd),t.generation,0.002540699999372009,10000
+542,14,10,1000,Latin Hypercube (rnd),t.ic.calculate,6.6111597000017355,10000
+543,15,10,1000,Latin Hypercube (rnd),t.generation,0.0026739999993878882,10000
+543,15,10,1000,Latin Hypercube (rnd),t.ic.calculate,6.900393800002348,10000
+544,16,10,1000,Latin Hypercube (rnd),t.generation,0.0024191999982576817,10000
+544,16,10,1000,Latin Hypercube (rnd),t.ic.calculate,6.320058900000731,10000
+545,17,10,1000,Latin Hypercube (rnd),t.generation,0.0024262999977509025,10000
+545,17,10,1000,Latin Hypercube (rnd),t.ic.calculate,6.571504100000311,10000
+546,18,10,1000,Latin Hypercube (rnd),t.generation,0.0023818000008759554,10000
+546,18,10,1000,Latin Hypercube (rnd),t.ic.calculate,6.902287100001558,10000
+547,19,10,1000,Latin Hypercube (rnd),t.generation,0.00239779999901657,10000
+547,19,10,1000,Latin Hypercube (rnd),t.ic.calculate,6.3032727999998315,10000
+548,20,10,1000,Latin Hypercube (rnd),t.generation,0.002283099998749094,10000
+548,20,10,1000,Latin Hypercube (rnd),t.ic.calculate,7.991853700001229,10000
+549,21,10,1000,Latin Hypercube (rnd),t.generation,0.002352499999688007,10000
+549,21,10,1000,Latin Hypercube (rnd),t.ic.calculate,5.89072490000035,10000
+550,22,10,1000,Latin Hypercube (rnd),t.generation,0.0024558000004617497,10000
+550,22,10,1000,Latin Hypercube (rnd),t.ic.calculate,5.748335200001748,10000
+551,23,10,1000,Latin Hypercube (rnd),t.generation,0.002662599999894155,10000
+551,23,10,1000,Latin Hypercube (rnd),t.ic.calculate,6.011827500002255,10000
+552,24,10,1000,Latin Hypercube (rnd),t.generation,0.00299299999824143,10000
+552,24,10,1000,Latin Hypercube (rnd),t.ic.calculate,6.52320089999921,10000
+553,1,10,1000,Hilbert Curve,t.generation,0.22065159999692696,10000
+553,1,10,1000,Hilbert Curve,t.ic.calculate,6.397200999999768,10000
+554,2,10,1000,Hilbert Curve,t.generation,0.21743740000238176,10000
+554,2,10,1000,Hilbert Curve,t.ic.calculate,9.086184200001298,10000
+555,3,10,1000,Hilbert Curve,t.generation,0.21828970000206027,10000
+555,3,10,1000,Hilbert Curve,t.ic.calculate,6.869963399996777,10000
+556,4,10,1000,Hilbert Curve,t.generation,0.21996859999853768,10000
+556,4,10,1000,Hilbert Curve,t.ic.calculate,7.1832869999998366,10000
+557,5,10,1000,Hilbert Curve,t.generation,0.22043530000155442,10000
+557,5,10,1000,Hilbert Curve,t.ic.calculate,6.446779699999752,10000
+558,6,10,1000,Hilbert Curve,t.generation,0.2210945000006177,10000
+558,6,10,1000,Hilbert Curve,t.ic.calculate,8.334857300000294,10000
+559,7,10,1000,Hilbert Curve,t.generation,0.21773020000182441,10000
+559,7,10,1000,Hilbert Curve,t.ic.calculate,7.091329800001404,10000
+560,8,10,1000,Hilbert Curve,t.generation,0.22079159999702824,10000
+560,8,10,1000,Hilbert Curve,t.ic.calculate,8.251945799998794,10000
+561,9,10,1000,Hilbert Curve,t.generation,0.21942510000008042,10000
+561,9,10,1000,Hilbert Curve,t.ic.calculate,8.189946200000122,10000
+562,10,10,1000,Hilbert Curve,t.generation,0.2215598000002501,10000
+562,10,10,1000,Hilbert Curve,t.ic.calculate,9.254426499999681,10000
+563,11,10,1000,Hilbert Curve,t.generation,0.21690429999944172,10000
+563,11,10,1000,Hilbert Curve,t.ic.calculate,9.035061399998085,10000
+564,12,10,1000,Hilbert Curve,t.generation,0.21862880000117002,10000
+564,12,10,1000,Hilbert Curve,t.ic.calculate,9.907183399998758,10000
+565,13,10,1000,Hilbert Curve,t.generation,0.21809940000093775,10000
+565,13,10,1000,Hilbert Curve,t.ic.calculate,6.980137700000341,10000
+566,14,10,1000,Hilbert Curve,t.generation,0.22151840000151424,10000
+566,14,10,1000,Hilbert Curve,t.ic.calculate,6.603244199999608,10000
+567,15,10,1000,Hilbert Curve,t.generation,0.21916540000165696,10000
+567,15,10,1000,Hilbert Curve,t.ic.calculate,6.947525499999756,10000
+568,16,10,1000,Hilbert Curve,t.generation,0.2205059000007168,10000
+568,16,10,1000,Hilbert Curve,t.ic.calculate,6.478837499998917,10000
+569,17,10,1000,Hilbert Curve,t.generation,0.21715219999896362,10000
+569,17,10,1000,Hilbert Curve,t.ic.calculate,6.557900100000552,10000
+570,18,10,1000,Hilbert Curve,t.generation,0.22007859999939683,10000
+570,18,10,1000,Hilbert Curve,t.ic.calculate,6.8561853999999585,10000
+571,19,10,1000,Hilbert Curve,t.generation,0.2180560000015248,10000
+571,19,10,1000,Hilbert Curve,t.ic.calculate,6.3730260000011185,10000
+572,20,10,1000,Hilbert Curve,t.generation,0.2185710999983712,10000
+572,20,10,1000,Hilbert Curve,t.ic.calculate,8.01143729999967,10000
+573,21,10,1000,Hilbert Curve,t.generation,0.21987319999971078,10000
+573,21,10,1000,Hilbert Curve,t.ic.calculate,6.033730700000888,10000
+574,22,10,1000,Hilbert Curve,t.generation,0.2201881000000867,10000
+574,22,10,1000,Hilbert Curve,t.ic.calculate,5.897180299998581,10000
+575,23,10,1000,Hilbert Curve,t.generation,0.21690880000096513,10000
+575,23,10,1000,Hilbert Curve,t.ic.calculate,6.138107100003253,10000
+576,24,10,1000,Hilbert Curve,t.generation,0.22116409999944153,10000
+576,24,10,1000,Hilbert Curve,t.ic.calculate,6.622362800000701,10000
+577,1,20,100,Latin Hypercube (nn),t.generation,0.0011967999998887535,2000
+577,1,20,100,Latin Hypercube (nn),t.ic.calculate,2.3087500000001455,2000
+578,2,20,100,Latin Hypercube (nn),t.generation,0.0011549999981070869,2000
+578,2,20,100,Latin Hypercube (nn),t.ic.calculate,2.859229100002267,2000
+579,3,20,100,Latin Hypercube (nn),t.generation,0.0013537000013457146,2000
+579,3,20,100,Latin Hypercube (nn),t.ic.calculate,2.420102299998689,2000
+580,4,20,100,Latin Hypercube (nn),t.generation,0.0011532999997143634,2000
+580,4,20,100,Latin Hypercube (nn),t.ic.calculate,2.524964899999759,2000
+581,5,20,100,Latin Hypercube (nn),t.generation,0.0011717999987013172,2000
+581,5,20,100,Latin Hypercube (nn),t.ic.calculate,2.296864899999491,2000
+582,6,20,100,Latin Hypercube (nn),t.generation,0.0012026000003970694,2000
+582,6,20,100,Latin Hypercube (nn),t.ic.calculate,2.7082324999973935,2000
+583,7,20,100,Latin Hypercube (nn),t.generation,0.0012456000004021917,2000
+583,7,20,100,Latin Hypercube (nn),t.ic.calculate,2.46691490000012,2000
+584,8,20,100,Latin Hypercube (nn),t.generation,0.0012438999983714893,2000
+584,8,20,100,Latin Hypercube (nn),t.ic.calculate,2.8476379999992787,2000
+585,9,20,100,Latin Hypercube (nn),t.generation,0.001215199998114258,2000
+585,9,20,100,Latin Hypercube (nn),t.ic.calculate,2.6599788000021363,2000
+586,10,20,100,Latin Hypercube (nn),t.generation,0.001479400001699105,2000
+586,10,20,100,Latin Hypercube (nn),t.ic.calculate,2.8697029999966617,2000
+587,11,20,100,Latin Hypercube (nn),t.generation,0.0013830999996571336,2000
+587,11,20,100,Latin Hypercube (nn),t.ic.calculate,2.796779800002696,2000
+588,12,20,100,Latin Hypercube (nn),t.generation,0.001215500000398606,2000
+588,12,20,100,Latin Hypercube (nn),t.ic.calculate,3.1211331999984395,2000
+589,13,20,100,Latin Hypercube (nn),t.generation,0.001261600002180785,2000
+589,13,20,100,Latin Hypercube (nn),t.ic.calculate,2.4148696000011114,2000
+590,14,20,100,Latin Hypercube (nn),t.generation,0.0013952000008430332,2000
+590,14,20,100,Latin Hypercube (nn),t.ic.calculate,2.2905036000011023,2000
+591,15,20,100,Latin Hypercube (nn),t.generation,0.0012763000013364945,2000
+591,15,20,100,Latin Hypercube (nn),t.ic.calculate,2.4141090999983135,2000
+592,16,20,100,Latin Hypercube (nn),t.generation,0.0013545000001613516,2000
+592,16,20,100,Latin Hypercube (nn),t.ic.calculate,2.4286799999972573,2000
+593,17,20,100,Latin Hypercube (nn),t.generation,0.0013271999996504746,2000
+593,17,20,100,Latin Hypercube (nn),t.ic.calculate,2.4400645999994595,2000
+594,18,20,100,Latin Hypercube (nn),t.generation,0.0011991999999736436,2000
+594,18,20,100,Latin Hypercube (nn),t.ic.calculate,2.411485699998593,2000
+595,19,20,100,Latin Hypercube (nn),t.generation,0.0012533000008261297,2000
+595,19,20,100,Latin Hypercube (nn),t.ic.calculate,2.234702699999616,2000
+596,20,20,100,Latin Hypercube (nn),t.generation,0.0013643000020238105,2000
+596,20,20,100,Latin Hypercube (nn),t.ic.calculate,2.7002556000006734,2000
+597,21,20,100,Latin Hypercube (nn),t.generation,0.001238000000739703,2000
+597,21,20,100,Latin Hypercube (nn),t.ic.calculate,2.106116799997835,2000
+598,22,20,100,Latin Hypercube (nn),t.generation,0.001297599999816157,2000
+598,22,20,100,Latin Hypercube (nn),t.ic.calculate,2.1645071000020835,2000
+599,23,20,100,Latin Hypercube (nn),t.generation,0.001207000001159031,2000
+599,23,20,100,Latin Hypercube (nn),t.ic.calculate,2.297271499999624,2000
+600,24,20,100,Latin Hypercube (nn),t.generation,0.0011544000008143485,2000
+600,24,20,100,Latin Hypercube (nn),t.ic.calculate,2.269262499998149,2000
+601,1,20,100,Latin Hypercube (hc),t.generation,0.0012349999997240957,2000
+601,1,20,100,Latin Hypercube (hc),t.ic.calculate,1.5386657000017294,2000
+602,2,20,100,Latin Hypercube (hc),t.generation,0.001201500002935063,2000
+602,2,20,100,Latin Hypercube (hc),t.ic.calculate,2.0690681999985827,2000
+603,3,20,100,Latin Hypercube (hc),t.generation,0.001208300000143936,2000
+603,3,20,100,Latin Hypercube (hc),t.ic.calculate,1.6685222999985854,2000
+604,4,20,100,Latin Hypercube (hc),t.generation,0.0012492999994719867,2000
+604,4,20,100,Latin Hypercube (hc),t.ic.calculate,1.7196091999976488,2000
+605,5,20,100,Latin Hypercube (hc),t.generation,0.0012937999999849126,2000
+605,5,20,100,Latin Hypercube (hc),t.ic.calculate,1.5217196000012336,2000
+606,6,20,100,Latin Hypercube (hc),t.generation,0.0011789999989559874,2000
+606,6,20,100,Latin Hypercube (hc),t.ic.calculate,1.9473617999974522,2000
+607,7,20,100,Latin Hypercube (hc),t.generation,0.0013446999982988928,2000
+607,7,20,100,Latin Hypercube (hc),t.ic.calculate,1.6540505999982997,2000
+608,8,20,100,Latin Hypercube (hc),t.generation,0.0013111999978718814,2000
+608,8,20,100,Latin Hypercube (hc),t.ic.calculate,1.8858231999984127,2000
+609,9,20,100,Latin Hypercube (hc),t.generation,0.0012447000008251052,2000
+609,9,20,100,Latin Hypercube (hc),t.ic.calculate,1.8860740000018268,2000
+610,10,20,100,Latin Hypercube (hc),t.generation,0.0012614000006578863,2000
+610,10,20,100,Latin Hypercube (hc),t.ic.calculate,2.0609029999977793,2000
+611,11,20,100,Latin Hypercube (hc),t.generation,0.0012520000018412247,2000
+611,11,20,100,Latin Hypercube (hc),t.ic.calculate,2.03383759999997,2000
+612,12,20,100,Latin Hypercube (hc),t.generation,0.0012553000015032012,2000
+612,12,20,100,Latin Hypercube (hc),t.ic.calculate,2.3173673000019335,2000
+613,13,20,100,Latin Hypercube (hc),t.generation,0.0013061999998171814,2000
+613,13,20,100,Latin Hypercube (hc),t.ic.calculate,1.6011814000012237,2000
+614,14,20,100,Latin Hypercube (hc),t.generation,0.0013436000008368865,2000
+614,14,20,100,Latin Hypercube (hc),t.ic.calculate,1.5620976999998675,2000
+615,15,20,100,Latin Hypercube (hc),t.generation,0.0012588000026880763,2000
+615,15,20,100,Latin Hypercube (hc),t.ic.calculate,1.6121772000005876,2000
+616,16,20,100,Latin Hypercube (hc),t.generation,0.0013620999998238403,2000
+616,16,20,100,Latin Hypercube (hc),t.ic.calculate,1.4844159000022046,2000
+617,17,20,100,Latin Hypercube (hc),t.generation,0.0012562000010802876,2000
+617,17,20,100,Latin Hypercube (hc),t.ic.calculate,1.518469599999662,2000
+618,18,20,100,Latin Hypercube (hc),t.generation,0.0011966999991273042,2000
+618,18,20,100,Latin Hypercube (hc),t.ic.calculate,1.6083662000019103,2000
+619,19,20,100,Latin Hypercube (hc),t.generation,0.0011767999967560172,2000
+619,19,20,100,Latin Hypercube (hc),t.ic.calculate,1.564741199999844,2000
+620,20,20,100,Latin Hypercube (hc),t.generation,0.001277999999729218,2000
+620,20,20,100,Latin Hypercube (hc),t.ic.calculate,1.8706060000004072,2000
+621,21,20,100,Latin Hypercube (hc),t.generation,0.0011276999975962099,2000
+621,21,20,100,Latin Hypercube (hc),t.ic.calculate,1.3474471000008634,2000
+622,22,20,100,Latin Hypercube (hc),t.generation,0.0012968000010005198,2000
+622,22,20,100,Latin Hypercube (hc),t.ic.calculate,1.313662699998531,2000
+623,23,20,100,Latin Hypercube (hc),t.generation,0.001286999999138061,2000
+623,23,20,100,Latin Hypercube (hc),t.ic.calculate,1.4182092000010016,2000
+624,24,20,100,Latin Hypercube (hc),t.generation,0.0012505999984568916,2000
+624,24,20,100,Latin Hypercube (hc),t.ic.calculate,1.5509256000004825,2000
+625,1,20,100,Latin Hypercube (rnd),t.generation,0.0016037999994296115,2000
+625,1,20,100,Latin Hypercube (rnd),t.ic.calculate,1.33260700000028,2000
+626,2,20,100,Latin Hypercube (rnd),t.generation,0.0011669000014080666,2000
+626,2,20,100,Latin Hypercube (rnd),t.ic.calculate,1.8751750999981596,2000
+627,3,20,100,Latin Hypercube (rnd),t.generation,0.001192399999126792,2000
+627,3,20,100,Latin Hypercube (rnd),t.ic.calculate,1.4781160999991698,2000
+628,4,20,100,Latin Hypercube (rnd),t.generation,0.001231899997947039,2000
+628,4,20,100,Latin Hypercube (rnd),t.ic.calculate,1.5196826000028523,2000
+629,5,20,100,Latin Hypercube (rnd),t.generation,0.0012060999979439657,2000
+629,5,20,100,Latin Hypercube (rnd),t.ic.calculate,1.3407662999998138,2000
+630,6,20,100,Latin Hypercube (rnd),t.generation,0.0013339999968593474,2000
+630,6,20,100,Latin Hypercube (rnd),t.ic.calculate,1.7383690999995451,2000
+631,7,20,100,Latin Hypercube (rnd),t.generation,0.0014626000011048745,2000
+631,7,20,100,Latin Hypercube (rnd),t.ic.calculate,1.4623557000013534,2000
+632,8,20,100,Latin Hypercube (rnd),t.generation,0.0012342000009084586,2000
+632,8,20,100,Latin Hypercube (rnd),t.ic.calculate,1.6913926000015636,2000
+633,9,20,100,Latin Hypercube (rnd),t.generation,0.0012105999994673766,2000
+633,9,20,100,Latin Hypercube (rnd),t.ic.calculate,1.6819615999993403,2000
+634,10,20,100,Latin Hypercube (rnd),t.generation,0.0011937999988731463,2000
+634,10,20,100,Latin Hypercube (rnd),t.ic.calculate,1.8688652999990154,2000
+635,11,20,100,Latin Hypercube (rnd),t.generation,0.001328099999227561,2000
+635,11,20,100,Latin Hypercube (rnd),t.ic.calculate,1.8544342999994115,2000
+636,12,20,100,Latin Hypercube (rnd),t.generation,0.001181300001917407,2000
+636,12,20,100,Latin Hypercube (rnd),t.ic.calculate,2.134755099999893,2000
+637,13,20,100,Latin Hypercube (rnd),t.generation,0.0012474000031943433,2000
+637,13,20,100,Latin Hypercube (rnd),t.ic.calculate,1.4115096000023186,2000
+638,14,20,100,Latin Hypercube (rnd),t.generation,0.0013327999986358918,2000
+638,14,20,100,Latin Hypercube (rnd),t.ic.calculate,1.3587995000016235,2000
+639,15,20,100,Latin Hypercube (rnd),t.generation,0.001323600001342129,2000
+639,15,20,100,Latin Hypercube (rnd),t.ic.calculate,1.432045300000027,2000
+640,16,20,100,Latin Hypercube (rnd),t.generation,0.0012594999971042853,2000
+640,16,20,100,Latin Hypercube (rnd),t.ic.calculate,1.281391699998494,2000
+641,17,20,100,Latin Hypercube (rnd),t.generation,0.0012725999986287206,2000
+641,17,20,100,Latin Hypercube (rnd),t.ic.calculate,1.3518949999997858,2000
+642,18,20,100,Latin Hypercube (rnd),t.generation,0.0011660999989544507,2000
+642,18,20,100,Latin Hypercube (rnd),t.ic.calculate,1.4162569000000076,2000
+643,19,20,100,Latin Hypercube (rnd),t.generation,0.0012196000025141984,2000
+643,19,20,100,Latin Hypercube (rnd),t.ic.calculate,1.2896188000013353,2000
+644,20,20,100,Latin Hypercube (rnd),t.generation,0.001297599999816157,2000
+644,20,20,100,Latin Hypercube (rnd),t.ic.calculate,1.6618540000017674,2000
+645,21,20,100,Latin Hypercube (rnd),t.generation,0.0013342999991436955,2000
+645,21,20,100,Latin Hypercube (rnd),t.ic.calculate,1.1514882000010402,2000
+646,22,20,100,Latin Hypercube (rnd),t.generation,0.001166500002000248,2000
+646,22,20,100,Latin Hypercube (rnd),t.ic.calculate,1.1379503999996814,2000
+647,23,20,100,Latin Hypercube (rnd),t.generation,0.001604699999006698,2000
+647,23,20,100,Latin Hypercube (rnd),t.ic.calculate,1.223597800002608,2000
+648,24,20,100,Latin Hypercube (rnd),t.generation,0.0012663999987125862,2000
+648,24,20,100,Latin Hypercube (rnd),t.ic.calculate,1.3604073999995308,2000
+649,1,20,100,Hilbert Curve,t.generation,0.06051110000043991,2000
+649,1,20,100,Hilbert Curve,t.ic.calculate,1.3428415000016685,2000
+650,2,20,100,Hilbert Curve,t.generation,0.061899199998151744,2000
+650,2,20,100,Hilbert Curve,t.ic.calculate,1.8798925000010058,2000
+651,3,20,100,Hilbert Curve,t.generation,0.06207010000071023,2000
+651,3,20,100,Hilbert Curve,t.ic.calculate,1.4837743999996746,2000
+652,4,20,100,Hilbert Curve,t.generation,0.061327699997491436,2000
+652,4,20,100,Hilbert Curve,t.ic.calculate,1.5323429000018223,2000
+653,5,20,100,Hilbert Curve,t.generation,0.06080629999996745,2000
+653,5,20,100,Hilbert Curve,t.ic.calculate,1.3307712999994692,2000
+654,6,20,100,Hilbert Curve,t.generation,0.06070970000291709,2000
+654,6,20,100,Hilbert Curve,t.ic.calculate,1.7246938999996928,2000
+655,7,20,100,Hilbert Curve,t.generation,0.0606898000005458,2000
+655,7,20,100,Hilbert Curve,t.ic.calculate,1.460311399998318,2000
+656,8,20,100,Hilbert Curve,t.generation,0.06159720000141533,2000
+656,8,20,100,Hilbert Curve,t.ic.calculate,1.6876272000008612,2000
+657,9,20,100,Hilbert Curve,t.generation,0.06142659999750322,2000
+657,9,20,100,Hilbert Curve,t.ic.calculate,1.6773887999988801,2000
+658,10,20,100,Hilbert Curve,t.generation,0.06194379999942612,2000
+658,10,20,100,Hilbert Curve,t.ic.calculate,1.8867710000013176,2000
+659,11,20,100,Hilbert Curve,t.generation,0.06124970000018948,2000
+659,11,20,100,Hilbert Curve,t.ic.calculate,1.8535397999985435,2000
+660,12,20,100,Hilbert Curve,t.generation,0.061562399998365436,2000
+660,12,20,100,Hilbert Curve,t.ic.calculate,2.115657900001679,2000
+661,13,20,100,Hilbert Curve,t.generation,0.06141779999961727,2000
+661,13,20,100,Hilbert Curve,t.ic.calculate,1.407711299998482,2000
+662,14,20,100,Hilbert Curve,t.generation,0.06234699999913573,2000
+662,14,20,100,Hilbert Curve,t.ic.calculate,1.3598074000001361,2000
+663,15,20,100,Hilbert Curve,t.generation,0.06097980000049574,2000
+663,15,20,100,Hilbert Curve,t.ic.calculate,1.437824599997839,2000
+664,16,20,100,Hilbert Curve,t.generation,0.061548000001494074,2000
+664,16,20,100,Hilbert Curve,t.ic.calculate,1.29430610000054,2000
+665,17,20,100,Hilbert Curve,t.generation,0.06159969999862369,2000
+665,17,20,100,Hilbert Curve,t.ic.calculate,1.3409825999988243,2000
+666,18,20,100,Hilbert Curve,t.generation,0.06106089999957476,2000
+666,18,20,100,Hilbert Curve,t.ic.calculate,1.3991224000019429,2000
+667,19,20,100,Hilbert Curve,t.generation,0.06095560000176192,2000
+667,19,20,100,Hilbert Curve,t.ic.calculate,1.2755892999994103,2000
+668,20,20,100,Hilbert Curve,t.generation,0.06135070000163978,2000
+668,20,20,100,Hilbert Curve,t.ic.calculate,1.6645714000005682,2000
+669,21,20,100,Hilbert Curve,t.generation,0.06036839999796939,2000
+669,21,20,100,Hilbert Curve,t.ic.calculate,1.1776976000001014,2000
+670,22,20,100,Hilbert Curve,t.generation,0.06064619999960996,2000
+670,22,20,100,Hilbert Curve,t.ic.calculate,1.1527433000010205,2000
+671,23,20,100,Hilbert Curve,t.generation,0.061415299998770934,2000
+671,23,20,100,Hilbert Curve,t.ic.calculate,1.2491073999990476,2000
+672,24,20,100,Hilbert Curve,t.generation,0.06052759999874979,2000
+672,24,20,100,Hilbert Curve,t.ic.calculate,1.3728792000001704,2000
+673,1,20,316,Latin Hypercube (nn),t.generation,0.003313299999717856,6320
+673,1,20,316,Latin Hypercube (nn),t.ic.calculate,7.603698800001439,6320
+674,2,20,316,Latin Hypercube (nn),t.generation,0.0032021999977587257,6320
+674,2,20,316,Latin Hypercube (nn),t.ic.calculate,9.488657999998395,6320
+675,3,20,316,Latin Hypercube (nn),t.generation,0.0034540999986347742,6320
+675,3,20,316,Latin Hypercube (nn),t.ic.calculate,8.166909100000339,6320
+676,4,20,316,Latin Hypercube (nn),t.generation,0.0031490000001213048,6320
+676,4,20,316,Latin Hypercube (nn),t.ic.calculate,8.177305099998193,6320
+677,5,20,316,Latin Hypercube (nn),t.generation,0.0028044999999110587,6320
+677,5,20,316,Latin Hypercube (nn),t.ic.calculate,7.676109399999405,6320
+678,6,20,316,Latin Hypercube (nn),t.generation,0.0029361999986576848,6320
+678,6,20,316,Latin Hypercube (nn),t.ic.calculate,8.826816499997221,6320
+679,7,20,316,Latin Hypercube (nn),t.generation,0.0029818000002705958,6320
+679,7,20,316,Latin Hypercube (nn),t.ic.calculate,8.140044200001284,6320
+680,8,20,316,Latin Hypercube (nn),t.generation,0.0028203000001667533,6320
+680,8,20,316,Latin Hypercube (nn),t.ic.calculate,8.860485300003347,6320
+681,9,20,316,Latin Hypercube (nn),t.generation,0.0028679999995802063,6320
+681,9,20,316,Latin Hypercube (nn),t.ic.calculate,8.64960489999794,6320
+682,10,20,316,Latin Hypercube (nn),t.generation,0.003075399999943329,6320
+682,10,20,316,Latin Hypercube (nn),t.ic.calculate,9.33065440000064,6320
+683,11,20,316,Latin Hypercube (nn),t.generation,0.0029352999990805984,6320
+683,11,20,316,Latin Hypercube (nn),t.ic.calculate,9.210280000002967,6320
+684,12,20,316,Latin Hypercube (nn),t.generation,0.0029773000023851637,6320
+684,12,20,316,Latin Hypercube (nn),t.ic.calculate,10.504287799998565,6320
+685,13,20,316,Latin Hypercube (nn),t.generation,0.003110400000878144,6320
+685,13,20,316,Latin Hypercube (nn),t.ic.calculate,7.872082400001091,6320
+686,14,20,316,Latin Hypercube (nn),t.generation,0.002988500000355998,6320
+686,14,20,316,Latin Hypercube (nn),t.ic.calculate,7.781916700001602,6320
+687,15,20,316,Latin Hypercube (nn),t.generation,0.004182600001513492,6320
+687,15,20,316,Latin Hypercube (nn),t.ic.calculate,8.220993499999167,6320
+688,16,20,316,Latin Hypercube (nn),t.generation,0.0032587000023340806,6320
+688,16,20,316,Latin Hypercube (nn),t.ic.calculate,7.788660599999275,6320
+689,17,20,316,Latin Hypercube (nn),t.generation,0.0030382000004465226,6320
+689,17,20,316,Latin Hypercube (nn),t.ic.calculate,7.617903399997886,6320
+690,18,20,316,Latin Hypercube (nn),t.generation,0.003110900001047412,6320
+690,18,20,316,Latin Hypercube (nn),t.ic.calculate,8.077226199999131,6320
+691,19,20,316,Latin Hypercube (nn),t.generation,0.002877999999327585,6320
+691,19,20,316,Latin Hypercube (nn),t.ic.calculate,7.777709099998901,6320
+692,20,20,316,Latin Hypercube (nn),t.generation,0.0028400000010151416,6320
+692,20,20,316,Latin Hypercube (nn),t.ic.calculate,8.777463900001749,6320
+693,21,20,316,Latin Hypercube (nn),t.generation,0.0029127999987395015,6320
+693,21,20,316,Latin Hypercube (nn),t.ic.calculate,7.460557499998686,6320
+694,22,20,316,Latin Hypercube (nn),t.generation,0.0030753000028198585,6320
+694,22,20,316,Latin Hypercube (nn),t.ic.calculate,7.1286752999985765,6320
+695,23,20,316,Latin Hypercube (nn),t.generation,0.002898899998399429,6320
+695,23,20,316,Latin Hypercube (nn),t.ic.calculate,7.333943599998747,6320
+696,24,20,316,Latin Hypercube (nn),t.generation,0.0029140999977244064,6320
+696,24,20,316,Latin Hypercube (nn),t.ic.calculate,7.8650567999975465,6320
+697,1,20,316,Latin Hypercube (hc),t.generation,0.003079400001297472,6320
+697,1,20,316,Latin Hypercube (hc),t.ic.calculate,4.7431176000027335,6320
+698,2,20,316,Latin Hypercube (hc),t.generation,0.0036054999982297886,6320
+698,2,20,316,Latin Hypercube (hc),t.ic.calculate,6.547737700002472,6320
+699,3,20,316,Latin Hypercube (hc),t.generation,0.003107200001977617,6320
+699,3,20,316,Latin Hypercube (hc),t.ic.calculate,5.2296710000009625,6320
+700,4,20,316,Latin Hypercube (hc),t.generation,0.0031988000009732787,6320
+700,4,20,316,Latin Hypercube (hc),t.ic.calculate,5.3441653000008955,6320
+701,5,20,316,Latin Hypercube (hc),t.generation,0.0032311000031768344,6320
+701,5,20,316,Latin Hypercube (hc),t.ic.calculate,4.757311399996979,6320
+702,6,20,316,Latin Hypercube (hc),t.generation,0.0028347000006760936,6320
+702,6,20,316,Latin Hypercube (hc),t.ic.calculate,6.00538460000098,6320
+703,7,20,316,Latin Hypercube (hc),t.generation,0.0035028999991482124,6320
+703,7,20,316,Latin Hypercube (hc),t.ic.calculate,5.1644508999997925,6320
+704,8,20,316,Latin Hypercube (hc),t.generation,0.003108000000793254,6320
+704,8,20,316,Latin Hypercube (hc),t.ic.calculate,5.9546296000007715,6320
+705,9,20,316,Latin Hypercube (hc),t.generation,0.0030890000016370323,6320
+705,9,20,316,Latin Hypercube (hc),t.ic.calculate,5.899417700002232,6320
+706,10,20,316,Latin Hypercube (hc),t.generation,0.003323099997942336,6320
+706,10,20,316,Latin Hypercube (hc),t.ic.calculate,6.41905129999941,6320
+707,11,20,316,Latin Hypercube (hc),t.generation,0.002860799999325536,6320
+707,11,20,316,Latin Hypercube (hc),t.ic.calculate,6.342271800000162,6320
+708,12,20,316,Latin Hypercube (hc),t.generation,0.0034233999977004714,6320
+708,12,20,316,Latin Hypercube (hc),t.ic.calculate,7.241968599999382,6320
+709,13,20,316,Latin Hypercube (hc),t.generation,0.0032543999986955896,6320
+709,13,20,316,Latin Hypercube (hc),t.ic.calculate,5.023966900000232,6320
+710,14,20,316,Latin Hypercube (hc),t.generation,0.0029721999999310356,6320
+710,14,20,316,Latin Hypercube (hc),t.ic.calculate,4.8090776999997615,6320
+711,15,20,316,Latin Hypercube (hc),t.generation,0.002861100001609884,6320
+711,15,20,316,Latin Hypercube (hc),t.ic.calculate,5.03985410000314,6320
+712,16,20,316,Latin Hypercube (hc),t.generation,0.002901799998653587,6320
+712,16,20,316,Latin Hypercube (hc),t.ic.calculate,4.599171199999546,6320
+713,17,20,316,Latin Hypercube (hc),t.generation,0.003114099999947939,6320
+713,17,20,316,Latin Hypercube (hc),t.ic.calculate,4.754542599999695,6320
+714,18,20,316,Latin Hypercube (hc),t.generation,0.0034377999982098117,6320
+714,18,20,316,Latin Hypercube (hc),t.ic.calculate,4.971069399998669,6320
+715,19,20,316,Latin Hypercube (hc),t.generation,0.0031282999989343807,6320
+715,19,20,316,Latin Hypercube (hc),t.ic.calculate,4.627534700000979,6320
+716,20,20,316,Latin Hypercube (hc),t.generation,0.0030905999992683064,6320
+716,20,20,316,Latin Hypercube (hc),t.ic.calculate,5.77802789999987,6320
+717,21,20,316,Latin Hypercube (hc),t.generation,0.003153300000121817,6320
+717,21,20,316,Latin Hypercube (hc),t.ic.calculate,4.298718900001404,6320
+718,22,20,316,Latin Hypercube (hc),t.generation,0.0031302999996114522,6320
+718,22,20,316,Latin Hypercube (hc),t.ic.calculate,4.062090600000374,6320
+719,23,20,316,Latin Hypercube (hc),t.generation,0.0029562999989138916,6320
+719,23,20,316,Latin Hypercube (hc),t.ic.calculate,4.386734600000636,6320
+720,24,20,316,Latin Hypercube (hc),t.generation,0.0029595000014523976,6320
+720,24,20,316,Latin Hypercube (hc),t.ic.calculate,4.888073300000542,6320
+721,1,20,316,Latin Hypercube (rnd),t.generation,0.0031763000006321818,6320
+721,1,20,316,Latin Hypercube (rnd),t.ic.calculate,4.103312300001562,6320
+722,2,20,316,Latin Hypercube (rnd),t.generation,0.0033163999978569336,6320
+722,2,20,316,Latin Hypercube (rnd),t.ic.calculate,5.7875211000027775,6320
+723,3,20,316,Latin Hypercube (rnd),t.generation,0.0034171000006608665,6320
+723,3,20,316,Latin Hypercube (rnd),t.ic.calculate,4.533098700001574,6320
+724,4,20,316,Latin Hypercube (rnd),t.generation,0.0030323999999382067,6320
+724,4,20,316,Latin Hypercube (rnd),t.ic.calculate,4.676379299999098,6320
+725,5,20,316,Latin Hypercube (rnd),t.generation,0.0030412999985856004,6320
+725,5,20,316,Latin Hypercube (rnd),t.ic.calculate,4.067539499999839,6320
+726,6,20,316,Latin Hypercube (rnd),t.generation,0.0029381999993347563,6320
+726,6,20,316,Latin Hypercube (rnd),t.ic.calculate,5.350726900000154,6320
+727,7,20,316,Latin Hypercube (rnd),t.generation,0.002853600002708845,6320
+727,7,20,316,Latin Hypercube (rnd),t.ic.calculate,4.503345699999045,6320
+728,8,20,316,Latin Hypercube (rnd),t.generation,0.003516299999319017,6320
+728,8,20,316,Latin Hypercube (rnd),t.ic.calculate,5.201787999998487,6320
+729,9,20,316,Latin Hypercube (rnd),t.generation,0.003112500002316665,6320
+729,9,20,316,Latin Hypercube (rnd),t.ic.calculate,5.167125299998588,6320
+730,10,20,316,Latin Hypercube (rnd),t.generation,0.0029460000005201437,6320
+730,10,20,316,Latin Hypercube (rnd),t.ic.calculate,5.778555700002471,6320
+731,11,20,316,Latin Hypercube (rnd),t.generation,0.002890899999329122,6320
+731,11,20,316,Latin Hypercube (rnd),t.ic.calculate,5.689235099998768,6320
+732,12,20,316,Latin Hypercube (rnd),t.generation,0.002933299998403527,6320
+732,12,20,316,Latin Hypercube (rnd),t.ic.calculate,6.607342800001788,6320
+733,13,20,316,Latin Hypercube (rnd),t.generation,0.0031029999991005752,6320
+733,13,20,316,Latin Hypercube (rnd),t.ic.calculate,4.346671499999502,6320
+734,14,20,316,Latin Hypercube (rnd),t.generation,0.00290560000212281,6320
+734,14,20,316,Latin Hypercube (rnd),t.ic.calculate,4.143791699996655,6320
+735,15,20,316,Latin Hypercube (rnd),t.generation,0.002855499998986488,6320
+735,15,20,316,Latin Hypercube (rnd),t.ic.calculate,4.485665199998039,6320
+736,16,20,316,Latin Hypercube (rnd),t.generation,0.0028928000028827228,6320
+736,16,20,316,Latin Hypercube (rnd),t.ic.calculate,3.964842100001988,6320
+737,17,20,316,Latin Hypercube (rnd),t.generation,0.0030867000023135915,6320
+737,17,20,316,Latin Hypercube (rnd),t.ic.calculate,4.105676899998798,6320
+738,18,20,316,Latin Hypercube (rnd),t.generation,0.0030234000005293638,6320
+738,18,20,316,Latin Hypercube (rnd),t.ic.calculate,4.29097339999862,6320
+739,19,20,316,Latin Hypercube (rnd),t.generation,0.0028041999976267107,6320
+739,19,20,316,Latin Hypercube (rnd),t.ic.calculate,3.918679099999281,6320
+740,20,20,316,Latin Hypercube (rnd),t.generation,0.0029531000000133645,6320
+740,20,20,316,Latin Hypercube (rnd),t.ic.calculate,5.093221499999345,6320
+741,21,20,316,Latin Hypercube (rnd),t.generation,0.0029192000001785345,6320
+741,21,20,316,Latin Hypercube (rnd),t.ic.calculate,3.517257800001971,6320
+742,22,20,316,Latin Hypercube (rnd),t.generation,0.0029727000001003034,6320
+742,22,20,316,Latin Hypercube (rnd),t.ic.calculate,3.4041490999989037,6320
+743,23,20,316,Latin Hypercube (rnd),t.generation,0.002849900000001071,6320
+743,23,20,316,Latin Hypercube (rnd),t.ic.calculate,3.713468099998863,6320
+744,24,20,316,Latin Hypercube (rnd),t.generation,0.003246000000217464,6320
+744,24,20,316,Latin Hypercube (rnd),t.ic.calculate,4.175498399999924,6320
+745,1,20,316,Hilbert Curve,t.generation,0.1890504000002693,6320
+745,1,20,316,Hilbert Curve,t.ic.calculate,4.076473699999042,6320
+746,2,20,316,Hilbert Curve,t.generation,0.19146719999844208,6320
+746,2,20,316,Hilbert Curve,t.ic.calculate,5.820792499998788,6320
+747,3,20,316,Hilbert Curve,t.generation,0.1994598000019323,6320
+747,3,20,316,Hilbert Curve,t.ic.calculate,4.518073500003084,6320
+748,4,20,316,Hilbert Curve,t.generation,0.19540300000153366,6320
+748,4,20,316,Hilbert Curve,t.ic.calculate,4.7064402000032715,6320
+749,5,20,316,Hilbert Curve,t.generation,0.19072240000241436,6320
+749,5,20,316,Hilbert Curve,t.ic.calculate,4.131879199998366,6320
+750,6,20,316,Hilbert Curve,t.generation,0.19169609999880777,6320
+750,6,20,316,Hilbert Curve,t.ic.calculate,5.310427599997638,6320
+751,7,20,316,Hilbert Curve,t.generation,0.19107729999814183,6320
+751,7,20,316,Hilbert Curve,t.ic.calculate,4.4700836000010895,6320
+752,8,20,316,Hilbert Curve,t.generation,0.19455139999990934,6320
+752,8,20,316,Hilbert Curve,t.ic.calculate,5.180510200003482,6320
+753,9,20,316,Hilbert Curve,t.generation,0.1906474999996135,6320
+753,9,20,316,Hilbert Curve,t.ic.calculate,5.155527200000506,6320
+754,10,20,316,Hilbert Curve,t.generation,0.1915277000007336,6320
+754,10,20,316,Hilbert Curve,t.ic.calculate,5.789072399998986,6320
+755,11,20,316,Hilbert Curve,t.generation,0.1941437000023143,6320
+755,11,20,316,Hilbert Curve,t.ic.calculate,5.666171799999574,6320
+756,12,20,316,Hilbert Curve,t.generation,0.19303990000116755,6320
+756,12,20,316,Hilbert Curve,t.ic.calculate,6.543003900002077,6320
+757,13,20,316,Hilbert Curve,t.generation,0.19339229999968666,6320
+757,13,20,316,Hilbert Curve,t.ic.calculate,4.33583059999728,6320
+758,14,20,316,Hilbert Curve,t.generation,0.19360500000038883,6320
+758,14,20,316,Hilbert Curve,t.ic.calculate,4.165494500000932,6320
+759,15,20,316,Hilbert Curve,t.generation,0.19013059999997495,6320
+759,15,20,316,Hilbert Curve,t.ic.calculate,4.376517900000181,6320
+760,16,20,316,Hilbert Curve,t.generation,0.19063769999775104,6320
+760,16,20,316,Hilbert Curve,t.ic.calculate,3.962189399997442,6320
+761,17,20,316,Hilbert Curve,t.generation,0.19274500000028638,6320
+761,17,20,316,Hilbert Curve,t.ic.calculate,4.07444039999973,6320
+762,18,20,316,Hilbert Curve,t.generation,0.19179799999983516,6320
+762,18,20,316,Hilbert Curve,t.ic.calculate,4.287671400001273,6320
+763,19,20,316,Hilbert Curve,t.generation,0.19254169999840087,6320
+763,19,20,316,Hilbert Curve,t.ic.calculate,3.97124089999852,6320
+764,20,20,316,Hilbert Curve,t.generation,0.1939569999995001,6320
+764,20,20,316,Hilbert Curve,t.ic.calculate,5.103803699999844,6320
+765,21,20,316,Hilbert Curve,t.generation,0.19358090000241646,6320
+765,21,20,316,Hilbert Curve,t.ic.calculate,3.5926760000002105,6320
+766,22,20,316,Hilbert Curve,t.generation,0.19271949999892968,6320
+766,22,20,316,Hilbert Curve,t.ic.calculate,3.476809499999945,6320
+767,23,20,316,Hilbert Curve,t.generation,0.19195510000281502,6320
+767,23,20,316,Hilbert Curve,t.ic.calculate,3.7588231999980053,6320
+768,24,20,316,Hilbert Curve,t.generation,0.1904324999995879,6320
+768,24,20,316,Hilbert Curve,t.ic.calculate,4.186426799999026,6320
+769,1,20,1000,Latin Hypercube (nn),t.generation,0.010101700001541758,20000
+769,1,20,1000,Latin Hypercube (nn),t.ic.calculate,34.59120400000029,20000
+770,2,20,1000,Latin Hypercube (nn),t.generation,0.011810800002422184,20000
+770,2,20,1000,Latin Hypercube (nn),t.ic.calculate,39.50015980000171,20000
+771,3,20,1000,Latin Hypercube (nn),t.generation,0.011842799998703413,20000
+771,3,20,1000,Latin Hypercube (nn),t.ic.calculate,36.365075500001694,20000
+772,4,20,1000,Latin Hypercube (nn),t.generation,0.011315200001263293,20000
+772,4,20,1000,Latin Hypercube (nn),t.ic.calculate,36.31480290000036,20000
+773,5,20,1000,Latin Hypercube (nn),t.generation,0.011481100002129097,20000
+773,5,20,1000,Latin Hypercube (nn),t.ic.calculate,35.01467389999743,20000
+774,6,20,1000,Latin Hypercube (nn),t.generation,0.011198399999557296,20000
+774,6,20,1000,Latin Hypercube (nn),t.ic.calculate,38.50197630000184,20000
+775,7,20,1000,Latin Hypercube (nn),t.generation,0.010870100002648542,20000
+775,7,20,1000,Latin Hypercube (nn),t.ic.calculate,36.132816100001946,20000
+776,8,20,1000,Latin Hypercube (nn),t.generation,0.011505500002385816,20000
+776,8,20,1000,Latin Hypercube (nn),t.ic.calculate,38.569197599998006,20000
+777,9,20,1000,Latin Hypercube (nn),t.generation,0.011195999999472406,20000
+777,9,20,1000,Latin Hypercube (nn),t.ic.calculate,38.32012069999837,20000
+778,10,20,1000,Latin Hypercube (nn),t.generation,0.010895899999013636,20000
+778,10,20,1000,Latin Hypercube (nn),t.ic.calculate,39.79619489999823,20000
+779,11,20,1000,Latin Hypercube (nn),t.generation,0.011160000001837034,20000
+779,11,20,1000,Latin Hypercube (nn),t.ic.calculate,39.663111700003356,20000
+780,12,20,1000,Latin Hypercube (nn),t.generation,0.011701900002663024,20000
+780,12,20,1000,Latin Hypercube (nn),t.ic.calculate,42.48379130000103,20000
+781,13,20,1000,Latin Hypercube (nn),t.generation,0.010413700001663528,20000
+781,13,20,1000,Latin Hypercube (nn),t.ic.calculate,35.90691800000059,20000
+782,14,20,1000,Latin Hypercube (nn),t.generation,0.010736800002632663,20000
+782,14,20,1000,Latin Hypercube (nn),t.ic.calculate,34.94324979999874,20000
+783,15,20,1000,Latin Hypercube (nn),t.generation,0.011135400000057416,20000
+783,15,20,1000,Latin Hypercube (nn),t.ic.calculate,36.12801000000036,20000
+784,16,20,1000,Latin Hypercube (nn),t.generation,0.010639300002367236,20000
+784,16,20,1000,Latin Hypercube (nn),t.ic.calculate,34.50713519999772,20000
+785,17,20,1000,Latin Hypercube (nn),t.generation,0.010300300000380957,20000
+785,17,20,1000,Latin Hypercube (nn),t.ic.calculate,35.113620200001606,20000
+786,18,20,1000,Latin Hypercube (nn),t.generation,0.01127239999914309,20000
+786,18,20,1000,Latin Hypercube (nn),t.ic.calculate,35.59853870000006,20000
+787,19,20,1000,Latin Hypercube (nn),t.generation,0.011726299999281764,20000
+787,19,20,1000,Latin Hypercube (nn),t.ic.calculate,34.42762039999798,20000
+788,20,20,1000,Latin Hypercube (nn),t.generation,0.0110184000004665,20000
+788,20,20,1000,Latin Hypercube (nn),t.ic.calculate,38.03429509999842,20000
+789,21,20,1000,Latin Hypercube (nn),t.generation,0.012268099999346305,20000
+789,21,20,1000,Latin Hypercube (nn),t.ic.calculate,32.84823469999901,20000
+790,22,20,1000,Latin Hypercube (nn),t.generation,0.010266500001307577,20000
+790,22,20,1000,Latin Hypercube (nn),t.ic.calculate,32.36450889999833,20000
+791,23,20,1000,Latin Hypercube (nn),t.generation,0.011071000000811182,20000
+791,23,20,1000,Latin Hypercube (nn),t.ic.calculate,33.52566740000111,20000
+792,24,20,1000,Latin Hypercube (nn),t.generation,0.011136400000395952,20000
+792,24,20,1000,Latin Hypercube (nn),t.ic.calculate,34.76072270000077,20000
+793,1,20,1000,Latin Hypercube (hc),t.generation,0.010534799999732058,20000
+793,1,20,1000,Latin Hypercube (hc),t.ic.calculate,15.093417899999622,20000
+794,2,20,1000,Latin Hypercube (hc),t.generation,0.010906000003160443,20000
+794,2,20,1000,Latin Hypercube (hc),t.ic.calculate,20.863833100000193,20000
+795,3,20,1000,Latin Hypercube (hc),t.generation,0.010911399996984983,20000
+795,3,20,1000,Latin Hypercube (hc),t.ic.calculate,16.84806380000009,20000
+796,4,20,1000,Latin Hypercube (hc),t.generation,0.010903400001552654,20000
+796,4,20,1000,Latin Hypercube (hc),t.ic.calculate,17.158776299998863,20000
+797,5,20,1000,Latin Hypercube (hc),t.generation,0.011077300001488766,20000
+797,5,20,1000,Latin Hypercube (hc),t.ic.calculate,15.063681700001325,20000
+798,6,20,1000,Latin Hypercube (hc),t.generation,0.011219500000152038,20000
+798,6,20,1000,Latin Hypercube (hc),t.ic.calculate,19.185146200001327,20000
+799,7,20,1000,Latin Hypercube (hc),t.generation,0.011250999999901978,20000
+799,7,20,1000,Latin Hypercube (hc),t.ic.calculate,16.43287229999987,20000
+800,8,20,1000,Latin Hypercube (hc),t.generation,0.011270800001511816,20000
+800,8,20,1000,Latin Hypercube (hc),t.ic.calculate,18.78283680000095,20000
+801,9,20,1000,Latin Hypercube (hc),t.generation,0.011073599998780992,20000
+801,9,20,1000,Latin Hypercube (hc),t.ic.calculate,18.827563399998326,20000
+802,10,20,1000,Latin Hypercube (hc),t.generation,0.010876399999688147,20000
+802,10,20,1000,Latin Hypercube (hc),t.ic.calculate,20.684152300000278,20000
+803,11,20,1000,Latin Hypercube (hc),t.generation,0.010876600001211045,20000
+803,11,20,1000,Latin Hypercube (hc),t.ic.calculate,20.248147700000118,20000
+804,12,20,1000,Latin Hypercube (hc),t.generation,0.011083900000812719,20000
+804,12,20,1000,Latin Hypercube (hc),t.ic.calculate,23.175294499997108,20000
+805,13,20,1000,Latin Hypercube (hc),t.generation,0.01043299999946612,20000
+805,13,20,1000,Latin Hypercube (hc),t.ic.calculate,15.947289299998374,20000
+806,14,20,1000,Latin Hypercube (hc),t.generation,0.011132499999803258,20000
+806,14,20,1000,Latin Hypercube (hc),t.ic.calculate,15.462140400002681,20000
+807,15,20,1000,Latin Hypercube (hc),t.generation,0.011706099998264108,20000
+807,15,20,1000,Latin Hypercube (hc),t.ic.calculate,16.296208600000682,20000
+808,16,20,1000,Latin Hypercube (hc),t.generation,0.011354099999152822,20000
+808,16,20,1000,Latin Hypercube (hc),t.ic.calculate,15.067689300001803,20000
+809,17,20,1000,Latin Hypercube (hc),t.generation,0.012151300001278287,20000
+809,17,20,1000,Latin Hypercube (hc),t.ic.calculate,15.287656399999833,20000
+810,18,20,1000,Latin Hypercube (hc),t.generation,0.01081010000052629,20000
+810,18,20,1000,Latin Hypercube (hc),t.ic.calculate,16.066804999998567,20000
+811,19,20,1000,Latin Hypercube (hc),t.generation,0.010974599998007761,20000
+811,19,20,1000,Latin Hypercube (hc),t.ic.calculate,14.981936600001063,20000
+812,20,20,1000,Latin Hypercube (hc),t.generation,0.011057300001994008,20000
+812,20,20,1000,Latin Hypercube (hc),t.ic.calculate,18.669907700001204,20000
+813,21,20,1000,Latin Hypercube (hc),t.generation,0.010634000002028188,20000
+813,21,20,1000,Latin Hypercube (hc),t.ic.calculate,13.448248500000773,20000
+814,22,20,1000,Latin Hypercube (hc),t.generation,0.011341800000082003,20000
+814,22,20,1000,Latin Hypercube (hc),t.ic.calculate,13.016614000000118,20000
+815,23,20,1000,Latin Hypercube (hc),t.generation,0.010694600001443177,20000
+815,23,20,1000,Latin Hypercube (hc),t.ic.calculate,14.007868900000176,20000
+816,24,20,1000,Latin Hypercube (hc),t.generation,0.010230500000034226,20000
+816,24,20,1000,Latin Hypercube (hc),t.ic.calculate,15.395676699998148,20000
+817,1,20,1000,Latin Hypercube (rnd),t.generation,0.01096299999699113,20000
+817,1,20,1000,Latin Hypercube (rnd),t.ic.calculate,12.737753999997949,20000
+818,2,20,1000,Latin Hypercube (rnd),t.generation,0.010306600001058541,20000
+818,2,20,1000,Latin Hypercube (rnd),t.ic.calculate,18.313981900002545,20000
+819,3,20,1000,Latin Hypercube (rnd),t.generation,0.010961399999359855,20000
+819,3,20,1000,Latin Hypercube (rnd),t.ic.calculate,14.250292199998512,20000
+820,4,20,1000,Latin Hypercube (rnd),t.generation,0.011242399999900954,20000
+820,4,20,1000,Latin Hypercube (rnd),t.ic.calculate,14.740868500000943,20000
+821,5,20,1000,Latin Hypercube (rnd),t.generation,0.011813000000984175,20000
+821,5,20,1000,Latin Hypercube (rnd),t.ic.calculate,12.802494999999908,20000
+822,6,20,1000,Latin Hypercube (rnd),t.generation,0.010207399998762412,20000
+822,6,20,1000,Latin Hypercube (rnd),t.ic.calculate,16.872000299998035,20000
+823,7,20,1000,Latin Hypercube (rnd),t.generation,0.01119240000116406,20000
+823,7,20,1000,Latin Hypercube (rnd),t.ic.calculate,14.162534700000833,20000
+824,8,20,1000,Latin Hypercube (rnd),t.generation,0.011401399999158457,20000
+824,8,20,1000,Latin Hypercube (rnd),t.ic.calculate,16.486458200000925,20000
+825,9,20,1000,Latin Hypercube (rnd),t.generation,0.011972799999057315,20000
+825,9,20,1000,Latin Hypercube (rnd),t.ic.calculate,16.371014399999694,20000
+826,10,20,1000,Latin Hypercube (rnd),t.generation,0.01082719999976689,20000
+826,10,20,1000,Latin Hypercube (rnd),t.ic.calculate,18.312254700002086,20000
+827,11,20,1000,Latin Hypercube (rnd),t.generation,0.010527800001000287,20000
+827,11,20,1000,Latin Hypercube (rnd),t.ic.calculate,18.147364899999957,20000
+828,12,20,1000,Latin Hypercube (rnd),t.generation,0.011053800000809133,20000
+828,12,20,1000,Latin Hypercube (rnd),t.ic.calculate,21.200463299999683,20000
+829,13,20,1000,Latin Hypercube (rnd),t.generation,0.010767499999928987,20000
+829,13,20,1000,Latin Hypercube (rnd),t.ic.calculate,13.897549399996933,20000
+830,14,20,1000,Latin Hypercube (rnd),t.generation,0.010925499998847954,20000
+830,14,20,1000,Latin Hypercube (rnd),t.ic.calculate,13.26945859999978,20000
+831,15,20,1000,Latin Hypercube (rnd),t.generation,0.014021700000739656,20000
+831,15,20,1000,Latin Hypercube (rnd),t.ic.calculate,13.93229219999921,20000
+832,16,20,1000,Latin Hypercube (rnd),t.generation,0.010380799998529255,20000
+832,16,20,1000,Latin Hypercube (rnd),t.ic.calculate,12.375627299999906,20000
+833,17,20,1000,Latin Hypercube (rnd),t.generation,0.01095530000020517,20000
+833,17,20,1000,Latin Hypercube (rnd),t.ic.calculate,13.043198200000916,20000
+834,18,20,1000,Latin Hypercube (rnd),t.generation,0.010916499999439111,20000
+834,18,20,1000,Latin Hypercube (rnd),t.ic.calculate,13.563876699998218,20000
+835,19,20,1000,Latin Hypercube (rnd),t.generation,0.010912599998846417,20000
+835,19,20,1000,Latin Hypercube (rnd),t.ic.calculate,12.517962300000363,20000
+836,20,20,1000,Latin Hypercube (rnd),t.generation,0.010939499999949476,20000
+836,20,20,1000,Latin Hypercube (rnd),t.ic.calculate,16.059058599999844,20000
+837,21,20,1000,Latin Hypercube (rnd),t.generation,0.01094089999969583,20000
+837,21,20,1000,Latin Hypercube (rnd),t.ic.calculate,11.237788099999307,20000
+838,22,20,1000,Latin Hypercube (rnd),t.generation,0.01114640000014333,20000
+838,22,20,1000,Latin Hypercube (rnd),t.ic.calculate,10.757398600002489,20000
+839,23,20,1000,Latin Hypercube (rnd),t.generation,0.010147699998924509,20000
+839,23,20,1000,Latin Hypercube (rnd),t.ic.calculate,11.675490100002207,20000
+840,24,20,1000,Latin Hypercube (rnd),t.generation,0.010087700000440236,20000
+840,24,20,1000,Latin Hypercube (rnd),t.ic.calculate,13.129909100000077,20000
+841,1,20,1000,Hilbert Curve,t.generation,0.604697999999189,20000
+841,1,20,1000,Hilbert Curve,t.ic.calculate,13.219962999999552,20000
+842,2,20,1000,Hilbert Curve,t.generation,0.5991496999995434,20000
+842,2,20,1000,Hilbert Curve,t.ic.calculate,18.759748399999808,20000
+843,3,20,1000,Hilbert Curve,t.generation,0.6088238000011188,20000
+843,3,20,1000,Hilbert Curve,t.ic.calculate,14.664584699999978,20000
+844,4,20,1000,Hilbert Curve,t.generation,0.607663999999204,20000
+844,4,20,1000,Hilbert Curve,t.ic.calculate,14.741185899998527,20000
+845,5,20,1000,Hilbert Curve,t.generation,0.6032553000004555,20000
+845,5,20,1000,Hilbert Curve,t.ic.calculate,12.999689000000217,20000
+846,6,20,1000,Hilbert Curve,t.generation,0.6088326999997662,20000
+846,6,20,1000,Hilbert Curve,t.ic.calculate,16.85108820000096,20000
+847,7,20,1000,Hilbert Curve,t.generation,0.5988231999981508,20000
+847,7,20,1000,Hilbert Curve,t.ic.calculate,14.067970900003274,20000
+848,8,20,1000,Hilbert Curve,t.generation,0.599867599998106,20000
+848,8,20,1000,Hilbert Curve,t.ic.calculate,16.459132599997247,20000
+849,9,20,1000,Hilbert Curve,t.generation,0.6010219000017969,20000
+849,9,20,1000,Hilbert Curve,t.ic.calculate,16.33150949999981,20000
+850,10,20,1000,Hilbert Curve,t.generation,0.6059133999988262,20000
+850,10,20,1000,Hilbert Curve,t.ic.calculate,18.321251299999858,20000
+851,11,20,1000,Hilbert Curve,t.generation,0.6037290999993274,20000
+851,11,20,1000,Hilbert Curve,t.ic.calculate,18.207231200001843,20000
+852,12,20,1000,Hilbert Curve,t.generation,0.5944218000004184,20000
+852,12,20,1000,Hilbert Curve,t.ic.calculate,21.010281399998348,20000
+853,13,20,1000,Hilbert Curve,t.generation,0.6254009000003862,20000
+853,13,20,1000,Hilbert Curve,t.ic.calculate,13.791529699999955,20000
+855,15,20,1000,Hilbert Curve,t.generation,0.6118500999982643,20000
+855,15,20,1000,Hilbert Curve,t.ic.calculate,13.812531200001104,20000
+856,16,20,1000,Hilbert Curve,t.generation,0.6060431000005337,20000
+856,16,20,1000,Hilbert Curve,t.ic.calculate,12.633685700002388,20000
+857,17,20,1000,Hilbert Curve,t.generation,0.6016301999989082,20000
+857,17,20,1000,Hilbert Curve,t.ic.calculate,12.793248499998299,20000
+858,18,20,1000,Hilbert Curve,t.generation,0.6045460999994248,20000
+858,18,20,1000,Hilbert Curve,t.ic.calculate,13.371663300000364,20000
+859,19,20,1000,Hilbert Curve,t.generation,0.5984008000014001,20000
+859,19,20,1000,Hilbert Curve,t.ic.calculate,12.534071000001859,20000
+860,20,20,1000,Hilbert Curve,t.generation,0.60203520000141,20000
+860,20,20,1000,Hilbert Curve,t.ic.calculate,16.15878999999768,20000
+861,21,20,1000,Hilbert Curve,t.generation,0.6013080999982776,20000
+861,21,20,1000,Hilbert Curve,t.ic.calculate,11.353741000002628,20000
+862,22,20,1000,Hilbert Curve,t.generation,0.6010966000030749,20000
+862,22,20,1000,Hilbert Curve,t.ic.calculate,11.104619599998841,20000
+863,23,20,1000,Hilbert Curve,t.generation,0.5962570999981835,20000
+863,23,20,1000,Hilbert Curve,t.ic.calculate,11.843704699997033,20000
+864,24,20,1000,Hilbert Curve,t.generation,0.604744699998264,20000
+864,24,20,1000,Hilbert Curve,t.ic.calculate,13.157968900002743,20000
+865,1,30,100,Latin Hypercube (nn),t.generation,0.0024247000001196284,3000
+865,1,30,100,Latin Hypercube (nn),t.ic.calculate,3.7944797999989532,3000
+866,2,30,100,Latin Hypercube (nn),t.generation,0.002627100002428051,3000
+866,2,30,100,Latin Hypercube (nn),t.ic.calculate,4.768428100000165,3000
+867,3,30,100,Latin Hypercube (nn),t.generation,0.0024272000009659678,3000
+867,3,30,100,Latin Hypercube (nn),t.ic.calculate,4.111905200003093,3000
+868,4,30,100,Latin Hypercube (nn),t.generation,0.002895699999498902,3000
+868,4,30,100,Latin Hypercube (nn),t.ic.calculate,4.341730899999675,3000
+869,5,30,100,Latin Hypercube (nn),t.generation,0.0025323000008938834,3000
+869,5,30,100,Latin Hypercube (nn),t.ic.calculate,3.9587411000029533,3000
+870,6,30,100,Latin Hypercube (nn),t.generation,0.0023642999985895585,3000
+870,6,30,100,Latin Hypercube (nn),t.ic.calculate,4.473873499999172,3000
+871,7,30,100,Latin Hypercube (nn),t.generation,0.002370499998505693,3000
+871,7,30,100,Latin Hypercube (nn),t.ic.calculate,4.005642399999488,3000
+872,8,30,100,Latin Hypercube (nn),t.generation,0.002312999997229781,3000
+872,8,30,100,Latin Hypercube (nn),t.ic.calculate,4.348518999999214,3000
+873,9,30,100,Latin Hypercube (nn),t.generation,0.002429899999697227,3000
+873,9,30,100,Latin Hypercube (nn),t.ic.calculate,4.403031499998178,3000
+874,10,30,100,Latin Hypercube (nn),t.generation,0.0026223999993817415,3000
+874,10,30,100,Latin Hypercube (nn),t.ic.calculate,4.751811999998608,3000
+875,11,30,100,Latin Hypercube (nn),t.generation,0.002735099998972146,3000
+875,11,30,100,Latin Hypercube (nn),t.ic.calculate,4.6814722000017355,3000
+876,12,30,100,Latin Hypercube (nn),t.generation,0.0025591000012354925,3000
+876,12,30,100,Latin Hypercube (nn),t.ic.calculate,5.132596399998874,3000
+877,13,30,100,Latin Hypercube (nn),t.generation,0.0027594000021053944,3000
+877,13,30,100,Latin Hypercube (nn),t.ic.calculate,4.053201300001092,3000
+878,14,30,100,Latin Hypercube (nn),t.generation,0.002350099999603117,3000
+878,14,30,100,Latin Hypercube (nn),t.ic.calculate,3.9472347000009904,3000
+879,15,30,100,Latin Hypercube (nn),t.generation,0.00235650000104215,3000
+879,15,30,100,Latin Hypercube (nn),t.ic.calculate,4.076285899998766,3000
+880,16,30,100,Latin Hypercube (nn),t.generation,0.00244110000130604,3000
+880,16,30,100,Latin Hypercube (nn),t.ic.calculate,3.8264295999979367,3000
+881,17,30,100,Latin Hypercube (nn),t.generation,0.0024815999968268443,3000
+881,17,30,100,Latin Hypercube (nn),t.ic.calculate,3.8007619000018167,3000
+882,18,30,100,Latin Hypercube (nn),t.generation,0.002460899999277899,3000
+882,18,30,100,Latin Hypercube (nn),t.ic.calculate,3.8858407999978226,3000
+883,19,30,100,Latin Hypercube (nn),t.generation,0.0026633999987097923,3000
+883,19,30,100,Latin Hypercube (nn),t.ic.calculate,3.9244072000001324,3000
+884,20,30,100,Latin Hypercube (nn),t.generation,0.0025172000023303553,3000
+884,20,30,100,Latin Hypercube (nn),t.ic.calculate,4.429317699999956,3000
+885,21,30,100,Latin Hypercube (nn),t.generation,0.002468299997417489,3000
+885,21,30,100,Latin Hypercube (nn),t.ic.calculate,3.522835399999167,3000
+886,22,30,100,Latin Hypercube (nn),t.generation,0.0024539000005461276,3000
+886,22,30,100,Latin Hypercube (nn),t.ic.calculate,3.536582400000043,3000
+887,23,30,100,Latin Hypercube (nn),t.generation,0.0026418000015837606,3000
+887,23,30,100,Latin Hypercube (nn),t.ic.calculate,3.7285585999998148,3000
+888,24,30,100,Latin Hypercube (nn),t.generation,0.00227890000314801,3000
+888,24,30,100,Latin Hypercube (nn),t.ic.calculate,3.956559300000663,3000
+889,1,30,100,Latin Hypercube (hc),t.generation,0.002428799998597242,3000
+889,1,30,100,Latin Hypercube (hc),t.ic.calculate,2.4230623000003106,3000
+890,2,30,100,Latin Hypercube (hc),t.generation,0.0025230999999621417,3000
+890,2,30,100,Latin Hypercube (hc),t.ic.calculate,3.267444900000555,3000
+891,3,30,100,Latin Hypercube (hc),t.generation,0.0024649999977555126,3000
+891,3,30,100,Latin Hypercube (hc),t.ic.calculate,2.601946599999792,3000
+892,4,30,100,Latin Hypercube (hc),t.generation,0.002515000000130385,3000
+892,4,30,100,Latin Hypercube (hc),t.ic.calculate,2.6910785000000033,3000
+893,5,30,100,Latin Hypercube (hc),t.generation,0.0023277000000234693,3000
+893,5,30,100,Latin Hypercube (hc),t.ic.calculate,2.4122265000005427,3000
+894,6,30,100,Latin Hypercube (hc),t.generation,0.002358599998842692,3000
+894,6,30,100,Latin Hypercube (hc),t.ic.calculate,3.022966799999267,3000
+895,7,30,100,Latin Hypercube (hc),t.generation,0.0031214000009640586,3000
+895,7,30,100,Latin Hypercube (hc),t.ic.calculate,2.6207867999983137,3000
+896,8,30,100,Latin Hypercube (hc),t.generation,0.0026472999998077285,3000
+896,8,30,100,Latin Hypercube (hc),t.ic.calculate,2.961466599997948,3000
+897,9,30,100,Latin Hypercube (hc),t.generation,0.002790600003208965,3000
+897,9,30,100,Latin Hypercube (hc),t.ic.calculate,2.9382225000008475,3000
+898,10,30,100,Latin Hypercube (hc),t.generation,0.0023622000007890165,3000
+898,10,30,100,Latin Hypercube (hc),t.ic.calculate,3.209391799999139,3000
+899,11,30,100,Latin Hypercube (hc),t.generation,0.0026367000027676113,3000
+899,11,30,100,Latin Hypercube (hc),t.ic.calculate,3.1474076000013156,3000
+900,12,30,100,Latin Hypercube (hc),t.generation,0.0024168000018107705,3000
+900,12,30,100,Latin Hypercube (hc),t.ic.calculate,3.5339315999990504,3000
+901,13,30,100,Latin Hypercube (hc),t.generation,0.0026313999987905845,3000
+901,13,30,100,Latin Hypercube (hc),t.ic.calculate,2.5207554000007804,3000
+902,14,30,100,Latin Hypercube (hc),t.generation,0.0026414999992994126,3000
+902,14,30,100,Latin Hypercube (hc),t.ic.calculate,2.42850560000079,3000
+903,15,30,100,Latin Hypercube (hc),t.generation,0.002623299998958828,3000
+903,15,30,100,Latin Hypercube (hc),t.ic.calculate,2.597184500002186,3000
+904,16,30,100,Latin Hypercube (hc),t.generation,0.0022773999990022276,3000
+904,16,30,100,Latin Hypercube (hc),t.ic.calculate,2.2972367999973358,3000
+905,17,30,100,Latin Hypercube (hc),t.generation,0.0024032000001170672,3000
+905,17,30,100,Latin Hypercube (hc),t.ic.calculate,2.3180547000010847,3000
+906,18,30,100,Latin Hypercube (hc),t.generation,0.002371599999605678,3000
+906,18,30,100,Latin Hypercube (hc),t.ic.calculate,2.441039400000591,3000
+907,19,30,100,Latin Hypercube (hc),t.generation,0.0025597999992896803,3000
+907,19,30,100,Latin Hypercube (hc),t.ic.calculate,2.3140721999989182,3000
+908,20,30,100,Latin Hypercube (hc),t.generation,0.002945000000181608,3000
+908,20,30,100,Latin Hypercube (hc),t.ic.calculate,2.8966435000002093,3000
+909,21,30,100,Latin Hypercube (hc),t.generation,0.002559500000643311,3000
+909,21,30,100,Latin Hypercube (hc),t.ic.calculate,2.0639007999998285,3000
+910,22,30,100,Latin Hypercube (hc),t.generation,0.002635199998621829,3000
+910,22,30,100,Latin Hypercube (hc),t.ic.calculate,2.011647000002995,3000
+911,23,30,100,Latin Hypercube (hc),t.generation,0.0027726000007533003,3000
+911,23,30,100,Latin Hypercube (hc),t.ic.calculate,2.2159097000003385,3000
+912,24,30,100,Latin Hypercube (hc),t.generation,0.002307499999005813,3000
+912,24,30,100,Latin Hypercube (hc),t.ic.calculate,2.4706585000021732,3000
+913,1,30,100,Latin Hypercube (rnd),t.generation,0.002572000001237029,3000
+913,1,30,100,Latin Hypercube (rnd),t.ic.calculate,2.0064458000015293,3000
+914,2,30,100,Latin Hypercube (rnd),t.generation,0.0027819000024464913,3000
+914,2,30,100,Latin Hypercube (rnd),t.ic.calculate,2.8368275000029826,3000
+915,3,30,100,Latin Hypercube (rnd),t.generation,0.0024703000017325394,3000
+915,3,30,100,Latin Hypercube (rnd),t.ic.calculate,2.1917991999980586,3000
+916,4,30,100,Latin Hypercube (rnd),t.generation,0.002707299998292001,3000
+916,4,30,100,Latin Hypercube (rnd),t.ic.calculate,2.339514199997211,3000
+917,5,30,100,Latin Hypercube (rnd),t.generation,0.00317900000300142,3000
+917,5,30,100,Latin Hypercube (rnd),t.ic.calculate,1.9960542999979225,3000
+918,6,30,100,Latin Hypercube (rnd),t.generation,0.002640299997437978,3000
+918,6,30,100,Latin Hypercube (rnd),t.ic.calculate,2.5799796000028437,3000
+919,7,30,100,Latin Hypercube (rnd),t.generation,0.002309899999090703,3000
+919,7,30,100,Latin Hypercube (rnd),t.ic.calculate,2.1989730000022973,3000
+920,8,30,100,Latin Hypercube (rnd),t.generation,0.0025781000003917143,3000
+920,8,30,100,Latin Hypercube (rnd),t.ic.calculate,2.550475700001698,3000
+921,9,30,100,Latin Hypercube (rnd),t.generation,0.0025812999992922414,3000
+921,9,30,100,Latin Hypercube (rnd),t.ic.calculate,2.5207818999988376,3000
+922,10,30,100,Latin Hypercube (rnd),t.generation,0.0025322999972559046,3000
+922,10,30,100,Latin Hypercube (rnd),t.ic.calculate,2.8083580000020447,3000
+923,11,30,100,Latin Hypercube (rnd),t.generation,0.0022818999968876597,3000
+923,11,30,100,Latin Hypercube (rnd),t.ic.calculate,2.736869399999705,3000
+924,12,30,100,Latin Hypercube (rnd),t.generation,0.00230089999968186,3000
+924,12,30,100,Latin Hypercube (rnd),t.ic.calculate,3.1098256000004767,3000
+925,13,30,100,Latin Hypercube (rnd),t.generation,0.00236149999909685,3000
+925,13,30,100,Latin Hypercube (rnd),t.ic.calculate,2.1294527999998536,3000
+926,14,30,100,Latin Hypercube (rnd),t.generation,0.002655100000993116,3000
+926,14,30,100,Latin Hypercube (rnd),t.ic.calculate,2.014165000000503,3000
+927,15,30,100,Latin Hypercube (rnd),t.generation,0.0025389000002178364,3000
+927,15,30,100,Latin Hypercube (rnd),t.ic.calculate,2.1990759000000253,3000
+928,16,30,100,Latin Hypercube (rnd),t.generation,0.00240019999910146,3000
+928,16,30,100,Latin Hypercube (rnd),t.ic.calculate,1.8869599000026938,3000
+929,17,30,100,Latin Hypercube (rnd),t.generation,0.0025034999998752028,3000
+929,17,30,100,Latin Hypercube (rnd),t.ic.calculate,1.9120698999977321,3000
+930,18,30,100,Latin Hypercube (rnd),t.generation,0.0024821999977575615,3000
+930,18,30,100,Latin Hypercube (rnd),t.ic.calculate,2.0051554999990913,3000
+931,19,30,100,Latin Hypercube (rnd),t.generation,0.0033642999987932853,3000
+931,19,30,100,Latin Hypercube (rnd),t.ic.calculate,1.909661600002437,3000
+932,20,30,100,Latin Hypercube (rnd),t.generation,0.002662799997779075,3000
+932,20,30,100,Latin Hypercube (rnd),t.ic.calculate,2.4989528999976756,3000
+933,21,30,100,Latin Hypercube (rnd),t.generation,0.0023566000018035993,3000
+933,21,30,100,Latin Hypercube (rnd),t.ic.calculate,1.6549763000002713,3000
+934,22,30,100,Latin Hypercube (rnd),t.generation,0.002483699998265365,3000
+934,22,30,100,Latin Hypercube (rnd),t.ic.calculate,1.5895442000000912,3000
+935,23,30,100,Latin Hypercube (rnd),t.generation,0.0024604999998700805,3000
+935,23,30,100,Latin Hypercube (rnd),t.ic.calculate,1.797296799999458,3000
+936,24,30,100,Latin Hypercube (rnd),t.generation,0.0027090000003227033,3000
+936,24,30,100,Latin Hypercube (rnd),t.ic.calculate,2.0528567000001203,3000
+937,1,30,100,Hilbert Curve,t.generation,0.12564950000160025,3000
+937,1,30,100,Hilbert Curve,t.ic.calculate,1.998121100001299,3000
+938,2,30,100,Hilbert Curve,t.generation,0.12410069999896223,3000
+938,2,30,100,Hilbert Curve,t.ic.calculate,2.8240992999999435,3000
+939,3,30,100,Hilbert Curve,t.generation,0.1235567000003357,3000
+939,3,30,100,Hilbert Curve,t.ic.calculate,2.1583700999981374,3000
+940,4,30,100,Hilbert Curve,t.generation,0.12569100000109756,3000
+940,4,30,100,Hilbert Curve,t.ic.calculate,2.2538793999992777,3000
+941,5,30,100,Hilbert Curve,t.generation,0.12353799999982584,3000
+941,5,30,100,Hilbert Curve,t.ic.calculate,1.9804683000002115,3000
+942,6,30,100,Hilbert Curve,t.generation,0.12718989999848418,3000
+942,6,30,100,Hilbert Curve,t.ic.calculate,2.572739300001558,3000
+943,7,30,100,Hilbert Curve,t.generation,0.12579180000102497,3000
+943,7,30,100,Hilbert Curve,t.ic.calculate,2.2026368000006187,3000
+944,8,30,100,Hilbert Curve,t.generation,0.12516089999917313,3000
+944,8,30,100,Hilbert Curve,t.ic.calculate,2.536514100000204,3000
+945,9,30,100,Hilbert Curve,t.generation,0.12530990000232123,3000
+945,9,30,100,Hilbert Curve,t.ic.calculate,2.511649399999442,3000
+946,10,30,100,Hilbert Curve,t.generation,0.12987989999965066,3000
+946,10,30,100,Hilbert Curve,t.ic.calculate,2.808746400001837,3000
+947,11,30,100,Hilbert Curve,t.generation,0.12436180000077002,3000
+947,11,30,100,Hilbert Curve,t.ic.calculate,2.748617400000512,3000
+948,12,30,100,Hilbert Curve,t.generation,0.12604600000122446,3000
+948,12,30,100,Hilbert Curve,t.ic.calculate,3.0824490999984846,3000
+949,13,30,100,Hilbert Curve,t.generation,0.12627009999778238,3000
+949,13,30,100,Hilbert Curve,t.ic.calculate,2.1207680000006803,3000
+950,14,30,100,Hilbert Curve,t.generation,0.12498259999847505,3000
+950,14,30,100,Hilbert Curve,t.ic.calculate,2.0180590999989363,3000
+951,15,30,100,Hilbert Curve,t.generation,0.12508009999874048,3000
+951,15,30,100,Hilbert Curve,t.ic.calculate,2.1831902000012633,3000
+952,16,30,100,Hilbert Curve,t.generation,0.12411400000200956,3000
+952,16,30,100,Hilbert Curve,t.ic.calculate,1.9035453000033158,3000
+953,17,30,100,Hilbert Curve,t.generation,0.1244568000001891,3000
+953,17,30,100,Hilbert Curve,t.ic.calculate,1.908010999999533,3000
+954,18,30,100,Hilbert Curve,t.generation,0.12320360000012442,3000
+954,18,30,100,Hilbert Curve,t.ic.calculate,2.021190799998294,3000
+955,19,30,100,Hilbert Curve,t.generation,0.12885080000341986,3000
+955,19,30,100,Hilbert Curve,t.ic.calculate,1.9144454000015685,3000
+956,20,30,100,Hilbert Curve,t.generation,0.12464980000004289,3000
+956,20,30,100,Hilbert Curve,t.ic.calculate,2.462555699999939,3000
+957,21,30,100,Hilbert Curve,t.generation,0.12494489999880898,3000
+957,21,30,100,Hilbert Curve,t.ic.calculate,1.67795710000064,3000
+958,22,30,100,Hilbert Curve,t.generation,0.1263847000009264,3000
+958,22,30,100,Hilbert Curve,t.ic.calculate,1.6294342000001052,3000
+959,23,30,100,Hilbert Curve,t.generation,0.12545980000140844,3000
+959,23,30,100,Hilbert Curve,t.ic.calculate,1.8305139999974926,3000
+960,24,30,100,Hilbert Curve,t.generation,0.12562699999762117,3000
+960,24,30,100,Hilbert Curve,t.ic.calculate,2.0508244999982708,3000
+961,1,30,316,Latin Hypercube (nn),t.generation,0.007336099999520229,9480
+961,1,30,316,Latin Hypercube (nn),t.ic.calculate,15.760008199998992,9480
+962,2,30,316,Latin Hypercube (nn),t.generation,0.007902500001364388,9480
+962,2,30,316,Latin Hypercube (nn),t.ic.calculate,18.42157650000081,9480
+963,3,30,316,Latin Hypercube (nn),t.generation,0.00821910000013304,9480
+963,3,30,316,Latin Hypercube (nn),t.ic.calculate,15.962785100000474,9480
+964,4,30,316,Latin Hypercube (nn),t.generation,0.00785619999805931,9480
+964,4,30,316,Latin Hypercube (nn),t.ic.calculate,16.273004000002402,9480
+965,5,30,316,Latin Hypercube (nn),t.generation,0.007691899998462759,9480
+965,5,30,316,Latin Hypercube (nn),t.ic.calculate,15.286839499996859,9480
+966,6,30,316,Latin Hypercube (nn),t.generation,0.007751599998300662,9480
+966,6,30,316,Latin Hypercube (nn),t.ic.calculate,17.29800890000115,9480
+967,7,30,316,Latin Hypercube (nn),t.generation,0.007927300001028925,9480
+967,7,30,316,Latin Hypercube (nn),t.ic.calculate,16.24837810000099,9480
+968,8,30,316,Latin Hypercube (nn),t.generation,0.008264500000223052,9480
+968,8,30,316,Latin Hypercube (nn),t.ic.calculate,17.008202099998016,9480
+969,9,30,316,Latin Hypercube (nn),t.generation,0.0076783000004070345,9480
+969,9,30,316,Latin Hypercube (nn),t.ic.calculate,16.933430500001123,9480
+970,10,30,316,Latin Hypercube (nn),t.generation,0.008382899999560323,9480
+970,10,30,316,Latin Hypercube (nn),t.ic.calculate,17.923568199999863,9480
+971,11,30,316,Latin Hypercube (nn),t.generation,0.00781009999991511,9480
+971,11,30,316,Latin Hypercube (nn),t.ic.calculate,17.675846300000558,9480
+972,12,30,316,Latin Hypercube (nn),t.generation,0.007392700001219055,9480
+972,12,30,316,Latin Hypercube (nn),t.ic.calculate,19.32093050000185,9480
+973,13,30,316,Latin Hypercube (nn),t.generation,0.007913400000688853,9480
+973,13,30,316,Latin Hypercube (nn),t.ic.calculate,15.96336920000249,9480
+974,14,30,316,Latin Hypercube (nn),t.generation,0.008173700000043027,9480
+974,14,30,316,Latin Hypercube (nn),t.ic.calculate,15.618038699998579,9480
+975,15,30,316,Latin Hypercube (nn),t.generation,0.008007299999007955,9480
+975,15,30,316,Latin Hypercube (nn),t.ic.calculate,16.17062950000036,9480
+976,16,30,316,Latin Hypercube (nn),t.generation,0.007921899999928428,9480
+976,16,30,316,Latin Hypercube (nn),t.ic.calculate,14.969822700000805,9480
+977,17,30,316,Latin Hypercube (nn),t.generation,0.007597099996928591,9480
+977,17,30,316,Latin Hypercube (nn),t.ic.calculate,15.261893599999894,9480
+978,18,30,316,Latin Hypercube (nn),t.generation,0.008321699999214616,9480
+978,18,30,316,Latin Hypercube (nn),t.ic.calculate,15.36203210000167,9480
+979,19,30,316,Latin Hypercube (nn),t.generation,0.007931799998914357,9480
+979,19,30,316,Latin Hypercube (nn),t.ic.calculate,14.954402100000152,9480
+980,20,30,316,Latin Hypercube (nn),t.generation,0.007596599996759323,9480
+980,20,30,316,Latin Hypercube (nn),t.ic.calculate,17.155446400000073,9480
+981,21,30,316,Latin Hypercube (nn),t.generation,0.00778340000033495,9480
+981,21,30,316,Latin Hypercube (nn),t.ic.calculate,14.41676980000193,9480
+982,22,30,316,Latin Hypercube (nn),t.generation,0.008309099997859448,9480
+982,22,30,316,Latin Hypercube (nn),t.ic.calculate,13.904765899998893,9480
+983,23,30,316,Latin Hypercube (nn),t.generation,0.007541000002674991,9480
+983,23,30,316,Latin Hypercube (nn),t.ic.calculate,14.70922050000081,9480
+984,24,30,316,Latin Hypercube (nn),t.generation,0.007574999999633292,9480
+984,24,30,316,Latin Hypercube (nn),t.ic.calculate,15.479648599997745,9480
+985,1,30,316,Latin Hypercube (hc),t.generation,0.007502399999793852,9480
+985,1,30,316,Latin Hypercube (hc),t.ic.calculate,7.567982900000061,9480
+986,2,30,316,Latin Hypercube (hc),t.generation,0.007772999997541774,9480
+986,2,30,316,Latin Hypercube (hc),t.ic.calculate,10.25252399999954,9480
+987,3,30,316,Latin Hypercube (hc),t.generation,0.0072718000010354444,9480
+987,3,30,316,Latin Hypercube (hc),t.ic.calculate,8.20435279999947,9480
+988,4,30,316,Latin Hypercube (hc),t.generation,0.007609800002683187,9480
+988,4,30,316,Latin Hypercube (hc),t.ic.calculate,8.484609899998759,9480
+989,5,30,316,Latin Hypercube (hc),t.generation,0.0072705000020505395,9480
+989,5,30,316,Latin Hypercube (hc),t.ic.calculate,7.538364100000763,9480
+990,6,30,316,Latin Hypercube (hc),t.generation,0.0072709999985818285,9480
+990,6,30,316,Latin Hypercube (hc),t.ic.calculate,9.394994599999336,9480
+991,7,30,316,Latin Hypercube (hc),t.generation,0.0073338000001967885,9480
+991,7,30,316,Latin Hypercube (hc),t.ic.calculate,8.262593900002685,9480
+992,8,30,316,Latin Hypercube (hc),t.generation,0.007363400000031106,9480
+992,8,30,316,Latin Hypercube (hc),t.ic.calculate,9.29492819999723,9480
+993,9,30,316,Latin Hypercube (hc),t.generation,0.00741819999893778,9480
+993,9,30,316,Latin Hypercube (hc),t.ic.calculate,9.26230200000282,9480
+994,10,30,316,Latin Hypercube (hc),t.generation,0.0076473000008263625,9480
+994,10,30,316,Latin Hypercube (hc),t.ic.calculate,10.242415099997743,9480
+995,11,30,316,Latin Hypercube (hc),t.generation,0.007368200000200886,9480
+995,11,30,316,Latin Hypercube (hc),t.ic.calculate,9.961584800003038,9480
+996,12,30,316,Latin Hypercube (hc),t.generation,0.00749540000106208,9480
+996,12,30,316,Latin Hypercube (hc),t.ic.calculate,11.110180300001957,9480
+997,13,30,316,Latin Hypercube (hc),t.generation,0.007395600001473213,9480
+997,13,30,316,Latin Hypercube (hc),t.ic.calculate,7.986173599998438,9480
+998,14,30,316,Latin Hypercube (hc),t.generation,0.0073142000001098495,9480
+998,14,30,316,Latin Hypercube (hc),t.ic.calculate,7.669051400000171,9480
+999,15,30,316,Latin Hypercube (hc),t.generation,0.007549800000560936,9480
+999,15,30,316,Latin Hypercube (hc),t.ic.calculate,8.202156700001069,9480
+1000,16,30,316,Latin Hypercube (hc),t.generation,0.007903300000180025,9480
+1000,16,30,316,Latin Hypercube (hc),t.ic.calculate,7.286601600000722,9480
+1001,17,30,316,Latin Hypercube (hc),t.generation,0.007421399997838307,9480
+1001,17,30,316,Latin Hypercube (hc),t.ic.calculate,7.38246170000275,9480
+1002,18,30,316,Latin Hypercube (hc),t.generation,0.00725129999773344,9480
+1002,18,30,316,Latin Hypercube (hc),t.ic.calculate,7.587885699998878,9480
+1003,19,30,316,Latin Hypercube (hc),t.generation,0.007434399998601293,9480
+1003,19,30,316,Latin Hypercube (hc),t.ic.calculate,7.282838699997228,9480
+1004,20,30,316,Latin Hypercube (hc),t.generation,0.007849699999496806,9480
+1004,20,30,316,Latin Hypercube (hc),t.ic.calculate,9.096857000000455,9480
+1005,21,30,316,Latin Hypercube (hc),t.generation,0.0073521000012988225,9480
+1005,21,30,316,Latin Hypercube (hc),t.ic.calculate,6.51084450000053,9480
+1006,22,30,316,Latin Hypercube (hc),t.generation,0.010830000002897577,9480
+1006,22,30,316,Latin Hypercube (hc),t.ic.calculate,6.336910499998339,9480
+1007,23,30,316,Latin Hypercube (hc),t.generation,0.007485299996915273,9480
+1007,23,30,316,Latin Hypercube (hc),t.ic.calculate,6.949551199999405,9480
+1008,24,30,316,Latin Hypercube (hc),t.generation,0.0073284999998577405,9480
+1008,24,30,316,Latin Hypercube (hc),t.ic.calculate,7.765177900000708,9480
+1009,1,30,316,Latin Hypercube (rnd),t.generation,0.0079288999986602,9480
+1009,1,30,316,Latin Hypercube (rnd),t.ic.calculate,6.153305700001511,9480
+1010,2,30,316,Latin Hypercube (rnd),t.generation,0.007237300000269897,9480
+1010,2,30,316,Latin Hypercube (rnd),t.ic.calculate,8.732810299999983,9480
+1011,3,30,316,Latin Hypercube (rnd),t.generation,0.00812700000096811,9480
+1011,3,30,316,Latin Hypercube (rnd),t.ic.calculate,6.72099739999976,9480
+1012,4,30,316,Latin Hypercube (rnd),t.generation,0.007229099999676691,9480
+1012,4,30,316,Latin Hypercube (rnd),t.ic.calculate,6.981483999999909,9480
+1013,5,30,316,Latin Hypercube (rnd),t.generation,0.007399199999781558,9480
+1013,5,30,316,Latin Hypercube (rnd),t.ic.calculate,6.108851299999515,9480
+1014,6,30,316,Latin Hypercube (rnd),t.generation,0.007597099996928591,9480
+1014,6,30,316,Latin Hypercube (rnd),t.ic.calculate,7.965163199998642,9480
+1015,7,30,316,Latin Hypercube (rnd),t.generation,0.007411300000967458,9480
+1015,7,30,316,Latin Hypercube (rnd),t.ic.calculate,6.829286400003184,9480
+1016,8,30,316,Latin Hypercube (rnd),t.generation,0.007659399998374283,9480
+1016,8,30,316,Latin Hypercube (rnd),t.ic.calculate,7.856806400002824,9480
+1017,9,30,316,Latin Hypercube (rnd),t.generation,0.007327600000280654,9480
+1017,9,30,316,Latin Hypercube (rnd),t.ic.calculate,7.815948600000411,9480
+1018,10,30,316,Latin Hypercube (rnd),t.generation,0.007503799999540206,9480
+1018,10,30,316,Latin Hypercube (rnd),t.ic.calculate,8.638015399999858,9480
+1019,11,30,316,Latin Hypercube (rnd),t.generation,0.00733820000095875,9480
+1019,11,30,316,Latin Hypercube (rnd),t.ic.calculate,8.46782119999989,9480
+1020,12,30,316,Latin Hypercube (rnd),t.generation,0.0072986000013770536,9480
+1020,12,30,316,Latin Hypercube (rnd),t.ic.calculate,9.62912040000083,9480
+1021,13,30,316,Latin Hypercube (rnd),t.generation,0.00743030000012368,9480
+1021,13,30,316,Latin Hypercube (rnd),t.ic.calculate,6.51614459999837,9480
+1022,14,30,316,Latin Hypercube (rnd),t.generation,0.007865999999921769,9480
+1022,14,30,316,Latin Hypercube (rnd),t.ic.calculate,6.229822100001911,9480
+1023,15,30,316,Latin Hypercube (rnd),t.generation,0.007446000003255904,9480
+1023,15,30,316,Latin Hypercube (rnd),t.ic.calculate,6.731868099999701,9480
+1024,16,30,316,Latin Hypercube (rnd),t.generation,0.007477099999960046,9480
+1024,16,30,316,Latin Hypercube (rnd),t.ic.calculate,5.820078400000057,9480
+1025,17,30,316,Latin Hypercube (rnd),t.generation,0.007745399998384528,9480
+1025,17,30,316,Latin Hypercube (rnd),t.ic.calculate,5.9129634000019,9480
+1026,18,30,316,Latin Hypercube (rnd),t.generation,0.007483500001399079,9480
+1026,18,30,316,Latin Hypercube (rnd),t.ic.calculate,6.18630629999825,9480
+1027,19,30,316,Latin Hypercube (rnd),t.generation,0.007270899997820379,9480
+1027,19,30,316,Latin Hypercube (rnd),t.ic.calculate,5.878232200000639,9480
+1028,20,30,316,Latin Hypercube (rnd),t.generation,0.0072313000018766616,9480
+1028,20,30,316,Latin Hypercube (rnd),t.ic.calculate,7.644714399997611,9480
+1029,21,30,316,Latin Hypercube (rnd),t.generation,0.007475900001736591,9480
+1029,21,30,316,Latin Hypercube (rnd),t.ic.calculate,5.073421100001724,9480
+1030,22,30,316,Latin Hypercube (rnd),t.generation,0.007281399997737026,9480
+1030,22,30,316,Latin Hypercube (rnd),t.ic.calculate,4.866982100000314,9480
+1031,23,30,316,Latin Hypercube (rnd),t.generation,0.007396600001811748,9480
+1031,23,30,316,Latin Hypercube (rnd),t.ic.calculate,5.478089600001113,9480
+1032,24,30,316,Latin Hypercube (rnd),t.generation,0.0075287999970896635,9480
+1032,24,30,316,Latin Hypercube (rnd),t.ic.calculate,6.279588299999887,9480
+1033,1,30,316,Hilbert Curve,t.generation,0.3874145000008866,9480
+1033,1,30,316,Hilbert Curve,t.ic.calculate,6.114310599998134,9480
+1034,2,30,316,Hilbert Curve,t.generation,0.9203330999989703,9480
+1034,2,30,316,Hilbert Curve,t.ic.calculate,8.751019699997414,9480
+1035,3,30,316,Hilbert Curve,t.generation,0.3897711999998137,9480
+1035,3,30,316,Hilbert Curve,t.ic.calculate,6.63923799999975,9480
+1036,4,30,316,Hilbert Curve,t.generation,0.38781890000245767,9480
+1036,4,30,316,Hilbert Curve,t.ic.calculate,6.975486900002579,9480
+1037,5,30,316,Hilbert Curve,t.generation,0.3901573000002827,9480
+1037,5,30,316,Hilbert Curve,t.ic.calculate,6.112777099999221,9480
+1038,6,30,316,Hilbert Curve,t.generation,0.3909175000007963,9480
+1038,6,30,316,Hilbert Curve,t.ic.calculate,7.960898199999065,9480
+1039,7,30,316,Hilbert Curve,t.generation,0.3929586999984167,9480
+1039,7,30,316,Hilbert Curve,t.ic.calculate,6.820013100001233,9480
+1040,8,30,316,Hilbert Curve,t.generation,0.39357509999899776,9480
+1040,8,30,316,Hilbert Curve,t.ic.calculate,7.851141900002403,9480
+1041,9,30,316,Hilbert Curve,t.generation,0.3911866000016744,9480
+1041,9,30,316,Hilbert Curve,t.ic.calculate,7.756701099999191,9480
+1042,10,30,316,Hilbert Curve,t.generation,0.39209630000186735,9480
+1042,10,30,316,Hilbert Curve,t.ic.calculate,8.65457239999887,9480
+1043,11,30,316,Hilbert Curve,t.generation,0.39316600000165636,9480
+1043,11,30,316,Hilbert Curve,t.ic.calculate,8.443980599997303,9480
+1044,12,30,316,Hilbert Curve,t.generation,0.39258870000048773,9480
+1044,12,30,316,Hilbert Curve,t.ic.calculate,9.537297099999705,9480
+1045,13,30,316,Hilbert Curve,t.generation,0.3932091999995464,9480
+1045,13,30,316,Hilbert Curve,t.ic.calculate,6.539578600000823,9480
+1046,14,30,316,Hilbert Curve,t.generation,0.3904975999976159,9480
+1046,14,30,316,Hilbert Curve,t.ic.calculate,6.164189499999338,9480
+1047,15,30,316,Hilbert Curve,t.generation,0.39260250000006636,9480
+1047,15,30,316,Hilbert Curve,t.ic.calculate,6.708564800002932,9480
+1048,16,30,316,Hilbert Curve,t.generation,0.3898436999988917,9480
+1048,16,30,316,Hilbert Curve,t.ic.calculate,5.832836699999461,9480
+1049,17,30,316,Hilbert Curve,t.generation,0.39473910000015167,9480
+1049,17,30,316,Hilbert Curve,t.ic.calculate,5.865912900000694,9480
+1050,18,30,316,Hilbert Curve,t.generation,0.3975855999997293,9480
+1050,18,30,316,Hilbert Curve,t.ic.calculate,6.301595799999632,9480
+1051,19,30,316,Hilbert Curve,t.generation,0.39123950000066543,9480
+1051,19,30,316,Hilbert Curve,t.ic.calculate,5.821926299999177,9480
+1052,20,30,316,Hilbert Curve,t.generation,0.3918985000018438,9480
+1052,20,30,316,Hilbert Curve,t.ic.calculate,7.76578900000095,9480
+1053,21,30,316,Hilbert Curve,t.generation,0.3957869000005303,9480
+1053,21,30,316,Hilbert Curve,t.ic.calculate,5.177062700000533,9480
+1054,22,30,316,Hilbert Curve,t.generation,0.3904953999990539,9480
+1054,22,30,316,Hilbert Curve,t.ic.calculate,4.996499999997468,9480
+1055,23,30,316,Hilbert Curve,t.generation,0.39091479999842704,9480
+1055,23,30,316,Hilbert Curve,t.ic.calculate,5.566208899999765,9480
+1056,24,30,316,Hilbert Curve,t.generation,0.39108869999836315,9480
+1056,24,30,316,Hilbert Curve,t.ic.calculate,6.283024399999704,9480
+1057,1,30,1000,Latin Hypercube (nn),t.generation,0.022423200000048382,30000
+1057,1,30,1000,Latin Hypercube (nn),t.ic.calculate,68.26117840000006,30000
+1058,2,30,1000,Latin Hypercube (nn),t.generation,0.023266500000318047,30000
+1058,2,30,1000,Latin Hypercube (nn),t.ic.calculate,76.74215389999881,30000
+1059,3,30,1000,Latin Hypercube (nn),t.generation,0.02460380000047735,30000
+1059,3,30,1000,Latin Hypercube (nn),t.ic.calculate,70.52199259999907,30000
+1060,4,30,1000,Latin Hypercube (nn),t.generation,0.02366210000036517,30000
+1060,4,30,1000,Latin Hypercube (nn),t.ic.calculate,72.14489719999983,30000
+1062,6,30,1000,Latin Hypercube (nn),t.generation,0.02228340000147,30000
+1062,6,30,1000,Latin Hypercube (nn),t.ic.calculate,75.47305769999366,30000
+1063,7,30,1000,Latin Hypercube (nn),t.generation,0.022822200000518933,30000
+1063,7,30,1000,Latin Hypercube (nn),t.ic.calculate,71.33062359999894,30000
+1064,8,30,1000,Latin Hypercube (nn),t.generation,0.02230520000011893,30000
+1064,8,30,1000,Latin Hypercube (nn),t.ic.calculate,74.08498949999921,30000
+1065,9,30,1000,Latin Hypercube (nn),t.generation,0.021655900003679562,30000
+1065,9,30,1000,Latin Hypercube (nn),t.ic.calculate,75.45429259999946,30000
+1066,10,30,1000,Latin Hypercube (nn),t.generation,0.023506600002292544,30000
+1066,10,30,1000,Latin Hypercube (nn),t.ic.calculate,77.32183359999908,30000
+1067,11,30,1000,Latin Hypercube (nn),t.generation,0.02428140000120038,30000
+1067,11,30,1000,Latin Hypercube (nn),t.ic.calculate,77.40269999999873,30000
+1068,12,30,1000,Latin Hypercube (nn),t.generation,0.029024300005403347,30000
+1068,12,30,1000,Latin Hypercube (nn),t.ic.calculate,80.4607044000004,30000
+1069,13,30,1000,Latin Hypercube (nn),t.generation,0.02313259999937145,30000
+1069,13,30,1000,Latin Hypercube (nn),t.ic.calculate,71.32745460000297,30000
+1070,14,30,1000,Latin Hypercube (nn),t.generation,0.02383410000038566,30000
+1070,14,30,1000,Latin Hypercube (nn),t.ic.calculate,69.77012229999673,30000
+1071,15,30,1000,Latin Hypercube (nn),t.generation,0.023785199999110773,30000
+1071,15,30,1000,Latin Hypercube (nn),t.ic.calculate,71.34663369999907,30000
+1072,16,30,1000,Latin Hypercube (nn),t.generation,0.022430199998780154,30000
+1072,16,30,1000,Latin Hypercube (nn),t.ic.calculate,68.65387100000225,30000
+1073,17,30,1000,Latin Hypercube (nn),t.generation,0.02324149999913061,30000
+1073,17,30,1000,Latin Hypercube (nn),t.ic.calculate,68.3199117999975,30000
+1074,18,30,1000,Latin Hypercube (nn),t.generation,0.024340500000107568,30000
+1074,18,30,1000,Latin Hypercube (nn),t.ic.calculate,69.59393629999977,30000
+1075,19,30,1000,Latin Hypercube (nn),t.generation,0.023043400004098658,30000
+1075,19,30,1000,Latin Hypercube (nn),t.ic.calculate,68.38137600000482,30000
+1076,20,30,1000,Latin Hypercube (nn),t.generation,0.023414899995259475,30000
+1076,20,30,1000,Latin Hypercube (nn),t.ic.calculate,75.47393440000451,30000
+1077,21,30,1000,Latin Hypercube (nn),t.generation,0.02321759999904316,30000
+1077,21,30,1000,Latin Hypercube (nn),t.ic.calculate,66.48537500000384,30000
+1078,22,30,1000,Latin Hypercube (nn),t.generation,0.023409300003550015,30000
+1078,22,30,1000,Latin Hypercube (nn),t.ic.calculate,65.40794779999851,30000
+1079,23,30,1000,Latin Hypercube (nn),t.generation,0.023058099999616388,30000
+1079,23,30,1000,Latin Hypercube (nn),t.ic.calculate,68.06256890000077,30000
+1080,24,30,1000,Latin Hypercube (nn),t.generation,0.023528799996711314,30000
+1080,24,30,1000,Latin Hypercube (nn),t.ic.calculate,70.3453875999985,30000
+1081,1,30,1000,Latin Hypercube (hc),t.generation,0.023080200000549667,30000
+1081,1,30,1000,Latin Hypercube (hc),t.ic.calculate,24.30584590000217,30000
+1082,2,30,1000,Latin Hypercube (hc),t.generation,0.02298799999698531,30000
+1082,2,30,1000,Latin Hypercube (hc),t.ic.calculate,32.98809629999596,30000
+1083,3,30,1000,Latin Hypercube (hc),t.generation,0.023274499995750375,30000
+1083,3,30,1000,Latin Hypercube (hc),t.ic.calculate,26.371061500001815,30000
+1084,4,30,1000,Latin Hypercube (hc),t.generation,0.02332380000007106,30000
+1084,4,30,1000,Latin Hypercube (hc),t.ic.calculate,27.23760599999514,30000
+1085,5,30,1000,Latin Hypercube (hc),t.generation,0.0241024000060861,30000
+1085,5,30,1000,Latin Hypercube (hc),t.ic.calculate,24.367381599993678,30000
+1086,6,30,1000,Latin Hypercube (hc),t.generation,0.02332909999677213,30000
+1086,6,30,1000,Latin Hypercube (hc),t.ic.calculate,30.2764057999957,30000
+1087,7,30,1000,Latin Hypercube (hc),t.generation,0.02163299999665469,30000
+1087,7,30,1000,Latin Hypercube (hc),t.ic.calculate,26.376899000002595,30000
+1088,8,30,1000,Latin Hypercube (hc),t.generation,0.022877399998833425,30000
+1088,8,30,1000,Latin Hypercube (hc),t.ic.calculate,29.844856000003347,30000
+1089,9,30,1000,Latin Hypercube (hc),t.generation,0.021568300006038044,30000
+1089,9,30,1000,Latin Hypercube (hc),t.ic.calculate,29.65853010000137,30000
+1090,10,30,1000,Latin Hypercube (hc),t.generation,0.021738299998105504,30000
+1090,10,30,1000,Latin Hypercube (hc),t.ic.calculate,32.47857639999711,30000
+1091,11,30,1000,Latin Hypercube (hc),t.generation,0.024583799997344613,30000
+1091,11,30,1000,Latin Hypercube (hc),t.ic.calculate,32.02592680000089,30000
+1092,12,30,1000,Latin Hypercube (hc),t.generation,0.023323299996263813,30000
+1092,12,30,1000,Latin Hypercube (hc),t.ic.calculate,35.66309460000048,30000
+1093,13,30,1000,Latin Hypercube (hc),t.generation,0.02342779999889899,30000
+1093,13,30,1000,Latin Hypercube (hc),t.ic.calculate,25.441219300002558,30000
+1094,14,30,1000,Latin Hypercube (hc),t.generation,0.023281500005396083,30000
+1094,14,30,1000,Latin Hypercube (hc),t.ic.calculate,24.59192299999995,30000
+1095,15,30,1000,Latin Hypercube (hc),t.generation,0.021381700003985316,30000
+1095,15,30,1000,Latin Hypercube (hc),t.ic.calculate,26.07037400000263,30000
+1096,16,30,1000,Latin Hypercube (hc),t.generation,0.022979000001214445,30000
+1096,16,30,1000,Latin Hypercube (hc),t.ic.calculate,23.529348299998674,30000
+1097,17,30,1000,Latin Hypercube (hc),t.generation,0.023978400000487454,30000
+1097,17,30,1000,Latin Hypercube (hc),t.ic.calculate,23.768755899996904,30000
+1098,18,30,1000,Latin Hypercube (hc),t.generation,0.021683600003598258,30000
+1098,18,30,1000,Latin Hypercube (hc),t.ic.calculate,24.65022200000385,30000
+1099,19,30,1000,Latin Hypercube (hc),t.generation,0.022069499995268416,30000
+1099,19,30,1000,Latin Hypercube (hc),t.ic.calculate,23.31104040000355,30000
+1100,20,30,1000,Latin Hypercube (hc),t.generation,0.02315420000377344,30000
+1100,20,30,1000,Latin Hypercube (hc),t.ic.calculate,29.427861900003336,30000
+1101,21,30,1000,Latin Hypercube (hc),t.generation,0.02328210000268882,30000
+1101,21,30,1000,Latin Hypercube (hc),t.ic.calculate,20.953748200001428,30000
+1102,22,30,1000,Latin Hypercube (hc),t.generation,0.0231839999978547,30000
+1102,22,30,1000,Latin Hypercube (hc),t.ic.calculate,20.2507276000033,30000
+1103,23,30,1000,Latin Hypercube (hc),t.generation,0.022698900000250433,30000
+1103,23,30,1000,Latin Hypercube (hc),t.ic.calculate,22.470167100000253,30000
+1104,24,30,1000,Latin Hypercube (hc),t.generation,0.022550400004547555,30000
+1104,24,30,1000,Latin Hypercube (hc),t.ic.calculate,24.92287999999826,30000
+1105,1,30,1000,Latin Hypercube (rnd),t.generation,0.0277155000003404,30000
+1105,1,30,1000,Latin Hypercube (rnd),t.ic.calculate,19.507349300001806,30000
+1106,2,30,1000,Latin Hypercube (rnd),t.generation,0.023925100002088584,30000
+1106,2,30,1000,Latin Hypercube (rnd),t.ic.calculate,28.22102889999951,30000
+1107,3,30,1000,Latin Hypercube (rnd),t.generation,0.02455280000140192,30000
+1107,3,30,1000,Latin Hypercube (rnd),t.ic.calculate,21.31090530000074,30000
+1108,4,30,1000,Latin Hypercube (rnd),t.generation,0.024389799997152295,30000
+1108,4,30,1000,Latin Hypercube (rnd),t.ic.calculate,22.151713500003098,30000
+1109,5,30,1000,Latin Hypercube (rnd),t.generation,0.02458949999709148,30000
+1109,5,30,1000,Latin Hypercube (rnd),t.ic.calculate,19.395685899995442,30000
+1110,6,30,1000,Latin Hypercube (rnd),t.generation,0.022657399997115135,30000
+1110,6,30,1000,Latin Hypercube (rnd),t.ic.calculate,25.340169400005834,30000
+1111,7,30,1000,Latin Hypercube (rnd),t.generation,0.02398640000319574,30000
+1111,7,30,1000,Latin Hypercube (rnd),t.ic.calculate,21.488438200001838,30000
+1112,8,30,1000,Latin Hypercube (rnd),t.generation,0.02624179999838816,30000
+1112,8,30,1000,Latin Hypercube (rnd),t.ic.calculate,24.933436499995878,30000
+1113,9,30,1000,Latin Hypercube (rnd),t.generation,0.022759300001780502,30000
+1113,9,30,1000,Latin Hypercube (rnd),t.ic.calculate,25.344514000003983,30000
+1114,10,30,1000,Latin Hypercube (rnd),t.generation,0.022173400000610854,30000
+1114,10,30,1000,Latin Hypercube (rnd),t.ic.calculate,27.793341299999156,30000
+1115,11,30,1000,Latin Hypercube (rnd),t.generation,0.024370099999941885,30000
+1115,11,30,1000,Latin Hypercube (rnd),t.ic.calculate,27.375988799998595,30000
+1116,12,30,1000,Latin Hypercube (rnd),t.generation,0.024326999999175314,30000
+1116,12,30,1000,Latin Hypercube (rnd),t.ic.calculate,30.76320140000462,30000
+1117,13,30,1000,Latin Hypercube (rnd),t.generation,0.02454970000690082,30000
+1117,13,30,1000,Latin Hypercube (rnd),t.ic.calculate,20.70150719999947,30000
+1118,14,30,1000,Latin Hypercube (rnd),t.generation,0.024050699998042546,30000
+1118,14,30,1000,Latin Hypercube (rnd),t.ic.calculate,19.570228399999905,30000
+1119,15,30,1000,Latin Hypercube (rnd),t.generation,0.024273399998492096,30000
+1119,15,30,1000,Latin Hypercube (rnd),t.ic.calculate,21.38337130000582,30000
+1120,16,30,1000,Latin Hypercube (rnd),t.generation,0.024854600000253413,30000
+1120,16,30,1000,Latin Hypercube (rnd),t.ic.calculate,18.332728900000802,30000
+1121,17,30,1000,Latin Hypercube (rnd),t.generation,0.024496500001987442,30000
+1121,17,30,1000,Latin Hypercube (rnd),t.ic.calculate,18.55582819999836,30000
+1122,18,30,1000,Latin Hypercube (rnd),t.generation,0.02411769999889657,30000
+1122,18,30,1000,Latin Hypercube (rnd),t.ic.calculate,19.52533360000234,30000
+1123,19,30,1000,Latin Hypercube (rnd),t.generation,0.02409050000278512,30000
+1123,19,30,1000,Latin Hypercube (rnd),t.ic.calculate,18.432907200003683,30000
+1124,20,30,1000,Latin Hypercube (rnd),t.generation,0.0240202000059071,30000
+1124,20,30,1000,Latin Hypercube (rnd),t.ic.calculate,24.44352179999987,30000
+1125,21,30,1000,Latin Hypercube (rnd),t.generation,0.028548200003569946,30000
+1125,21,30,1000,Latin Hypercube (rnd),t.ic.calculate,16.21779830000014,30000
+1126,22,30,1000,Latin Hypercube (rnd),t.generation,0.02567830000043614,30000
+1126,22,30,1000,Latin Hypercube (rnd),t.ic.calculate,15.341091999995115,30000
+1127,23,30,1000,Latin Hypercube (rnd),t.generation,0.023771299995132722,30000
+1127,23,30,1000,Latin Hypercube (rnd),t.ic.calculate,17.326591600001848,30000
+1128,24,30,1000,Latin Hypercube (rnd),t.generation,0.026288000000931788,30000
+1128,24,30,1000,Latin Hypercube (rnd),t.ic.calculate,19.6916893000016,30000
+1129,1,30,1000,Hilbert Curve,t.generation,1.251864600002591,30000
+1129,1,30,1000,Hilbert Curve,t.ic.calculate,19.692505099999835,30000
+1130,2,30,1000,Hilbert Curve,t.generation,1.407439599999634,30000
+1130,2,30,1000,Hilbert Curve,t.ic.calculate,27.989279499997792,30000
+1131,3,30,1000,Hilbert Curve,t.generation,1.2522815999982413,30000
+1131,3,30,1000,Hilbert Curve,t.ic.calculate,21.11340659999405,30000
+1132,4,30,1000,Hilbert Curve,t.generation,1.251511999995273,30000
+1132,4,30,1000,Hilbert Curve,t.ic.calculate,21.87190510000073,30000
+1133,5,30,1000,Hilbert Curve,t.generation,1.2448870000007446,30000
+1133,5,30,1000,Hilbert Curve,t.ic.calculate,19.319734599994263,30000
+1134,6,30,1000,Hilbert Curve,t.generation,1.3688601999965613,30000
+1134,6,30,1000,Hilbert Curve,t.ic.calculate,25.156328400000348,30000
+1135,7,30,1000,Hilbert Curve,t.generation,1.241457199997967,30000
+1135,7,30,1000,Hilbert Curve,t.ic.calculate,21.172845100001723,30000
+1136,8,30,1000,Hilbert Curve,t.generation,1.2498406000013347,30000
+1136,8,30,1000,Hilbert Curve,t.ic.calculate,24.75414639999508,30000
+1137,9,30,1000,Hilbert Curve,t.generation,1.3698443999965093,30000
+1137,9,30,1000,Hilbert Curve,t.ic.calculate,24.565593599996646,30000
+1138,10,30,1000,Hilbert Curve,t.generation,1.249774800002342,30000
+1138,10,30,1000,Hilbert Curve,t.ic.calculate,27.587604599997576,30000
+1139,11,30,1000,Hilbert Curve,t.generation,1.251202799998282,30000
+1139,11,30,1000,Hilbert Curve,t.ic.calculate,26.808788500005903,30000
+1140,12,30,1000,Hilbert Curve,t.generation,1.2475833000062266,30000
+1140,12,30,1000,Hilbert Curve,t.ic.calculate,30.30164810000133,30000
+1141,13,30,1000,Hilbert Curve,t.generation,1.361123900001985,30000
+1141,13,30,1000,Hilbert Curve,t.ic.calculate,20.648237900000822,30000
+1142,14,30,1000,Hilbert Curve,t.generation,1.2373957999952836,30000
+1142,14,30,1000,Hilbert Curve,t.ic.calculate,19.486813399998937,30000
+1143,15,30,1000,Hilbert Curve,t.generation,1.2548228000014205,30000
+1143,15,30,1000,Hilbert Curve,t.ic.calculate,21.267185499993502,30000
+1144,16,30,1000,Hilbert Curve,t.generation,1.2523982999991858,30000
+1144,16,30,1000,Hilbert Curve,t.ic.calculate,18.485622299995157,30000
+1145,17,30,1000,Hilbert Curve,t.generation,1.3805460000003222,30000
+1145,17,30,1000,Hilbert Curve,t.ic.calculate,18.49221899999975,30000
+1146,18,30,1000,Hilbert Curve,t.generation,1.2624486999993678,30000
+1146,18,30,1000,Hilbert Curve,t.ic.calculate,19.61317499999859,30000
+1147,19,30,1000,Hilbert Curve,t.generation,1.2532158000030904,30000
+1147,19,30,1000,Hilbert Curve,t.ic.calculate,18.388109699997585,30000
+1148,20,30,1000,Hilbert Curve,t.generation,1.3751046999968821,30000
+1148,20,30,1000,Hilbert Curve,t.ic.calculate,24.199405299994396,30000
+1149,21,30,1000,Hilbert Curve,t.generation,1.250408600004448,30000
+1149,21,30,1000,Hilbert Curve,t.ic.calculate,16.351410399998713,30000
+1150,22,30,1000,Hilbert Curve,t.generation,1.2680526000040118,30000
+1150,22,30,1000,Hilbert Curve,t.ic.calculate,15.655624699997134,30000
+1151,23,30,1000,Hilbert Curve,t.generation,1.2481496000036714,30000
+1151,23,30,1000,Hilbert Curve,t.ic.calculate,17.581348500003514,30000
+1152,24,30,1000,Hilbert Curve,t.generation,1.3698745999936364,30000
+1152,24,30,1000,Hilbert Curve,t.ic.calculate,19.895073700005014,30000
