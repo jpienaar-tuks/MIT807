@@ -1,0 +1,8 @@
+*.pdf
+*.zip
+*.bib
+*.bak
+*.pptx
+*.doc
+*.tmp
+*/__pycache__/
