@@ -2,9 +2,14 @@ import os, re
 import sqlite3
 import pandas as pd
 import matplotlib.pyplot as plt
+from cycler import cycler
 import seaborn as sns
 
 pattern = re.compile(r'([A-Za-z ]*)\(([a-z]*)\)')
+style_cycler = (cycler(color=['r','g','y','b']) +
+                cycler(linestyle=['-','--', ':', '-.']))
+plt.rc('axes', prop_cycle = style_cycler)
+
 def upcase(sampler):
     match = pattern.match(sampler)
     if match:
@@ -40,5 +45,5 @@ for chart in ['t.generation','t.total', 't.ic.calculate']:
     ax.set_xlabel('Sample ($n * d$)')
     ax.set_ylabel('Time (s)')
     fig.tight_layout()
-    fig.savefig(f'{chart}2.png', dpi=200)
+    fig.savefig(f'{chart}2.png', dpi=400)
     fig.show()
